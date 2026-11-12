@@ -1,0 +1,68 @@
+{
+  "run_token": "f27d1eb44194",
+  "actor_name": "y_combinator",
+  "actor_id": "CIHbQb2sgYrumBIIJ",
+  "apify_run_id": "gfptaOUaIUFHP5OHa",
+  "started_at": 994962.765,
+  "finished_at": 995150.453,
+  "item_count": 1,
+  "scoring_version": "1.0.0",
+  "score_summary": {
+    "Hot": 0,
+    "Hot-leaning Warm": 0,
+    "Warm": 0,
+    "Cold": 1
+  },
+  "items": [
+    {
+      "jobId": "98127",
+      "title": "Founding Research Scientist, Computer Vision (PhD)",
+      "url": "https://www.workatastartup.com/jobs/98127",
+      "companyName": "Rudus",
+      "companySlug": "rudus",
+      "companyUrl": "https://www.workatastartup.com/companies/rudus",
+      "companyTagline": "AI Takeoffs for Concrete",
+      "ycBatch": "P26",
+      "jobType": "Full-time",
+      "roleCategory": "Engineering",
+      "roleSubcategory": "Full stack",
+      "salaryRange": "$150K - $200K",
+      "salaryMin": 150000,
+      "salaryMax": 200000,
+      "salaryCurrency": "USD",
+      "equity": "0.30% - 2.00%",
+      "location": "San Francisco, CA, US / New York, NY, US",
+      "postedAgo": "",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fcode%3D8028178a-b740-4416-b036-cf88af74740e%26signup_job_id%3D98127&defaults%5Bemail%5D=search-f47bba19172bf24a%40placeholder.workatastartup.com&defaults%5Bfirst_name%5D&defaults%5Blast_name%5D&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=31346",
+      "experience": "Any (new grads ok)",
+      "visaSponsorship": "Will sponsor",
+      "description": "About Rudus is an AI-powered takeoff platform for structural and site concrete. We accelerate concrete takeoffs by 70%+ with AI trained specifically on structural and civil drawings- counting, measuring, and reading sheets so estimators can focus on winning bids. The Role You'll own the research behind our drawing-understanding stack: detecting structural and site elements on noisy real-world plan sets, pattern-matching footings and curb runs, interpreting schedules and cross-sheet details, and comparing drawing revisions. Your models ship into production and get evaluated by professional estimators on real bids — feedback loops measured in days, not review cycles. What You’ll Do Advance detection and autocomplete models for structural elements (footings, slabs, columns, walls) and site elements (curbs, paving, sidewalks, joint layouts) Build document-understanding systems for schedules, specs, and section details, including cross-sheet reasoning Solve geometry problems: auto-scale detection, boundary completion, smart exclusions, revision diffing Design training and eval pipelines on customer drawing data, improving accuracy project over project What We’re Looking For PhD (or equivalent research experience) in computer vision, ML, or a related field Track record turning research into working systems- strong Python required Experience with document AI, object detection, vectorized/CAD-like data, or multimodal LLMs Excited by messy real-world data over benchmark leaderboards",
+      "descriptionHtml": "<h3><strong>About</strong></h3>\n<p>Rudus is an AI-powered takeoff platform for structural and site concrete. We accelerate concrete takeoffs by 70%+ with AI trained specifically on structural and civil drawings- counting, measuring, and reading sheets so estimators can focus on winning bids.</p>\n<h3><strong>The Role</strong></h3>\n<p>You'll own the research behind our drawing-understanding stack: detecting structural and site elements on noisy real-world plan sets, pattern-matching footings and curb runs, interpreting schedules and cross-sheet details, and comparing drawing revisions. Your models ship into production and get evaluated by professional estimators on real bids — feedback loops measured in days, not review cycles.</p>\n<h3><strong>What You’ll Do</strong></h3>\n<ul>\n<li>Advance detection and autocomplete models for structural elements (footings, slabs, columns, walls) and site elements (curbs, paving, sidewalks, joint layouts)</li>\n<li>Build document-understanding systems for schedules, specs, and section details, including cross-sheet reasoning</li>\n<li>Solve geometry problems: auto-scale detection, boundary completion, smart exclusions, revision diffing</li>\n<li>Design training and eval pipelines on customer drawing data, improving accuracy project over project</li>\n</ul>\n<h3><strong>What We’re Looking For</strong></h3>\n<ul>\n<li>PhD (or equivalent research experience) in computer vision, ML, or a related field</li>\n<li>Track record turning research into working systems- strong Python required</li>\n<li>Experience with document AI, object detection, vectorized/CAD-like data, or multimodal LLMs</li>\n<li>Excited by messy real-world data over benchmark leaderboards</li>\n</ul>\n",
+      "companyDescription": "AI Takeoffs for Concrete",
+      "companyFounded": 2026,
+      "companyTeamSize": 2,
+      "companyStatus": "Active",
+      "companyLocation": "San Francisco",
+      "companyIndustry": "Real Estate and Construction -> Construction",
+      "companyLogo": "https://bookface-images.s3.amazonaws.com/small_logos/407f4a93871730524968180bcf20dd23fc9ce7b2.png",
+      "companyWebsite": "http://rudus.ai/",
+      "founders": [
+        {
+          "name": "Sahil Goel",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/d05423c9a5c0b64b5ab34a786ba4a222dd9a0880.jpg"
+        },
+        {
+          "name": "Rishi Pankhaniya",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/961651ff6f37710702f0fe5d815b77f2eb3f8ce5.jpg"
+        }
+      ],
+      "scrapedAt": "2026-09-20T18:48:51.154540+00:00",
+      "skills": [
+        "Python",
+        "Computer Vision"
+      ]
+    }
+  ]
+}

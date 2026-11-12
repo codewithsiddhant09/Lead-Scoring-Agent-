@@ -1,0 +1,70 @@
+{
+  "run_token": "8012c2d1a7d4",
+  "actor_name": "y_combinator",
+  "actor_id": "CIHbQb2sgYrumBIIJ",
+  "apify_run_id": "2kJv0UKbSFlQflFIC",
+  "started_at": 994576.734,
+  "finished_at": 994767.281,
+  "item_count": 1,
+  "scoring_version": "1.0.0",
+  "score_summary": {
+    "Hot": 0,
+    "Hot-leaning Warm": 0,
+    "Warm": 1,
+    "Cold": 0
+  },
+  "items": [
+    {
+      "jobId": "90945",
+      "title": "Senior Member of Technical Staff",
+      "url": "https://www.workatastartup.com/jobs/90945",
+      "companyName": "Bluejay",
+      "companySlug": "bluejay",
+      "companyUrl": "https://www.workatastartup.com/companies/bluejay",
+      "companyTagline": "Test, monitor, and improve your voice and chat AI agents",
+      "ycBatch": "P25",
+      "jobType": "Full-time",
+      "roleCategory": "Engineering",
+      "roleSubcategory": "Full stack",
+      "salaryRange": "$225K - $300K",
+      "salaryMin": 225000,
+      "salaryMax": 300000,
+      "salaryCurrency": "USD",
+      "equity": "0.01% - 0.20%",
+      "location": "San Francisco, CA, US",
+      "postedAgo": "",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fcode%3Da92f423b-0b0a-4bf6-a83a-8805443e3a11%26signup_job_id%3D90945&defaults%5Bemail%5D=search-b352be36a7992b39%40placeholder.workatastartup.com&defaults%5Bfirst_name%5D&defaults%5Blast_name%5D&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=30451",
+      "experience": "6+ years",
+      "visaSponsorship": "US citizen/visa only",
+      "description": "Bluejay is building the simulation, observability, and self-improvement layer for Voice AI agents. Rohan and Faraz left AWS and Microsoft, where they built critical infrastructure for MSFT Copilot and AWS Bedrock to start Bluejay. Bluejay’s mission is to be the trust layer between AI and humanity. The most challenging modality for AI is voice. They are starting by developing simulation, observability, and self-improvement infrastructure to accelerate the adoption of Voice AI to be the default medium of interaction between humans and technology. In just one year, Google, Doordash, public healthcare companies, public banks, most drive-through fast food chains, and corporations across 5 continents use Bluejay to understand and improve their Voice AI agents. We raised a 4m seed backed by Floodgate, PeakXV, and YC in 2025, and have been sustaining ourselves through our growth and revenue. We handle millions of calls a month, presenting challenging engineering problems to sustain real-time simulated conversations and production monitoring at scale. We are looking for experienced senior engineers with 6+ YOE who want to play a pivotal technical role in Bluejay’s team. We want senior, experienced engineers who obsess over the details, can lead a project’s technical execution, and have built high-traffic features at scale. We hold a high technical bar and expect proficiency across the stack, specifically in databases, AWS, and AI engineering. At Bluejay, you’ll be working with some of the largest companies in the world to test, monitor, and improve their Voice AI agents. You’ll be working with tech across the stack, and taking full ownership for your work. We are small team of 10 punching well above our weight, and expect you to do so as well! Our (beautiful) office, The Sky, is located in Union Square, San Francisco. Here are some skills that we are looking for: DevX Ultra-customized Claude code Optimized developer setup (skills, mcp integrations, worktrees, and immense task parellelization) Observability experience (Sentry, Posthog, Grafana, Datadog) Backend Python Supabase, Clickhouse AWS (a lot of it) Redis Voice AI: LiveKit, Deepgram, Cartesia, Elevenlabs, Gemini, etc Websockets CI/CD chops Desirable Quirks SUPER OPINIONATED about design decisions DEEP INTUITION from previous experience designing systems optimized developer workflow (what is your workflow for 100x engineering?) Desirable Experiences (any of these will pique our interest) Has worked at a company that has handled immense scale as an IC or Senior SWE Has been a technical lead, and handled projects end to end What You’ll Do Architect and develop systems that simulate, analyze, and evaluate conversational AI agents, including voice and multimodal systems. Design resilient, scalable infrastructure using AWS (Lambda, EC2, Websockets, SIP) to handle millions of real-time conversations. Develop algorithms and pipelines that surface insights, detect failure modes, and ensure agents are safe, reliable, and aligned with human intent. Work on-site with customers. You’ll be building, selling, and deploying the product to real customers.",
+      "descriptionHtml": "<h3>Bluejay is building the simulation, observability, and self-improvement layer for Voice AI agents.</h3>\n<p>Rohan and Faraz left AWS and Microsoft, where they built critical infrastructure for MSFT Copilot and AWS Bedrock to start Bluejay. Bluejay’s mission is to be the trust layer between AI and humanity. The most challenging modality for AI is voice. They are starting by developing simulation, observability, and self-improvement infrastructure to accelerate the adoption of Voice AI to be the default medium of interaction between humans and technology.</p>\n<p>In just one year, Google, Doordash, public healthcare companies, public banks, most drive-through fast food chains, and corporations across 5 continents use Bluejay to understand and improve their Voice AI agents. We raised a 4m seed backed by Floodgate, PeakXV, and YC in 2025, and have been sustaining ourselves through our growth and revenue. We handle millions of calls a month, presenting challenging engineering problems to sustain real-time simulated conversations and production monitoring at scale.</p>\n<p>We are looking for experienced senior engineers with <strong>6+ YOE</strong> who want to play a pivotal technical role in Bluejay’s team. We want senior, experienced engineers who obsess over the details, can lead a project’s technical execution, and have built high-traffic features at scale. We hold a high technical bar and expect proficiency across the stack, specifically in databases, AWS, and AI engineering.</p>\n<p>At Bluejay, you’ll be working with some of the <strong>largest companies in the world</strong> to test, monitor, and improve their Voice AI agents. You’ll be working with tech across the stack, and taking full ownership for your work. We are small team of 10 punching well above our weight, and expect you to do so as well!</p>\n<p>Our (beautiful) office, The Sky, is located in Union Square, San Francisco.</p>\n<p>Here are some skills that we are looking for:</p>\n<h3>DevX</h3>\n<ul>\n<li>Ultra-customized Claude code</li>\n<li>Optimized developer setup (skills, mcp integrations, worktrees, and immense task parellelization)</li>\n<li>Observability experience (Sentry, Posthog, Grafana, Datadog)</li>\n</ul>\n<h3>Backend</h3>\n<ul>\n<li><strong>Python</strong></li>\n<li><strong>Supabase, Clickhouse</strong></li>\n<li><strong>AWS (a lot of it)</strong></li>\n<li>Redis</li>\n<li>Voice AI: LiveKit, Deepgram, Cartesia, Elevenlabs, Gemini, etc</li>\n<li>Websockets</li>\n<li>CI/CD chops</li>\n</ul>\n<h3>Desirable Quirks</h3>\n<ul>\n<li>SUPER OPINIONATED about design decisions</li>\n<li>DEEP INTUITION from previous experience designing systems</li>\n<li>optimized developer workflow (what is your workflow for 100x engineering?)</li>\n</ul>\n<h3>Desirable Experiences (any of these will pique our interest)</h3>\n<ul>\n<li>Has worked at a company that has handled immense scale as an IC or Senior SWE</li>\n<li>Has been a technical lead, and handled projects end to end</li>\n</ul>\n<h3>What You’ll Do</h3>\n<ul>\n<li>Architect and develop systems that simulate, analyze, and evaluate conversational AI agents, including voice and multimodal systems.</li>\n<li>Design resilient, scalable infrastructure using AWS (Lambda, EC2, Websockets, SIP) to handle millions of real-time conversations.</li>\n<li>Develop algorithms and pipelines that surface insights, detect failure modes, and ensure agents are safe, reliable, and aligned with human intent.</li>\n<li><strong>Work on-site with customers. You’ll be building, selling, and deploying the product to real customers.</strong></li>\n</ul>\n",
+      "companyDescription": "Test, monitor, and improve your voice and chat AI agents",
+      "companyFounded": 2025,
+      "companyTeamSize": 10,
+      "companyStatus": "Active",
+      "companyLocation": "San Francisco",
+      "companyIndustry": "B2B",
+      "companyLogo": "https://bookface-images.s3.amazonaws.com/small_logos/1da0f5ca2648eccf749e97a890ad3887f0dc7eb7.png",
+      "companyWebsite": "https://getbluejay.ai/",
+      "founders": [
+        {
+          "name": "Faraz Siddiqi",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/b2af54b0ce62fa80c6255e0d220cd49d830f8801.jpg"
+        },
+        {
+          "name": "Rohan Vasishth",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/5b47d7609de610c4a49d9bf70c7782bd842083d1.jpg"
+        }
+      ],
+      "scrapedAt": "2026-09-20T18:42:22.718790+00:00",
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "PostgreSQL",
+        "Python",
+        "SQL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+# scoring_config.yaml
+# Single source of truth for lead-scoring weights, thresholds, and tier policy.
+# Bump `version` whenever you change anything below — every persisted lead_scores row
+# records the version it was produced under so calibration analysis stays attributable.
+
+version: "1.1.0"
+
+# ---- Axis weights (must sum to 1.0) ------------------------------------------
+weights:
+  authority: 0.30
+  fit: 0.30
+  intent: 0.25
+  reachability: 0.15
+
+# ---- Tier thresholds (applied to blended_score) ----------------------------
+# Read top-down: the first matching band wins.
+# Hot / Hot-leaning Warm / Warm / Cold give a 4-step gradient plus a confidence band
+# so borderline leads aren't auto-bumped to Hot.
+tiers:
+  hot_min: 65                 # blended_score >= 65  -> Hot
+  hot_lean_min: 55            # blended_score >= 55  -> Hot-leaning Warm
+  warm_min: 45                # blended_score >= 45  -> Warm
+  # below 45 -> Cold
+
+# ---- Hard rules (override the blended score) --------------------------------
+fit_floor: 30                 # fit_score below this -> Cold regardless of other axes
+disqualified_tier: "Cold"     # forced tier when disqualified
+
+# ---- Authority function multiplier ------------------------------------------
+# Applied to the LLM's base authority score. Reduces authority for non-technical
+# C-suite and non-senior roles. Keep this in sync with the doc in section 2.1.
+authority_multipliers:
+  general_management: 1.00    # Founder / CEO / MD / Owner / President
+  technical_leadership: 0.85  # CTO / VP Eng / Head of Product
+  ops_director: 0.80          # Operations / Director-level (non-technical)
+  revenue_leadership: 0.50    # CMO / CRO / VP Sales / BD / Partnerships
+  individual_contributor: 0.20  # IC / Analyst / Junior
+
+# ---- Outreach policy --------------------------------------------------------
+outreach:
+  auto_dispatch_tiers:
+    - "Hot"
+    - "Hot-leaning Warm"
+  manual_review_tiers:
+    - "Warm"
+  never_outreach_tiers:
+    - "Cold"
+  never_outreach_competitor: true
+
+# ---- Model ------------------------------------------------------------------
+model:
+  name: "claude-sonnet-4-6"
+  max_tokens: 600
+  temperature: 0.0
+  batch_size_threshold: 20    # use Message Batches API when >= this many leads
+
+# ---- Retry policy -----------------------------------------------------------
+retry:
+  max_attempts: 4
+  initial_backoff_seconds: 1.0
+  max_backoff_seconds: 16.0

@@ -1,0 +1,164 @@
+{
+  "run_token": "c4692aec1e5d",
+  "actor_name": "y_combinator",
+  "actor_id": "CIHbQb2sgYrumBIIJ",
+  "apify_run_id": "oRcow6Vw1Loewe6k6",
+  "started_at": 993209.406,
+  "finished_at": 993389.093,
+  "item_count": 3,
+  "scoring_version": "1.0.0",
+  "score_summary": {
+    "Hot": 0,
+    "Hot-leaning Warm": 0,
+    "Warm": 0,
+    "Cold": 3
+  },
+  "items": [
+    {
+      "jobId": "61046",
+      "title": "Software Engineer",
+      "url": "https://www.workatastartup.com/jobs/61046",
+      "companyName": "Clad",
+      "companySlug": "clad",
+      "companyUrl": "https://www.workatastartup.com/companies/clad",
+      "companyTagline": "Project management software for building infrastructure.",
+      "ycBatch": "W23",
+      "jobType": "Full-time",
+      "roleCategory": "Engineering",
+      "roleSubcategory": "Full stack",
+      "salaryRange": "$180K - $250K",
+      "salaryMin": 180000,
+      "salaryMax": 250000,
+      "salaryCurrency": "USD",
+      "equity": "0.25% - 0.80%",
+      "location": "New York, NY, US",
+      "postedAgo": "",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fcode%3D96d7bc86-4f7a-4db9-99b9-cf4e95fe3e4e%26signup_job_id%3D61046&defaults%5Bemail%5D=search-b555be59e043295b%40placeholder.workatastartup.com&defaults%5Bfirst_name%5D&defaults%5Blast_name%5D&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28070",
+      "experience": "6+ years",
+      "visaSponsorship": "US citizen/visa only",
+      "description": "About Clad Clad is project management software purpose-built for infrastructure. The world is rebuilding its internet and power infrastructure, accelerated by demand from AI and the shift to renewables. The utilities, internet companies, and contractors tasked with this work are struggling to meet this demand. We’re building the AI-native operating system to help these companies build faster. Clad unifies operations and finance to automate project tracking, payments, and permitting. With Clad, contractors grow faster and improve their margins. Operators execute smoothly. And everyone can focus on what’s most important - building. About the role A product-minded, full stack engineer. You'll be responsible for building out every aspect of Clad's product. You’ll shape not just the code, but also the direction of the business - informing how we work, the products we build, and the team that we'll assemble to achieve our vision. What we’re looking for Craft: You care about the UX you're building, the code you're writing, the system you're modeling, etc. Ownership: You want to talk to the customer -&gt; define the product -&gt; sketch the UI -&gt; do the modeling -&gt; write the code -&gt; QA the feature -&gt; make sure it works for the customer. We work collaboratively, so you're never on an island, but are looking for ‘full stack’ owners in the truest sense of the word. Business Thinking: You make decisions as if you're an owner of the business, because you are one! Learning &amp; Teaching: You like to figure out better ways to do things and share them with the team. You like to learn from those around you, regardless of job function or experience. The details 5+ years of runway, raised $2.7M from Y Combinator, Better Tomorrow Ventures, and others. Most of this is still in the bank. 9 person team, founded by Jason (McKinsey, Instagram) and Daniel (Cash App, PagerDuty) In-person in NYC Our stack - full stack typescript using React/Remix",
+      "descriptionHtml": "<p><strong>About Clad</strong></p>\n<p>Clad is project management software purpose-built for infrastructure.</p>\n<p>The world is rebuilding its internet and power infrastructure, accelerated by demand from AI and the shift to renewables.</p>\n<p>The utilities, internet companies, and contractors tasked with this work are struggling to meet this demand.</p>\n<p>We’re building the AI-native operating system to help these companies build faster. Clad unifies operations and finance to automate project tracking, payments, and permitting.</p>\n<p>With Clad, contractors grow faster and improve their margins. Operators execute smoothly. And everyone can focus on what’s most important - building.</p>\n<p><strong>About the role</strong></p>\n<p>A product-minded, full stack engineer.</p>\n<p>You'll be responsible for building out every aspect of Clad's product. You’ll shape not just the code, but also the direction of the business - informing how we work, the products we build, and the team that we'll assemble to achieve our vision.</p>\n<p><strong>What we’re looking for</strong></p>\n<ul>\n<li>\n<strong>Craft:</strong> You care about the UX you're building, the code you're writing, the system you're modeling, etc.</li>\n<li>\n<strong>Ownership:</strong> You want to talk to the customer -&gt; define the product -&gt; sketch the UI -&gt; do the modeling -&gt; write the code -&gt; QA the feature -&gt; make sure it works for the customer. We work collaboratively, so you're never on an island, but are looking for ‘full stack’ owners in the truest sense of the word.</li>\n<li>\n<strong>Business Thinking:</strong> You make decisions as if you're an owner of the business, because you are one!</li>\n<li>\n<strong>Learning &amp; Teaching:</strong> You like to figure out better ways to do things and share them with the team. You like to learn from those around you, regardless of job function or experience.</li>\n</ul>\n<p><strong>The details</strong></p>\n<ul>\n<li>5+ years of runway, raised $2.7M from Y Combinator, Better Tomorrow Ventures, and others. Most of this is still in the bank.</li>\n<li>9 person team, founded by <a href=\"https://www.linkedin.com/in/jasonrudin/\">Jason</a> (McKinsey, Instagram) and <a href=\"https://www.linkedin.com/in/danieleager93/\">Daniel</a> (Cash App, PagerDuty)</li>\n<li>In-person in NYC</li>\n<li>Our stack - full stack typescript using React/Remix</li>\n</ul>\n",
+      "companyDescription": "Project management software for building infrastructure.",
+      "companyFounded": 2022,
+      "companyTeamSize": 7,
+      "companyStatus": "Active",
+      "companyLocation": "New York City, NY",
+      "companyIndustry": "Real Estate and Construction -> Construction",
+      "companyLogo": "https://bookface-images.s3.amazonaws.com/small_logos/5ab0e3d7b0de12617818a986b541a5e524c146ae.png",
+      "companyWebsite": "https://withclad.com/",
+      "founders": [
+        {
+          "name": "Jason Rudin",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/c7adb75cd4b5f53965e972f582139018100f49ff.jpg"
+        }
+      ],
+      "scrapedAt": "2026-09-20T18:19:33.560118+00:00",
+      "skills": []
+    },
+    {
+      "jobId": "94205",
+      "title": "Account Executive",
+      "url": "https://www.workatastartup.com/jobs/94205",
+      "companyName": "Clad",
+      "companySlug": "clad",
+      "companyUrl": "https://www.workatastartup.com/companies/clad",
+      "companyTagline": "Project management software for building infrastructure.",
+      "ycBatch": "W23",
+      "jobType": "Full-time",
+      "roleCategory": "Sales",
+      "roleSubcategory": "",
+      "salaryRange": "$120K - $140K",
+      "salaryMin": 120000,
+      "salaryMax": 140000,
+      "salaryCurrency": "USD",
+      "equity": "",
+      "location": "New York, NY, US",
+      "postedAgo": "",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fcode%3D96d7bc86-4f7a-4db9-99b9-cf4e95fe3e4e%26signup_job_id%3D94205&defaults%5Bemail%5D=search-b555be59e043295b%40placeholder.workatastartup.com&defaults%5Bfirst_name%5D&defaults%5Blast_name%5D&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=28070",
+      "experience": "1+ years",
+      "visaSponsorship": "US citizen/visa only",
+      "description": "About Clad Clad is construction software for building infrastructure. We help contractors track their work and automate their back office. The world is rebuilding its internet and power infrastructure, accelerated by demand from AI. The utilities, internet companies, and contractors tasked with this work are struggling to scale to meet this demand. Clad is the AI-native operating system to help these companies scale. We unify operations and finance to automate project tracking, payments, and permitting. We have &gt;$1M ARR, growth is accelerating, and have years of runway ahead. And we’re just getting started. About the role You’ll join Clad as an Account Executive to own the GTM for our wedge product, Clad Locates. This is an outbound-heavy closing role. Specifically, you will - Identify, qualify, and close new opportunities - you will own account research, cold calling, and closing for our AI-native wedge product, Clad Locates. Support Clad GTM - The scope of this role is bounded solely by your ambition . you will help prepare for conferences, organize events, and help test hypotheses for new outbound channels (e.g., field sales, content marketing, referrals). Locates has the potential to be a multi-million dollar product line in the next 12 months. You will be the one to make it happen. Your first 90 days - Month 1 - You’ll ramp to booking &gt;10 meetings per week. You’ll learn the product cold, and be comfortable getting to meetings. Month 2 - You’ll have closed your first few deals yourself, and can run the entire Locates GTM playbook yourself (account research, cold calling, demos, and closing). Month 3 - You’ll become a true owner of the Locates business - identifying new ways to scale quickly, running more GTM tests, while continuing to close faster and larger deals. Compensation Salary + Commission: $120 - 140k OTE This role offers equity as well About you We are looking for someone who is smart, strategic, and hungry. We need someone who is a crystal-clear communicator, on top the details, and eager to book and close meetings. Drive &amp; Agency - You are motivated to push through challenging or difficult tasks, and don’t give up in the face of rejection or boredom. You are a true self-starter and are hungry to creatively solve problems, even when there’s no clear answer. Quick to call - You can quickly build empathy with people in construction. For our customers, this is going to involve a lot of phone calls. Learning orientation - You are constantly looking to up your own game. And you are fundamentally curious about our customers - how they work, what problems they have, and where we can help Founder Mindset - You’ll take full ownership for the commercial success of our Locates product. You treat this like a business that you own - knowing the numbers cold, not making excuses, and being resourceful - doing whatever it takes to grow More about the product (Clad Locates) Before a contractor can dig underground, they must alert the utilities in the area where they will be digging. This is to make sure contractors don’t hit anything, like a water or gas pipe. To notify the utilities, contractors submit a ‘utility locate request’ to a centralized state portal that then notifies each utility in the planned construction area. Submitting and tracking these tickets is time consuming, and is admin work that no contractor enjoys. So we built Clad Locates, a tool that uses AI to automate the process of submitting and tracking 811 tickets. Our early tests for this product have been fantastic - &gt;20% call connect rates, ~50% meeting booked rates, and strong excitement for the tool. We’re ready to scale the tool to more contractors as a new line of business and also a ‘wedge’ for our core project management product.",
+      "descriptionHtml": "<p><strong>About Clad</strong></p>\n<p>Clad is construction software for building infrastructure. We help contractors track their work and automate their back office.</p>\n<p>The world is rebuilding its internet and power infrastructure, accelerated by demand from AI. The utilities, internet companies, and contractors tasked with this work are struggling to scale to meet this demand.</p>\n<p>Clad is the AI-native operating system to help these companies scale. We unify operations and finance to automate project tracking, payments, and permitting.</p>\n<p>We have &gt;$1M ARR, growth is accelerating, and have years of runway ahead. And we’re just getting started.</p>\n<p><strong>About the role</strong></p>\n<p>You’ll join Clad as an Account Executive to own the GTM for our wedge product, Clad Locates. This is an outbound-heavy closing role. Specifically, you will -</p>\n<ol>\n<li>\n<strong>Identify, qualify, and close new opportunities</strong>- you will own account research, cold calling, and closing for our AI-native wedge product, Clad Locates.</li>\n<li>\n<strong>Support Clad GTM</strong> - <strong>The scope of this role is bounded solely by your ambition</strong>. you will help prepare for conferences, organize events, and help test hypotheses for new outbound channels (e.g., field sales, content marketing, referrals).</li>\n</ol>\n<p><strong>Locates has the potential to be a multi-million dollar product line in the next 12 months. You will be the one to make it happen.</strong> <strong>Your first 90 days -</strong></p>\n<ol>\n<li>\n<strong>Month 1</strong> - You’ll ramp to booking &gt;10 meetings per week. You’ll learn the product cold, and be comfortable getting to meetings.</li>\n<li>\n<strong>Month 2</strong> - You’ll have closed your first few deals yourself, and can run the entire Locates GTM playbook yourself (account research, cold calling, demos, and closing).</li>\n<li>\n<strong>Month 3</strong> - You’ll become a true owner of the Locates business - identifying new ways to scale quickly, running more GTM tests, while continuing to close faster and larger deals.</li>\n</ol>\n<p><strong>Compensation</strong></p>\n<p>Salary + Commission: $120 - 140k OTE</p>\n<p>This role offers equity as well</p>\n<p><strong>About you</strong></p>\n<p>We are looking for someone who is smart, strategic, and hungry. We need someone who is a crystal-clear communicator, on top the details, and eager to book and close meetings.</p>\n<ul>\n<li>\n<strong>Drive &amp; Agency</strong> - You are motivated to push through challenging or difficult tasks, and don’t give up in the face of rejection or boredom. You are a true self-starter and are hungry to creatively solve problems, even when there’s no clear answer.</li>\n<li>\n<strong>Quick to call</strong> - You can quickly build empathy with people in construction. For our customers, this is going to involve a lot of phone calls.</li>\n<li>\n<strong>Learning orientation -</strong> You are constantly looking to up your own game. And you are fundamentally curious about our customers - how they work, what problems they have, and where we can help </li>\n<li>\n<strong>Founder Mindset -</strong> You’ll take full ownership for the commercial success of our Locates product. You treat this like a business that you own - knowing the numbers cold, not making excuses, and being resourceful - doing whatever it takes to grow</li>\n</ul>\n<p><strong>More about the product (Clad Locates)</strong></p>\n<p>Before a contractor can dig underground, they must alert the utilities in the area where they will be digging. This is to make sure contractors don’t hit anything, like a water or gas pipe.</p>\n<p>To notify the utilities, contractors submit a ‘utility locate request’ to a centralized state portal that then notifies each utility in the planned construction area.</p>\n<p>Submitting and tracking these tickets is time consuming, and is admin work that no contractor enjoys. So we built Clad Locates, a tool that uses AI to automate the process of submitting and tracking 811 tickets.</p>\n<p>Our early tests for this product have been fantastic - &gt;20% call connect rates, ~50% meeting booked rates, and strong excitement for the tool. We’re ready to scale the tool to more contractors as a new line of business and also a ‘wedge’ for our core project management product.</p>\n",
+      "companyDescription": "Project management software for building infrastructure.",
+      "companyFounded": 2022,
+      "companyTeamSize": 7,
+      "companyStatus": "Active",
+      "companyLocation": "New York City, NY",
+      "companyIndustry": "Real Estate and Construction -> Construction",
+      "companyLogo": "https://bookface-images.s3.amazonaws.com/small_logos/5ab0e3d7b0de12617818a986b541a5e524c146ae.png",
+      "companyWebsite": "https://withclad.com/",
+      "founders": [
+        {
+          "name": "Jason Rudin",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/c7adb75cd4b5f53965e972f582139018100f49ff.jpg"
+        }
+      ],
+      "scrapedAt": "2026-09-20T18:19:33.560266+00:00",
+      "skills": []
+    },
+    {
+      "jobId": "110833",
+      "title": "Product Design Intern",
+      "url": "https://www.workatastartup.com/jobs/110833",
+      "companyName": "Retell AI",
+      "companySlug": "retell-ai",
+      "companyUrl": "https://www.workatastartup.com/companies/retell-ai",
+      "companyTagline": "Supercharge Your Contact Center Operations with AI Phone Agents",
+      "ycBatch": "W24",
+      "jobType": "Internship",
+      "roleCategory": "Operations",
+      "roleSubcategory": "",
+      "salaryRange": "$3.5K - $5K / monthly",
+      "salaryMin": 3000,
+      "salaryMax": 5000,
+      "salaryCurrency": "USD",
+      "equity": "",
+      "location": "San Francisco Bay Area",
+      "postedAgo": "",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fcode%3D96d7bc86-4f7a-4db9-99b9-cf4e95fe3e4e%26signup_job_id%3D110833&defaults%5Bemail%5D=search-b555be59e043295b%40placeholder.workatastartup.com&defaults%5Bfirst_name%5D&defaults%5Blast_name%5D&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=29441",
+      "experience": "",
+      "visaSponsorship": "US citizen/visa only",
+      "description": "📍 In-Person Internship — Redwood City, CA This is an on-site internship. You’ll work alongside our founders, product, design, and engineering teams in our Redwood City office to build and launch AI products together. Type: Paid Internship Start Date: ASAP Eligibility: Current Student or Recent Graduate (Bay Area Only, No Relocation provided) ABOUT RETELL AI Retell AI is using first-principles thinking to reimagine the call center with cutting-edge voice AI. Thousands of companies now use Retell’s AI voice agents to handle sales, support, and logistics calls that once required large teams of human agents. Backed by Y Combinator, Alt Capital, and other leading investors, we’ve scaled to $80M in ARR with a team of 50, up from $5M at the start of 2025, and are now valued at over $1.5B. Our vision for 2026 is to build a modern CX platform where entire contact centers are powered by AI. Instead of basic automation that needs constant human tuning, we’re creating intelligent AI “workers” that act as frontline agents, QA analysts, and managers, continuously executing, monitoring, and improving every customer interaction. We’re growing fast and looking for ambitious builders who want to tackle hard technical problems, move quickly, and have a real impact on one of the fastest-growing voice AI companies in the world. Let’s build the future together. Recent recognition: No. 1 Best Places to Work in the Bay Area, San Francisco Business Times 2026 Top 50 AI Apps, a16z (2025) #3 Fastest-Growing Software Company, G2 Best Software Awards 2026 Best Agentic AI Software, G2 Best Software Awards 2026 #4 Fastest-Growing Software Vendor, Brex Benchmark 2025 Enterprise Tech 30 Class of 2026, Nasdaq &amp; Wing VC Top-Ranked Startup, Lean AI Leaderboard Backed by Y Combinator ABOUT THE ROLE Let’s build a beautiful product for Retell. Retell is building infrastructure and tools that power real-time AI voice agents used by fast-growing companies. We care deeply about making complex, technical workflows feel clear, intuitive, and thoughtfully designed. As a Product Designer Intern at Retell, you’ll work closely with our designer, engineers, and founders to bring product ideas to life. You’ll take ownership of scoped design projects, moving from early explorations and prototypes to polished experiences that reach real customers. This is a hands-on opportunity to develop your product thinking, strengthen your visual craft, and learn how great design gets shipped, with guidance and feedback from the team. KEY RESPONSIBILITIES Design user flows and interfaces for building, testing, and managing AI voice agents, making complex interactions easier to understand and navigate. Take scoped projects from initial concepts and wireframes to polished designs, incorporating feedback along the way. Create interactive prototypes in Figma to communicate ideas, explore alternatives, and refine interactions. Work side-by-side with engineers to ship features, clarify edge cases, and ensure the finished experience reflects the design. Identify UX friction and visual inconsistencies, and propose thoughtful, practical improvements. Contribute reusable components, patterns, and documentation to Retell’s design system. Hold a high bar for craft, paying attention to typography, spacing, hierarchy, interaction states, and consistency. YOU MIGHT THRIVE IF You’re a current student or recent graduate in design, HCI, or a related field, or have equivalent practical experience. You have a portfolio that demonstrates product thinking, visual craft, and clear design decisions. Class projects, personal projects, and previous internship work all count. You’re comfortable using Figma to create interfaces, reusable components, and interactive prototypes. You have a strong sense of usability, hierarchy, and visual clarity. You’re detail-oriented and care deeply about polish and consistency. You can explain your decisions, welcome feedback, and iterate thoughtfully. You take initiative, ask good questions, and feel comfortable working through ambiguity. You’re excited about AI and enjoy collaborating closely with designers, engineers, and founders. Why Retell? Work directly with the founders and product team. Get a front-row seat to how one of the fastest-growing AI infrastructure startups builds products. Own meaningful projects from day one, not busy work. Learn how world-class AI products are launched, documented, and continuously improved. See your work impact thousands of developers and enterprise customers. If you love building systems, making products easier to use, and want to accelerate your career in product, we’d love to meet you. JOB DETAILS Cash: $3,500 - $5,000 per month Type: Full-time paid internship Location: Redwood City, CA, US — On-site Student Visas: Can support OPT/CPT requirements INTERVIEW PROCESS Recruiter Intro Call (15 min) Background, motivation, availability, and role alignment. Design First Round (30 min) Portfolio walkthrough and discussion of your design decisions and individual contributions. Academic and personal projects are welcome. Design Final Round (45 min) Live UX question or a brief design exercise, with a choice between the two. Focus on UX thinking and UI execution.",
+      "descriptionHtml": "<p><strong>📍 In-Person Internship — Redwood City, CA</strong><br>\nThis is an <strong>on-site</strong> internship. You’ll work alongside our founders, product, design, and engineering teams in our Redwood City office to build and launch AI products together.<br>\n<strong>Type:</strong> Paid Internship<br>\n<strong>Start Date:</strong> ASAP<br>\n<strong>Eligibility:</strong> Current Student or Recent Graduate (Bay Area Only, No Relocation provided)</p>\n<p> </p>\n<h2>ABOUT RETELL AI</h2>\n<p>Retell AI is using first-principles thinking to reimagine the call center with cutting-edge voice AI. Thousands of companies now use Retell’s AI voice agents to handle sales, support, and logistics calls that once required large teams of human agents. Backed by Y Combinator, Alt Capital, and other leading investors, we’ve scaled to $80M in ARR with a team of 50, up from $5M at the start of 2025, and are now valued at over $1.5B.</p>\n<p>Our vision for 2026 is to build a modern CX platform where entire contact centers are powered by AI. Instead of basic automation that needs constant human tuning, we’re creating intelligent AI “workers” that act as frontline agents, QA analysts, and managers, continuously executing, monitoring, and improving every customer interaction.</p>\n<p>We’re growing fast and looking for ambitious builders who want to tackle hard technical problems, move quickly, and have a real impact on one of the fastest-growing voice AI companies in the world.</p>\n<p>Let’s build the future together.</p>\n<p><strong>Recent recognition:</strong></p>\n<ul>\n<li>\n<p>No. 1 Best Places to Work in the Bay Area, San Francisco Business Times 2026</p>\n</li>\n<li>\n<p>Top 50 AI Apps, a16z (2025)</p>\n</li>\n<li>\n<p>#3 Fastest-Growing Software Company, G2 Best Software Awards 2026</p>\n</li>\n<li>\n<p>Best Agentic AI Software, G2 Best Software Awards 2026</p>\n</li>\n<li>\n<p>#4 Fastest-Growing Software Vendor, Brex Benchmark 2025</p>\n</li>\n<li>\n<p>Enterprise Tech 30 Class of 2026, Nasdaq &amp; Wing VC</p>\n</li>\n<li>\n<p>Top-Ranked Startup, Lean AI Leaderboard</p>\n</li>\n<li>\n<p>Backed by Y Combinator</p>\n</li>\n</ul>\n<h2>ABOUT THE ROLE</h2>\n<p>Let’s build a beautiful product for Retell.</p>\n<p>Retell is building infrastructure and tools that power real-time AI voice agents used by fast-growing companies. We care deeply about making complex, technical workflows feel clear, intuitive, and thoughtfully designed.</p>\n<p>As a <strong>Product Designer Intern</strong> at Retell, you’ll work closely with our designer, engineers, and founders to bring product ideas to life. You’ll take ownership of scoped design projects, moving from early explorations and prototypes to polished experiences that reach real customers.</p>\n<p>This is a hands-on opportunity to develop your product thinking, strengthen your visual craft, and learn how great design gets shipped, with guidance and feedback from the team.</p>\n<h2>KEY RESPONSIBILITIES</h2>\n<ul>\n<li>\n<p>Design user flows and interfaces for building, testing, and managing AI voice agents, making complex interactions easier to understand and navigate.</p>\n</li>\n<li>\n<p>Take scoped projects from initial concepts and wireframes to polished designs, incorporating feedback along the way.</p>\n</li>\n<li>\n<p>Create interactive prototypes in Figma to communicate ideas, explore alternatives, and refine interactions.</p>\n</li>\n<li>\n<p>Work side-by-side with engineers to ship features, clarify edge cases, and ensure the finished experience reflects the design.</p>\n</li>\n<li>\n<p>Identify UX friction and visual inconsistencies, and propose thoughtful, practical improvements.</p>\n</li>\n<li>\n<p>Contribute reusable components, patterns, and documentation to Retell’s design system.</p>\n</li>\n<li>\n<p>Hold a high bar for craft, paying attention to typography, spacing, hierarchy, interaction states, and consistency.</p>\n</li>\n</ul>\n<h2>YOU MIGHT THRIVE IF</h2>\n<ul>\n<li>\n<p>You’re a current student or recent graduate in design, HCI, or a related field, or have equivalent practical experience.</p>\n</li>\n<li>\n<p>You have a portfolio that demonstrates product thinking, visual craft, and clear design decisions. Class projects, personal projects, and previous internship work all count.</p>\n</li>\n<li>\n<p>You’re comfortable using Figma to create interfaces, reusable components, and interactive prototypes.</p>\n</li>\n<li>\n<p>You have a strong sense of usability, hierarchy, and visual clarity.</p>\n</li>\n<li>\n<p>You’re detail-oriented and care deeply about polish and consistency.</p>\n</li>\n<li>\n<p>You can explain your decisions, welcome feedback, and iterate thoughtfully.</p>\n</li>\n<li>\n<p>You take initiative, ask good questions, and feel comfortable working through ambiguity.</p>\n</li>\n<li>\n<p>You’re excited about AI and enjoy collaborating closely with designers, engineers, and founders.</p>\n</li>\n</ul>\n<h2><strong>Why Retell?</strong></h2>\n<ul>\n<li>\n<p>Work directly with the founders and product team.</p>\n</li>\n<li>\n<p>Get a front-row seat to how one of the fastest-growing AI infrastructure startups builds products.</p>\n</li>\n<li>\n<p>Own meaningful projects from day one, not busy work.</p>\n</li>\n<li>\n<p>Learn how world-class AI products are launched, documented, and continuously improved.</p>\n</li>\n<li>\n<p>See your work impact thousands of developers and enterprise customers.</p>\n</li>\n</ul>\n<p>If you love building systems, making products easier to use, and want to accelerate your career in product, we’d love to meet you.</p>\n<h2>JOB DETAILS</h2>\n<ul>\n<li>\n<p><strong>Cash:</strong> $3,500 - $5,000 per month</p>\n</li>\n<li>\n<p><strong>Type:</strong> Full-time paid internship</p>\n</li>\n<li>\n<p><strong>Location:</strong> Redwood City, CA, US — On-site</p>\n</li>\n<li>\n<p><strong>Student Visas:</strong> Can support OPT/CPT requirements</p>\n</li>\n</ul>\n<p> </p>\n<h2>INTERVIEW PROCESS</h2>\n<ol>\n<li>\n<p><strong>Recruiter Intro Call (15 min)</strong> Background, motivation, availability, and role alignment.</p>\n</li>\n<li>\n<p><strong>Design First Round (30 min)</strong> Portfolio walkthrough and discussion of your design decisions and individual contributions. Academic and personal projects are welcome.</p>\n</li>\n<li>\n<p><strong>Design Final Round (45 min)</strong> Live UX question or a brief design exercise, with a choice between the two. Focus on UX thinking and UI execution.</p>\n</li>\n</ol>\n<h2></h2>\n",
+      "companyDescription": "Supercharge Your Contact Center Operations with AI Phone Agents",
+      "companyFounded": 2023,
+      "companyTeamSize": 50,
+      "companyStatus": "Active",
+      "companyLocation": "San Francisco",
+      "companyIndustry": "B2B",
+      "companyLogo": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
+      "companyWebsite": "https://retellai.com",
+      "founders": [
+        {
+          "name": "Todd Li",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/9bbd73498c037c52520f05b2be10396ab78813af.jpg"
+        },
+        {
+          "name": "Evie Wang",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/634bdf84a7e55656a9b2fe9748cbd3faee625f7a.jpg"
+        },
+        {
+          "name": "Bing Wu",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/a85888a66189b5826753d54caa09e7cb39f69e04.jpg"
+        },
+        {
+          "name": "Weijia Yu",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/b20d6ee44205303777bf65ad76961dababbbf107.jpg"
+        },
+        {
+          "name": "Zexia Zhang",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/6028492f5bad65a9f9f2732daa8889f5a8e46861.jpg"
+        }
+      ],
+      "scrapedAt": "2026-09-20T18:19:33.560284+00:00",
+      "skills": []
+    }
+  ]
+}

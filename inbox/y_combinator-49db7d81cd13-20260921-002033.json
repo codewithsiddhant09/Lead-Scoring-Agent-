@@ -1,0 +1,65 @@
+{
+  "run_token": "49db7d81cd13",
+  "actor_name": "y_combinator",
+  "actor_id": "CIHbQb2sgYrumBIIJ",
+  "apify_run_id": "WOxUrhIESPBjeScxW",
+  "started_at": 994961.453,
+  "finished_at": 995146.734,
+  "item_count": 1,
+  "scoring_version": "1.0.0",
+  "score_summary": {
+    "Hot": 0,
+    "Hot-leaning Warm": 0,
+    "Warm": 0,
+    "Cold": 1
+  },
+  "items": [
+    {
+      "jobId": "73904",
+      "title": "Senior Software Engineer",
+      "url": "https://www.workatastartup.com/jobs/73904",
+      "companyName": "Assembly",
+      "companySlug": "assembly-com",
+      "companyUrl": "https://www.workatastartup.com/companies/assembly-com",
+      "companyTagline": "Create remarkable client experiences",
+      "ycBatch": "W18",
+      "jobType": "Full-time",
+      "roleCategory": "Engineering",
+      "roleSubcategory": "Full stack",
+      "salaryRange": "$145K - $190K",
+      "salaryMin": 145000,
+      "salaryMax": 190000,
+      "salaryCurrency": "USD",
+      "equity": "",
+      "location": "New York",
+      "postedAgo": "",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fcode%3D6aadd939-7475-4989-9420-f1e324440907%26signup_job_id%3D73904&defaults%5Bemail%5D=search-1fbe8865f0aff879%40placeholder.workatastartup.com&defaults%5Bfirst_name%5D&defaults%5Blast_name%5D&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=1736",
+      "experience": "3+ years",
+      "visaSponsorship": "US citizen/visa only",
+      "description": "Learn about us and our openings here: https://www.assembly.com/jobs About the role As a senior software engineer you will report to the CTO and be a core member of our engineering and product team. In this role you’ll lead complex technical projects, mentor junior team members, improve velocity through better process, shape the engineering roadmap, and help define our engineering culture. We will compensate you well, invest deeply in your development, and do everything we can to make sure this is the single best work experience of your life. What you'll do You'll design and build full stack features. You'll be working on scaling and enhancing our web platform, our flagship product. This involves overseeing the libraries we use, managing the component/design system architecture, and building the most robust testable features. You'll be an owner. You'll work with EPD (engineering/product/design) leads team to help shape the roadmap. You’ll also be responsible for writing technical documentation, setting up infrastructure, and organizing engineering tasks. You'll balance the short and long term. While knowing the importance of shipping quickly you also know how to craft thoughtful long-term technical strategy. You know when to address tech debt and when to improve infrastructure and processes (testing, code reviews, CI/CD). You’ll make the engineering team more effective. You’ll help us implement better processes, refine our interview process, and help define our engineering culture. You'll help build the team. The first 10 members of an engineering team dictate the next 100. You'll help interview and recruit more talented engineers. You'll learn about startups . Aside from your core work, you'll have the opportunity to get involved in other areas - marketing, growth, ops, etc. Who you are You're experienced. You have 4+ years experience working on complex web applications built with modern tools and a proven track record as a lead developer. Familiarity with our tech stack is a bonus! You're passionate about crafting software. Whether it's the thrilling moment when a scalable system design sparks excitement, or the deep satisfaction of engineering a seamless, robust frontend component, every line of code is a canvas for your creativity. You take pride in building systems that are as elegant as they are efficient, turning complex challenges into works of art that you love to share and showcase. You design thoughtful solutions. You approach challenges by exploring multiple avenues, carefully weighing edge cases and dependencies to deliver the optimal user experience. You excel at articulating your ideas, ensuring that you remain focused on what truly matters: understanding customer needs. You love to collaborate, discuss and debate. You engage in respectful, constructive debates—challenging ideas without being confrontational. You work collaboratively to weigh trade-offs and find balanced solutions, clearly explaining your reasoning when opinions differ and valuing the insights of your teammates. You're hardworking. You understand that building a category-defining company requires people that work smart and that also work hard. You love working in person. We're convinced that building a strong culture happens face-to-face, and we're looking for people who thrive in highly collaborative, in-person environments. Tech React, Typescript, Golang Libraries: Tailwind, MUI, Redux (rtk-query), AmplifyJS Infra (AWS): DynamoDB, Lambda, Cognito, Cloudwatch, Cloudformation, SQS",
+      "descriptionHtml": "<p>Learn about us and our openings here: <a href=\"https://www.copilot.app/jobs\">https://www.assembly.com/jobs</a></p>\n<h2>About the role</h2>\n<p>As a senior software engineer you will report to the CTO and be a core member of our engineering and product team. In this role you’ll lead complex technical projects, mentor junior team members, improve velocity through better process, shape the engineering roadmap, and help define our engineering culture. We will compensate you well, invest deeply in your development, and do everything we can to make sure this is the single best work experience of your life.</p>\n<h2>What you'll do</h2>\n<ul>\n<li>\n<p><strong>You'll design and build full stack features.</strong>  You'll be working on scaling and enhancing our web platform, our flagship product. This involves overseeing the libraries we use, managing the component/design system architecture, and building the most robust testable features.</p>\n</li>\n<li>\n<p><strong>You'll be an owner.</strong>  You'll work with EPD (engineering/product/design) leads team to help shape the roadmap. You’ll also be responsible for writing technical documentation, setting up infrastructure, and organizing engineering tasks.</p>\n</li>\n<li>\n<p><strong>You'll balance the short and long term.</strong>  While knowing the importance of shipping quickly you also know how to craft thoughtful long-term technical strategy. You know when to address tech debt and when to improve infrastructure and processes (testing, code reviews, CI/CD).</p>\n</li>\n<li>\n<p><strong>You’ll make the engineering team more effective.</strong> You’ll help us implement better processes, refine our interview process, and help define our engineering culture.</p>\n</li>\n<li>\n<p><strong>You'll help build the team.</strong>  The first 10 members of an engineering team dictate the next 100. You'll help interview and recruit more talented engineers.</p>\n</li>\n<li>\n<p><strong>You'll learn about startups</strong>. Aside from your core work, you'll have the opportunity to get involved in other areas - marketing, growth, ops, etc.</p>\n</li>\n</ul>\n<h2>Who you are</h2>\n<ul>\n<li>\n<p><strong>You're experienced.</strong>  You have 4+ years experience working on complex web applications built with modern tools and a proven track record as a lead developer. Familiarity with our tech stack is a bonus!</p>\n</li>\n<li>\n<p><strong>You're passionate about crafting software.</strong> Whether it's the thrilling moment when a scalable system design sparks excitement, or the deep satisfaction of engineering a seamless, robust frontend component, every line of code is a canvas for your creativity. You take pride in building systems that are as elegant as they are efficient, turning complex challenges into works of art that you love to share and showcase.</p>\n</li>\n<li>\n<p><strong>You design thoughtful solutions.</strong> You approach challenges by exploring multiple avenues, carefully weighing edge cases and dependencies to deliver the optimal user experience. You excel at articulating your ideas, ensuring that you remain focused on what truly matters: understanding customer needs.</p>\n</li>\n<li>\n<p><strong>You love to collaborate, discuss and debate.</strong> You engage in respectful, constructive debates—challenging ideas without being confrontational. You work collaboratively to weigh trade-offs and find balanced solutions, clearly explaining your reasoning when opinions differ and valuing the insights of your teammates.</p>\n</li>\n<li>\n<p><strong>You're hardworking.</strong>  You understand that building a category-defining company requires people that work smart and that also work hard.</p>\n</li>\n<li>\n<p><strong>You love working in person.</strong> We're convinced that building a strong culture happens face-to-face, and we're looking for people who thrive in highly collaborative, in-person environments.</p>\n</li>\n</ul>\n<h2>Tech</h2>\n<ul>\n<li>\n<p>React, Typescript, Golang</p>\n</li>\n<li>\n<p>Libraries: Tailwind, MUI, Redux (rtk-query), AmplifyJS</p>\n</li>\n<li>\n<p>Infra (AWS): DynamoDB, Lambda, Cognito, Cloudwatch, Cloudformation, SQS</p>\n</li>\n</ul>\n",
+      "companyDescription": "Create remarkable client experiences",
+      "companyFounded": 2020,
+      "companyTeamSize": 25,
+      "companyStatus": "Active",
+      "companyLocation": "New York City, NY",
+      "companyIndustry": "B2B -> Productivity",
+      "companyLogo": "https://bookface-images.s3.amazonaws.com/small_logos/c55057ac15a637901bedd0c55239dee969af0c01.png",
+      "companyWebsite": "https://www.assembly.com",
+      "founders": [
+        {
+          "name": "Marlon Misra",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/811f6d2c37cc5cae1155b61197be2c815a4b37eb.jpg"
+        },
+        {
+          "name": "Neil Raina",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/d79ab40dae2cde69f52d4ad5aaba2701e6496552.jpg"
+        }
+      ],
+      "scrapedAt": "2026-09-20T18:48:46.093772+00:00",
+      "skills": []
+    }
+  ]
+}

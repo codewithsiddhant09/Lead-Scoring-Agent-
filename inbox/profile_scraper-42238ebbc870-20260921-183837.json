@@ -1,0 +1,1770 @@
+{
+  "run_token": "42238ebbc870",
+  "actor_name": "profile_scraper",
+  "actor_id": "M2FMdjRVeF1HPGFcc",
+  "apify_run_id": "L1gQMA3meOFneyAoD",
+  "started_at": 1061016.25,
+  "finished_at": 1061028.718,
+  "item_count": 2,
+  "scoring_version": "1.1.0",
+  "score_summary": {
+    "Hot": 0,
+    "Hot-leaning Warm": 0,
+    "Warm": 0,
+    "Cold": 2
+  },
+  "items": [
+    {
+      "id": "ACoAABJ2sOIB5gU_4gMJSSKsoaFMfuJL790vgdQ",
+      "publicIdentifier": "tom-rouchy-seconde-main-économie-circulaire",
+      "linkedinUrl": "https://www.linkedin.com/in/tom-rouchy-seconde-main-économie-circulaire",
+      "firstName": "Tom",
+      "lastName": "Rouchy 🪃",
+      "emails": [],
+      "headline": "Cofounder & CEO @Combak - Helping people buy second-hand",
+      "openToWork": false,
+      "hiring": false,
+      "premium": false,
+      "influencer": false,
+      "memorialized": false,
+      "creator": false,
+      "location": {
+        "linkedinText": "Rennes, Brittany, France",
+        "countryCode": "FR",
+        "parsed": {
+          "text": "Rennes, France",
+          "countryCode": "FR",
+          "regionCode": null,
+          "country": "France",
+          "countryFull": "France",
+          "state": "Bretagne",
+          "city": "Rennes"
+        }
+      },
+      "objectUrn": "309768418",
+      "registeredAt": "2013-12-18T18:15:59.105Z",
+      "topSkills": [],
+      "connectionsCount": 3733,
+      "followerCount": 3777,
+      "verified": true,
+      "about": "Engineer, in love with sales, growth and entrepreneurship.\n \nI spent 3.5 years in renewable energy helping decarbonise industrial production.\n \nNow co-founder & CEO of Combak, focused on decarbonising consumption.\n \nOur goal: make second-hand the first choice.",
+      "currentPosition": [
+        {
+          "position": "Co-Founder & CEO",
+          "location": "Rennes, Bretagne, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "Combak.co",
+          "companyUniversalName": "combak-co",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/combak-co/",
+          "companyId": "100463821",
+          "duration": "2 yrs 9 mos",
+          "description": "Combak, the 1st French comparator dedicated to second-hand and refurbished products\n\n• +1.5M users\n• +1.8M€ yearly GMV\n• +200 tons of CO2, 600 tons of raw materials, and 180 million liters of water saved",
+          "skills": null,
+          "startDate": {
+            "month": "Jan",
+            "year": 2024,
+            "text": "Jan 2024"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHF9sslZ0R81A/company-logo_400_400/company-logo_400_400/0/1739365818066?e=1791417600&v=beta&t=n_HqBIFG_wZ29szydMAM88vLJ6_LLenfaFWgCLd6Xr0",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHF9sslZ0R81A/company-logo_400_400/company-logo_400_400/0/1739365818066?e=1791417600&v=beta&t=n_HqBIFG_wZ29szydMAM88vLJ6_LLenfaFWgCLd6Xr0",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHF9sslZ0R81A/company-logo_200_200/company-logo_200_200/0/1739365818066?e=1791417600&v=beta&t=PIV5kHY9nhSquZju9GuNJbhGigkNCY4i11I3g73DFGI",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHF9sslZ0R81A/company-logo_100_100/company-logo_100_100/0/1739365818066?e=1791417600&v=beta&t=ScLuV8j4STnQ7mlUb8C9JYddZDRk4b2Ka5pFPl-Fzbs",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "profileTopEducation": [
+        {
+          "schoolName": "Ticket for change",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Ticket+for+change",
+          "schoolId": null,
+          "degree": "Incubation program for environmental & social entrepreneurs",
+          "fieldOfStudy": null,
+          "period": "Jun 2023 - Dec 2023",
+          "startDate": {
+            "month": "Jun",
+            "year": 2023,
+            "text": "Jun 2023"
+          },
+          "endDate": {
+            "month": "Dec",
+            "year": 2023,
+            "text": "Dec 2023"
+          },
+          "schoolLogo": null
+        }
+      ],
+      "profileActions": [],
+      "profilePicture": {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQHKiIWz75vERw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701813413610?e=1791417600&v=beta&t=9dOE8vICjjHEO_KJ3s9YyBctwww8f0TcA0TcOQjrSSM",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQHKiIWz75vERw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701813413610?e=1791417600&v=beta&t=9dOE8vICjjHEO_KJ3s9YyBctwww8f0TcA0TcOQjrSSM",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQHKiIWz75vERw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1701813413610?e=1791417600&v=beta&t=SRYd6krxYb4s--tP2Nlfg32PlPlC6wrrxMc71UuqkpA",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQHKiIWz75vERw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701813413610?e=1791417600&v=beta&t=ixsbBTMRYahNkQeU5nXveWRjQASBQgKLdiDugsAfxvc",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQHKiIWz75vERw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1701813413610?e=1791417600&v=beta&t=gF9auQqOQaFS_2h__a4NIt28GxjLWqB5cj3wfcQqas0",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "coverPicture": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E16AQECAH2d2kVchg/profile-displaybackgroundimage-shrink_350_1400/B4EZv_jQ6jGsAY-/0/1769518994116?e=1791417600&v=beta&t=vzUzq8ZeanCdG0z-9KZUfAjlZOFkCaSt16-ZzSlJyEA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E16AQECAH2d2kVchg/profile-displaybackgroundimage-shrink_350_1400/B4EZv_jQ6jGsAY-/0/1769518994116?e=1791417600&v=beta&t=vzUzq8ZeanCdG0z-9KZUfAjlZOFkCaSt16-ZzSlJyEA",
+            "width": 1400,
+            "height": 350
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E16AQECAH2d2kVchg/profile-displaybackgroundimage-shrink_200_800/B4EZv_jQ6jGsAU-/0/1769518994116?e=1791417600&v=beta&t=9LFWYo8kAYZmfpDij4ulRcT2zGU4H-8R61wGiEc1KN4",
+            "width": 800,
+            "height": 200
+          }
+        ]
+      },
+      "photo": "https://media.licdn.com/dms/image/v2/D5603AQHKiIWz75vERw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701813413610?e=1791417600&v=beta&t=9dOE8vICjjHEO_KJ3s9YyBctwww8f0TcA0TcOQjrSSM",
+      "profileLocales": [
+        {
+          "country": "US",
+          "language": "en"
+        },
+        {
+          "country": "FR",
+          "language": "fr"
+        }
+      ],
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "multiLocaleHeadline": [
+        {
+          "headline": "Cofounder & CEO @Combak - Helping people buy second-hand",
+          "locale": "fr_FR"
+        },
+        {
+          "headline": "Cofounder & CEO @Combak - Helping people buy second-hand",
+          "locale": "en_US"
+        }
+      ],
+      "services": null,
+      "experience": [
+        {
+          "position": "Co-Founder & CEO",
+          "location": "Rennes, Bretagne, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "Combak.co",
+          "companyUniversalName": "combak-co",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/combak-co/",
+          "companyId": "100463821",
+          "duration": "2 yrs 9 mos",
+          "description": "Combak, the 1st French comparator dedicated to second-hand and refurbished products\n\n• +1.5M users\n• +1.8M€ yearly GMV\n• +200 tons of CO2, 600 tons of raw materials, and 180 million liters of water saved",
+          "skills": null,
+          "startDate": {
+            "month": "Jan",
+            "year": 2024,
+            "text": "Jan 2024"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHF9sslZ0R81A/company-logo_400_400/company-logo_400_400/0/1739365818066?e=1791417600&v=beta&t=n_HqBIFG_wZ29szydMAM88vLJ6_LLenfaFWgCLd6Xr0",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHF9sslZ0R81A/company-logo_400_400/company-logo_400_400/0/1739365818066?e=1791417600&v=beta&t=n_HqBIFG_wZ29szydMAM88vLJ6_LLenfaFWgCLd6Xr0",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHF9sslZ0R81A/company-logo_200_200/company-logo_200_200/0/1739365818066?e=1791417600&v=beta&t=PIV5kHY9nhSquZju9GuNJbhGigkNCY4i11I3g73DFGI",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHF9sslZ0R81A/company-logo_100_100/company-logo_100_100/0/1739365818066?e=1791417600&v=beta&t=ScLuV8j4STnQ7mlUb8C9JYddZDRk4b2Ka5pFPl-Fzbs",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Co-Founder",
+          "location": "Rennes, Bretagne, France",
+          "employmentType": "Self-employed",
+          "workplaceType": null,
+          "companyName": "Stealth Startup",
+          "companyUniversalName": "stealth-startup-community",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/stealth-startup-community/",
+          "companyId": "18583501",
+          "duration": "1 yr",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Jan",
+            "year": 2023,
+            "text": "Jan 2023"
+          },
+          "endDate": {
+            "month": "Dec",
+            "year": 2023,
+            "text": "Dec 2023"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1791417600&v=beta&t=GH_Zvm0A1TKQtjj5aJRnhor1kqycdbNeKgQwNi2DYeo",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1791417600&v=beta&t=GH_Zvm0A1TKQtjj5aJRnhor1kqycdbNeKgQwNi2DYeo",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_200_200/company-logo_200_200/0/1735368022724/stealth_startup_51_logo?e=1791417600&v=beta&t=Za57geHFp3IgSYoORSchZdq_dOuVo4BENRuBKLc51Dw",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_100_100/company-logo_100_100/0/1735368022724/stealth_startup_51_logo?e=1791417600&v=beta&t=0BphSAYO2DvnYhHgiUu-c6Tk_M1zhh5ZUzjVZavHtpg",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Business Developer & Project Manager",
+          "location": "Bordeaux, Nouvelle-Aquitaine, France",
+          "employmentType": "Permanent",
+          "workplaceType": "On-site",
+          "companyName": "newHeat",
+          "companyUniversalName": "newheat",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/newheat/",
+          "companyId": "10512421",
+          "duration": "3 yrs 10 mos",
+          "description": "newHeat provides solar and recovery heat for large heat consumers.\n\nWe design, develop, finance, build and operate solar thermal plants and waste heat recovery equipment adapted to the needs of our customers, ensuring a reliable and competitive heat supply without any CO2 emissions.\n\nMissions:\n• Develop the company's commercial activity in the industry sector: over €250m of commercial opportunity under responsibility (from prospection to closed deal)\n• Develop the ENR&R projects signed to enable their implementation\n\nResults:\n• Prospecting, development of new offers and responses to the company's first tenders\n• 100 M€ of commercial proposals and 37 M€ of projects signed\n• > 200 000 tons of CO2 avoided\n• Sale and development of the largest solar thermal plant in France and the first in the world coupled with interseasonal storage for an industrial company",
+          "skills": null,
+          "startDate": {
+            "month": "Mar",
+            "year": 2019,
+            "text": "Mar 2019"
+          },
+          "endDate": {
+            "month": "Dec",
+            "year": 2022,
+            "text": "Dec 2022"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHF3GOLxNv6SQ/company-logo_400_400/company-logo_400_400/0/1630578446374/newheat_logo?e=1791417600&v=beta&t=yPzc6JIJOUlai37j8wgMIk5cF5KcUJwIqHWa2Uzpftg",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHF3GOLxNv6SQ/company-logo_400_400/company-logo_400_400/0/1630578446374/newheat_logo?e=1791417600&v=beta&t=yPzc6JIJOUlai37j8wgMIk5cF5KcUJwIqHWa2Uzpftg",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHF3GOLxNv6SQ/company-logo_200_200/company-logo_200_200/0/1630578446374/newheat_logo?e=1791417600&v=beta&t=PiYeDei9vt5F7qHzKNn6GYykzNNhKTz5y0eBgUMszUM",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQHF3GOLxNv6SQ/company-logo_100_100/company-logo_100_100/0/1630578446374/newheat_logo?e=1791417600&v=beta&t=9KsRHnNZ7skmcYhqz-zJHUO7lz8ptpWksth7wHZ4XB0",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Platform Operations & Operational Excellence Intern",
+          "location": "Essen Area, Germany",
+          "employmentType": "Internship",
+          "workplaceType": null,
+          "companyName": "E.ON",
+          "companyUniversalName": "e-on",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/e-on/",
+          "companyId": "4383",
+          "duration": "5 mos",
+          "description": "With the entrance of new energy applications; the maturity of renewable energy sources; the growing number of small-scale energy production units and the need to reduce energy consumption related to the rise of the world’s population and the global warming: the energy world is changing. \n\nWe are moving from a centralized energy sector to a decentralized energy world in which the consumers become prosumers. It’s why E.ON Connecting Energies, part of the B2B business of E.ON is focusing on innovative solutions to embrace the Energy transition. \n\nFor this purpose, the Global Domain Flexibility is developing its virtual power plant to connect and steer more than 1,000 assets, making the energy network smarter and generating additional revenue for customers.\n\nAs an intern within the Platform Operations & Operational Excellence team, my role was to\n• Support the team in his role of IT/Business coordinator,\n• Develop the platform and its user interfaces,\n• Improve the operational processes,\n• Carry out a European benchmark of energy companies that market or use SaaS for their VPP business.",
+          "skills": null,
+          "startDate": {
+            "month": "May",
+            "year": 2018,
+            "text": "May 2018"
+          },
+          "endDate": {
+            "month": "Sep",
+            "year": 2018,
+            "text": "Sep 2018"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE_zh1Gnrorzg/company-logo_400_400/B4EZpN8CqaIQAY-/0/1762244176994/e_on_logo?e=1791417600&v=beta&t=H0RTxLfr3oObDxW3_OODUwk8YXSFb51HpMqdGf4sfdQ",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE_zh1Gnrorzg/company-logo_400_400/B4EZpN8CqaIQAY-/0/1762244176994/e_on_logo?e=1791417600&v=beta&t=H0RTxLfr3oObDxW3_OODUwk8YXSFb51HpMqdGf4sfdQ",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE_zh1Gnrorzg/company-logo_200_200/B4EZpN8CqaIQAI-/0/1762244176994/e_on_logo?e=1791417600&v=beta&t=Py1lk6XXkTSDQV-ztnvM-38DLPauDcGNe_PBqN-Cvz4",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE_zh1Gnrorzg/company-logo_100_100/B4EZpN8CqaIQAQ-/0/1762244176994/e_on_logo?e=1791417600&v=beta&t=u1HFIOSqauPnlahVlwyRpwPnH17t5E9KqEPHxP8vRLM",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Central Operation Trainee",
+          "location": "Savoie technolac, Le Bourget-du-lac, France",
+          "employmentType": "Internship",
+          "workplaceType": null,
+          "companyName": "ENERGY POOL",
+          "companyUniversalName": "energy-pool",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/energy-pool/",
+          "companyId": "715136",
+          "duration": "2 mos",
+          "description": "Founded in 2009, Energy Pool manages and optimizes the electricity consumption of customers from the industrial and tertiary sectors: steelmaker, metallurgist, cement, paper, chemical industry, food industry, etc.\n\nEnergy Pool's solutions make it possible to identify the consumption flexibilities of various industrial processes (electrolysis, furnace, crusher, etc.) and self-generation means (battery, generator, cogeneration) and then to develop them in the energy / reserve markets. \n\nDepending on the needs of the electrical system and market opportunities, Energy Pool asks its customers to reduce their consumption (curtailement) or conversely encourages them to consume at the right time (stimulation).\n\nParticipation in the process of continuous improvement of the operations carried out by Energy Pool:\n• Supervision of the rewriting of technical procedures\n• Implementation of a document management method based on the audit carried out on the OPS center\n• Implementation of a  information management method within the operational department\n• Implementation of a monthly audit and start-up procedure for the operational center\n• Reflection and design of an example of a new SharePoint tree",
+          "skills": null,
+          "startDate": {
+            "month": "Jul",
+            "year": 2017,
+            "text": "Jul 2017"
+          },
+          "endDate": {
+            "month": "Aug",
+            "year": 2017,
+            "text": "Aug 2017"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGcMkOVrqAA8A/company-logo_400_400/company-logo_400_400/0/1738338345949/energy_pool_logo?e=1791417600&v=beta&t=p_PfecX3kfVLgTj9TB27YOlz_T6N6gJ6dvv73YXQ6Gc",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGcMkOVrqAA8A/company-logo_400_400/company-logo_400_400/0/1738338345949/energy_pool_logo?e=1791417600&v=beta&t=p_PfecX3kfVLgTj9TB27YOlz_T6N6gJ6dvv73YXQ6Gc",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGcMkOVrqAA8A/company-logo_200_200/company-logo_200_200/0/1738338345948/energy_pool_logo?e=1791417600&v=beta&t=17l3k2b3LLTJxhSyklpEBBxbD8qvkN61EaUyoPqAyDg",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQGcMkOVrqAA8A/company-logo_100_100/company-logo_100_100/0/1738338345949/energy_pool_logo?e=1791417600&v=beta&t=F1Kxzzq9iEXiBNN5q74K3HgCZPTESBAMyA-ttvxRehs",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "education": [
+        {
+          "schoolName": "Ticket for change",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Ticket+for+change",
+          "schoolId": null,
+          "degree": "Incubation program for environmental & social entrepreneurs",
+          "fieldOfStudy": null,
+          "period": "Jun 2023 - Dec 2023",
+          "startDate": {
+            "month": "Jun",
+            "year": 2023,
+            "text": "Jun 2023"
+          },
+          "endDate": {
+            "month": "Dec",
+            "year": 2023,
+            "text": "Dec 2023"
+          },
+          "schoolLogo": null
+        },
+        {
+          "schoolName": "Ecole Nationale Supérieure des Ingénieurs en Arts Chimiques et Technologiques",
+          "description": null,
+          "insights": "Activities and societies: Toulouse-INP Basketball team",
+          "skills": [
+            "Engineering"
+          ],
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/15113763/",
+          "schoolId": "15113763",
+          "degree": "Engineer's degree",
+          "fieldOfStudy": "Engineering process & computer science with Eco-Energy specialty",
+          "period": "2016 - 2019",
+          "startDate": {
+            "year": 2016,
+            "text": "2016"
+          },
+          "endDate": {
+            "year": 2019,
+            "text": "2019"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEHZi--Rc_nKQ/company-logo_400_400/company-logo_400_400/0/1638955614009/ensiacet_logo?e=1791417600&v=beta&t=kRX8a-pOjPY3Zn00e7jvT0IWFuMgTZFLyrDPDlPa_dI",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEHZi--Rc_nKQ/company-logo_400_400/company-logo_400_400/0/1638955614009/ensiacet_logo?e=1791417600&v=beta&t=kRX8a-pOjPY3Zn00e7jvT0IWFuMgTZFLyrDPDlPa_dI",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEHZi--Rc_nKQ/company-logo_200_200/company-logo_200_200/0/1638955614009/ensiacet_logo?e=1791417600&v=beta&t=uxGThG8yMNe1xAu1d40A2qsEuvKG_reJ-AUWjybUz5M",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEHZi--Rc_nKQ/company-logo_100_100/company-logo_100_100/0/1638955614009/ensiacet_logo?e=1791417600&v=beta&t=SIt1WxXvNbyv3o-Zl_83EPPFsW3L1stcXeBToyFCmsU",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "Les Entrep'​",
+          "description": "France's leading national network for training and discovery in business creation.",
+          "insights": "Activities and societies: Petrofence, on-board system to contain oil spills. \nAwards: 1st place on 2019 TBS Business starter day",
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/9395581/",
+          "schoolId": "9395581",
+          "degree": null,
+          "fieldOfStudy": null,
+          "period": "2018",
+          "startDate": null,
+          "endDate": {
+            "year": 2018,
+            "text": "2018"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhuB4vgff9oA/company-logo_400_400/B4DZc2QSOJGwAY-/0/1748961928864/lesentrep_logo?e=1791417600&v=beta&t=x86cFUWb5ZVhdJhWvD57hnklOjhwuGA5PdZ40Pey-7s",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhuB4vgff9oA/company-logo_400_400/B4DZc2QSOJGwAY-/0/1748961928864/lesentrep_logo?e=1791417600&v=beta&t=x86cFUWb5ZVhdJhWvD57hnklOjhwuGA5PdZ40Pey-7s",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhuB4vgff9oA/company-logo_200_200/B4DZc2QSOJGwAI-/0/1748961928864/lesentrep_logo?e=1791417600&v=beta&t=cbZtwBPdXeDEzh7AThysMwIRICXZEpJdTRTZVz0Bo50",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhuB4vgff9oA/company-logo_100_100/B4DZc2QSOJGwAQ-/0/1748961928864/lesentrep_logo?e=1791417600&v=beta&t=kXqNy6Ii0oS1r2frIer09h3kJWC5VqcGjAt5-omlPt8",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "PSCI-PC Lycée Fabert",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=PSCI-PC+Lyc%C3%A9e+Fabert",
+          "schoolId": null,
+          "degree": "Preparatory classes for Entrance exams into National Engineering schools",
+          "fieldOfStudy": null,
+          "period": "2013 - 2016",
+          "startDate": {
+            "year": 2013,
+            "text": "2013"
+          },
+          "endDate": {
+            "year": 2016,
+            "text": "2016"
+          },
+          "schoolLogo": null
+        },
+        {
+          "schoolName": "Lycée Sévigné",
+          "description": null,
+          "insights": "Grade: With high honours, Specialty computer science and digital science\nActivities and societies: French 2012 national basketball championship",
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Lyc%C3%A9e+S%C3%A9vign%C3%A9",
+          "schoolId": null,
+          "degree": "Baccalauréat",
+          "fieldOfStudy": "Scientifique",
+          "period": "2010 - 2013",
+          "startDate": {
+            "year": 2010,
+            "text": "2010"
+          },
+          "endDate": {
+            "year": 2013,
+            "text": "2013"
+          },
+          "schoolLogo": null
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Toeic Listening and Reading 955/990",
+          "issuedBy": "ETS EMEA",
+          "issuedAt": "Issued Nov 2023 · Expired Nov 2025",
+          "link": "https://www.etsglobal.org/",
+          "issuedByLink": "https://www.linkedin.com/company/2580544/",
+          "issuedByLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE5-mM89b8U5g/company-logo_400_400/company-logo_400_400/0/1712667385966/ets_global_logo?e=1791417600&v=beta&t=kFDiYs6KWb01xDBytgv56Dn0O5t-LsqeUoFYEpK-7Dc",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE5-mM89b8U5g/company-logo_400_400/company-logo_400_400/0/1712667385966/ets_global_logo?e=1791417600&v=beta&t=kFDiYs6KWb01xDBytgv56Dn0O5t-LsqeUoFYEpK-7Dc",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE5-mM89b8U5g/company-logo_200_200/company-logo_200_200/0/1712667385966/ets_global_logo?e=1791417600&v=beta&t=3sVIinjR1Yzq--5mj5X0WeCSPE3kTXkXRgEm2OfxTUI",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQE5-mM89b8U5g/company-logo_100_100/company-logo_100_100/0/1712667385966/ets_global_logo?e=1791417600&v=beta&t=N1Wg4nhRWXJAw7c7Ol3zFRJNRQF8kOocOXjixhf3cEM",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "title": "Youth worker diploma",
+          "issuedBy": "Ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative",
+          "issuedAt": "Issued May 2012",
+          "link": null,
+          "issuedByLink": null,
+          "issuedByLogo": {
+            "url": null,
+            "sizes": []
+          }
+        }
+      ],
+      "projects": [],
+      "volunteering": [],
+      "receivedRecommendations": [],
+      "skills": [
+        {
+          "name": "Gestion des conflits",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ],
+          "endorsements": "3 endorsements"
+        },
+        {
+          "name": "Leadership",
+          "positions": [
+            "Business Developer & Project Manager at newHeat",
+            "Endorsed by 1 person in the last 6 months"
+          ],
+          "endorsements": "3 endorsements"
+        },
+        {
+          "name": "Écoute active",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ],
+          "endorsements": "1 endorsement"
+        },
+        {
+          "name": "Amélioration continue",
+          "positions": [
+            "Central Operation Trainee at ENERGY POOL"
+          ]
+        },
+        {
+          "name": "Smart grid",
+          "positions": [
+            "2 experiences across E.ON and 1 other company"
+          ]
+        },
+        {
+          "name": "Excellence opérationnelle",
+          "positions": [
+            "2 experiences across E.ON and 1 other company"
+          ]
+        },
+        {
+          "name": "Négociation",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ]
+        },
+        {
+          "name": "Project Management",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ],
+          "endorsements": "2 endorsements"
+        },
+        {
+          "name": "Business Development",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ],
+          "endorsements": "4 endorsements"
+        },
+        {
+          "name": "Renewable Energy",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ],
+          "endorsements": "2 endorsements"
+        },
+        {
+          "name": "Complex sales",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ],
+          "endorsements": "1 endorsement"
+        },
+        {
+          "name": "Engineering",
+          "positions": [
+            "Ecole Nationale Supérieure des Ingénieurs en Arts Chimiques et Technologiques"
+          ]
+        },
+        {
+          "name": "Business-to-Business (B2B)",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ]
+        },
+        {
+          "name": "Key Account Management",
+          "positions": [
+            "Business Developer & Project Manager at newHeat"
+          ]
+        }
+      ],
+      "publications": [],
+      "courses": [],
+      "patents": [],
+      "honorsAndAwards": [],
+      "languages": [
+        {
+          "name": "English",
+          "proficiency": "Professional working proficiency"
+        },
+        {
+          "name": "French",
+          "proficiency": "Native or bilingual proficiency"
+        },
+        {
+          "name": "Spanish",
+          "proficiency": "Elementary proficiency"
+        }
+      ],
+      "organizations": [],
+      "causes": [],
+      "featured": null,
+      "composeOptionType": "UPSELL",
+      "moreProfiles": [],
+      "sectionTotals": {
+        "experience": 5,
+        "education": 5,
+        "certifications": 2,
+        "receivedRecommendations": 0,
+        "skills": 14,
+        "courses": 0,
+        "languages": 3,
+        "projects": 0,
+        "volunteering": 0,
+        "publications": 0,
+        "patents": 0,
+        "organizations": 0,
+        "honorsAndAwards": 0,
+        "causes": 0
+      },
+      "interests": [
+        {
+          "interestName": "Top Voices",
+          "elements": [
+            {
+              "title": "Jason Saltzman",
+              "subtitle": "Head of Insights @ a16z | Former Professional 🚴‍♂️",
+              "link": "https://www.linkedin.com/in/jason-salt",
+              "caption": "39,067 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D5603AQECCbJZrdai9A/profile-displayphoto-crop_800_800/B56ZjKwjvEG4AI-/0/1755748431240?e=1791417600&v=beta&t=XGC22BF3_HA9GYn_jSkqUWpoejPyv1zCWEfLQ2X3Pvo"
+              }
+            },
+            {
+              "title": "Matthieu Dardaillon",
+              "subtitle": "Cofounder Ticket for Change, Ashoka Fellow - I share insights to better navigate in uncertainty",
+              "link": "https://www.linkedin.com/in/matthieu-dardaillon",
+              "caption": "32,362 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFPrAUfgrjQaw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1673734377769?e=1791417600&v=beta&t=2tM34H9kqviEL521hRMpgI41TecsTGRXhobAE-90Bu4"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Companies",
+          "elements": [
+            {
+              "title": "TotalEnergies",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/1818/",
+              "caption": "5,436,152 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGfwFj7jhhQJg/company-logo_400_400/company-logo_400_400/0/1630529979109/totalenergies_logo?e=1791417600&v=beta&t=JtZwB-oieAhNrHQauvlGRi1P3ZbBmN7WloBCYTvoEtc"
+              }
+            },
+            {
+              "title": "EDF",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/4249/",
+              "caption": "876,320 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGJ5iv880eA7w/company-logo_400_400/B4EZVC6RsuGgAY-/0/1740584329424/edf_logo?e=1791417600&v=beta&t=ecG7-T2-YalqWdd4L0ngsN--92ZR1jGLPa6e9NERAPQ"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Groups",
+          "elements": [
+            {
+              "title": "Europe’s tech leaders, connected by FW.MEDIA.",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/2075",
+              "caption": "79,630 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E07AQEb9tKhmsU8Ig/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1660021510804?e=1790604000&v=beta&t=53dgr_c_yBf_oauQSRQrbsnIf-K9IDdiSu983bnKfUM"
+              }
+            },
+            {
+              "title": "Energy Industry Professionals",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/1903592",
+              "caption": "21,171 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C5607AQFTP1OSopi6mQ/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1631440536686?e=1790604000&v=beta&t=lgzByfHuIB9rpE5pBl5FdzhRVFTJGIAD__ZvYRfi9m4"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Newsletters",
+          "elements": [
+            {
+              "title": "AI–The Invisible Advantage ",
+              "subtitle": "Curated intelligence for decision-makers ",
+              "link": "https://www.linkedin.com/newsletters/7308052280820269056",
+              "caption": "Published biweekly",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D5612AQEWtHKVAUQ69A/series-logo_image-shrink_300_300/B56Z8.WirBIgAM-/0/1783457524688?e=1791417600&v=beta&t=ZdzGrWrOxgS5UkdqpTgVWoD2eWqdFZniAG1OTulCOCw"
+              }
+            },
+            {
+              "title": "Circular Views",
+              "subtitle": "Market insights - Circular economy - Tech & performance. Decoding circular tech with Recommerce Group ",
+              "link": "https://www.linkedin.com/newsletters/7473301296431894529",
+              "caption": "Published monthly",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E12AQEFDnxznSut2Q/series-logo_image-shrink_300_300/B4EZ7Z_6U5IcAQ-/0/1781773871122?e=1791417600&v=beta&t=L5_fn12urJPnP1A4tIxLmAMxiLt2dXJJHB2PBSP_gSw"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Schools",
+          "elements": [
+            {
+              "title": "Y Combinator",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/school/167872/",
+              "caption": "1,821,627 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1791417600&v=beta&t=pOn-jCxLXA73pRRDQ4qJxVnsn1PHoNuqahekEpOQRdk"
+              }
+            },
+            {
+              "title": "Les Entrep'​",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/school/9395581/",
+              "caption": "10,056 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEhuB4vgff9oA/company-logo_400_400/B4DZc2QSOJGwAY-/0/1748961928864/lesentrep_logo?e=1791417600&v=beta&t=x86cFUWb5ZVhdJhWvD57hnklOjhwuGA5PdZ40Pey-7s"
+              }
+            }
+          ]
+        }
+      ],
+      "openProfile": false,
+      "_meta": {
+        "pagination": {
+          "totalElements": 7767,
+          "totalPages": 100,
+          "pageNumber": 1,
+          "previousElements": 0,
+          "pageSize": 25
+        },
+        "scrapedAt": "2026-09-21T13:08:26.793Z"
+      },
+      "profileIdInSearch": "ACwAABJ2sOIBZDLwM-MyUZVQYR8UsWL7pmqnXIs"
+    },
+    {
+      "id": "ACoAADVC2bQBT6Fjsrh9S2lTfiPIdFlijiPRox8",
+      "publicIdentifier": "safouanebenamer",
+      "linkedinUrl": "https://www.linkedin.com/in/safouanebenamer",
+      "firstName": "Safouane",
+      "lastName": "Benamer",
+      "emails": [],
+      "headline": "Chief Executive Officer",
+      "openToWork": false,
+      "hiring": false,
+      "premium": false,
+      "influencer": false,
+      "memorialized": false,
+      "creator": true,
+      "location": {
+        "linkedinText": "Brétigny-sur-Orge, Île-de-France, France",
+        "countryCode": "FR",
+        "parsed": {
+          "text": "Brétigny-sur-Orge, France",
+          "countryCode": "FR",
+          "regionCode": null,
+          "country": "France",
+          "countryFull": "France",
+          "state": "Île-de-France",
+          "city": "Brétigny-sur-Orge"
+        }
+      },
+      "objectUrn": "893573556",
+      "registeredAt": "2021-04-09T16:47:58.204Z",
+      "topSkills": [],
+      "connectionsCount": 5113,
+      "followerCount": 6775,
+      "verified": false,
+      "about": "Opus + Coros + Firdaws",
+      "currentPosition": [
+        {
+          "position": "Chief Executive Officer",
+          "location": "Brétigny-sur-Orge, Île-de-France, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "OPUS Aerospace",
+          "companyUniversalName": "opusaerospace",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/opusaerospace/",
+          "companyId": "80746482",
+          "duration": "4 yrs 11 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Nov",
+            "year": 2021,
+            "text": "Nov 2021"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGIHcJa8EtGXA/company-logo_400_400/company-logo_400_400/0/1638358793838/opus_aerospace_logo?e=1791417600&v=beta&t=urXqo8PWwPFPxqYXf6eiZuTFhMGs0bRN7l5eKKuCHaE",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGIHcJa8EtGXA/company-logo_400_400/company-logo_400_400/0/1638358793838/opus_aerospace_logo?e=1791417600&v=beta&t=urXqo8PWwPFPxqYXf6eiZuTFhMGs0bRN7l5eKKuCHaE",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGIHcJa8EtGXA/company-logo_200_200/company-logo_200_200/0/1638358793838/opus_aerospace_logo?e=1791417600&v=beta&t=K53xRADgLoyANIpBLe-dSFWqPkMaTVCwvaKIdw3J-2w",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGIHcJa8EtGXA/company-logo_100_100/company-logo_100_100/0/1638358793838/opus_aerospace_logo?e=1791417600&v=beta&t=Lu34q6p0IeDByZH8iXStTIvKCygkDX6BJmZ5mzvsZqQ",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "profileTopEducation": [
+        {
+          "schoolName": "HEC Paris",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/235785/",
+          "schoolId": "235785",
+          "degree": "Challenge +",
+          "fieldOfStudy": null,
+          "period": "2022 - 2023",
+          "startDate": {
+            "year": 2022,
+            "text": "2022"
+          },
+          "endDate": {
+            "year": 2023,
+            "text": "2023"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQEoEkTMvE2haw/company-logo_400_400/company-logo_400_400/0/1631371799137?e=1791417600&v=beta&t=sXU1ZMzFMOn2WPAMvVCLN7pmf3YT_S1KZEDPXMKeYxk",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQEoEkTMvE2haw/company-logo_400_400/company-logo_400_400/0/1631371799137?e=1791417600&v=beta&t=sXU1ZMzFMOn2WPAMvVCLN7pmf3YT_S1KZEDPXMKeYxk",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQEoEkTMvE2haw/company-logo_200_200/company-logo_200_200/0/1631371799137?e=1791417600&v=beta&t=HVf0sRrZrxYIFggDKwO1-CB6eSaJyZxGiRxAD0FnLhs",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQEoEkTMvE2haw/company-logo_100_100/company-logo_100_100/0/1631371799137?e=1791417600&v=beta&t=kFSzN89ZXwGbJ3pa4RVPOnvvbbVqceMxqXP8Vsf3hAA",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "profileActions": [],
+      "profilePicture": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D03AQFhSO5h_GjgJg/profile-displayphoto-crop_800_800/B4DZ9I9jBdH0AI-/0/1783635521875?e=1791417600&v=beta&t=sDcyleNzQh2Cer_LpGLAUOE-3LTXXSivme5MRM_4czA",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQFhSO5h_GjgJg/profile-displayphoto-crop_800_800/B4DZ9I9jBdH0AI-/0/1783635521875?e=1791417600&v=beta&t=sDcyleNzQh2Cer_LpGLAUOE-3LTXXSivme5MRM_4czA",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQFhSO5h_GjgJg/profile-displayphoto-scale_400_400/B4DZ9I9jBdH0Ag-/0/1783635521916?e=1791417600&v=beta&t=6JLuD7epXXqBK6NQftFeL12-xFy8yCQo8BqTs1osNf0",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQFhSO5h_GjgJg/profile-displayphoto-scale_200_200/B4DZ9I9jBdH0Ac-/0/1783635521916?e=1791417600&v=beta&t=2R3cUFW9xl055nmFZ_pe9RjbG-HiN9Z8Df4m12J0llI",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D03AQFhSO5h_GjgJg/profile-displayphoto-scale_100_100/B4DZ9I9jBdH0AY-/0/1783635521916?e=1791417600&v=beta&t=nrjm-ZrII3D82-kWukOwBrSWSgLYjj8g0crLWR8_KcQ",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "coverPicture": null,
+      "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFhSO5h_GjgJg/profile-displayphoto-crop_800_800/B4DZ9I9jBdH0AI-/0/1783635521875?e=1791417600&v=beta&t=sDcyleNzQh2Cer_LpGLAUOE-3LTXXSivme5MRM_4czA",
+      "profileLocales": [
+        {
+          "country": "FR",
+          "language": "fr"
+        }
+      ],
+      "primaryLocale": {
+        "country": "FR",
+        "language": "fr"
+      },
+      "multiLocaleHeadline": [
+        {
+          "headline": "Chief Executive Officer",
+          "locale": "fr_FR"
+        }
+      ],
+      "services": null,
+      "experience": [
+        {
+          "position": "Chief Executive Officer",
+          "location": "Brétigny-sur-Orge, Île-de-France, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "OPUS Aerospace",
+          "companyUniversalName": "opusaerospace",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/opusaerospace/",
+          "companyId": "80746482",
+          "duration": "4 yrs 11 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Nov",
+            "year": 2021,
+            "text": "Nov 2021"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGIHcJa8EtGXA/company-logo_400_400/company-logo_400_400/0/1638358793838/opus_aerospace_logo?e=1791417600&v=beta&t=urXqo8PWwPFPxqYXf6eiZuTFhMGs0bRN7l5eKKuCHaE",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGIHcJa8EtGXA/company-logo_400_400/company-logo_400_400/0/1638358793838/opus_aerospace_logo?e=1791417600&v=beta&t=urXqo8PWwPFPxqYXf6eiZuTFhMGs0bRN7l5eKKuCHaE",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGIHcJa8EtGXA/company-logo_200_200/company-logo_200_200/0/1638358793838/opus_aerospace_logo?e=1791417600&v=beta&t=K53xRADgLoyANIpBLe-dSFWqPkMaTVCwvaKIdw3J-2w",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGIHcJa8EtGXA/company-logo_100_100/company-logo_100_100/0/1638358793838/opus_aerospace_logo?e=1791417600&v=beta&t=Lu34q6p0IeDByZH8iXStTIvKCygkDX6BJmZ5mzvsZqQ",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Co-founder",
+          "location": "Paris, Île-de-France, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "Coros Space",
+          "companyUniversalName": "coros-space",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/coros-space/",
+          "companyId": "105819138",
+          "duration": "1 yr 11 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Nov",
+            "year": 2024,
+            "text": "Nov 2024"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHKKXvvF46TQA/company-logo_400_400/B4EZ67jis7IcAU-/0/1781263117375/coros_space_logo?e=1791417600&v=beta&t=PtCUAml4sUBO6aeor_UuyZNZjdBxwpb8rh9mkiMuem4",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHKKXvvF46TQA/company-logo_400_400/B4EZ67jis7IcAU-/0/1781263117375/coros_space_logo?e=1791417600&v=beta&t=PtCUAml4sUBO6aeor_UuyZNZjdBxwpb8rh9mkiMuem4",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHKKXvvF46TQA/company-logo_200_200/B4EZ67jis7IcAE-/0/1781263117375/coros_space_logo?e=1791417600&v=beta&t=Um79FFmEpyxSsgZYiWMnGS4fJf4hxUTT5NJsA59eOls",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHKKXvvF46TQA/company-logo_100_100/B4EZ67jis7IcAI-/0/1781263117375/coros_space_logo?e=1791417600&v=beta&t=_D1fjYo0rwuZ6Ti6GLYfs0CWeG4el13nlB7MBrFyZMo",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Board Member",
+          "location": "Paris, Île-de-France, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "Comité Richelieu",
+          "companyUniversalName": "comit%C3%A9-richelieu",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/comit%C3%A9-richelieu/",
+          "companyId": "15223246",
+          "duration": "1 yr 5 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "May",
+            "year": 2025,
+            "text": "May 2025"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFJ9zkJWMRdog/company-logo_400_400/company-logo_400_400/0/1630549109574/comit_richelieu_logo?e=1791417600&v=beta&t=pMat7ByVMdxFHQYS09RNmdEbGIpJnBVTUK9HRiJ4EzU",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFJ9zkJWMRdog/company-logo_400_400/company-logo_400_400/0/1630549109574/comit_richelieu_logo?e=1791417600&v=beta&t=pMat7ByVMdxFHQYS09RNmdEbGIpJnBVTUK9HRiJ4EzU",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFJ9zkJWMRdog/company-logo_200_200/company-logo_200_200/0/1630549109574/comit_richelieu_logo?e=1791417600&v=beta&t=9wD4-M7h1hLXi9xMaXe889O8TKg-ZCwZ1y_3IDDaVDk",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFJ9zkJWMRdog/company-logo_100_100/company-logo_100_100/0/1630549109574/comit_richelieu_logo?e=1791417600&v=beta&t=naOfWuUHlsXGfJjC6YrtmXlHg7Q9eRvpbqhcneYT-78",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Member",
+          "location": "Ville de Paris, Île-de-France, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "The Galion Project",
+          "companyUniversalName": "the-galion-project",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/the-galion-project/",
+          "companyId": "15187515",
+          "duration": "1 yr 9 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Jan",
+            "year": 2025,
+            "text": "Jan 2025"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGvMz9Dx_sacg/company-logo_400_400/company-logo_400_400/0/1647508980964/the_galion_project_logo?e=1791417600&v=beta&t=UI2nepE6Z5lKErSgYJVkpRji_bz53xO0ubABcIeq0DY",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGvMz9Dx_sacg/company-logo_400_400/company-logo_400_400/0/1647508980964/the_galion_project_logo?e=1791417600&v=beta&t=UI2nepE6Z5lKErSgYJVkpRji_bz53xO0ubABcIeq0DY",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGvMz9Dx_sacg/company-logo_200_200/company-logo_200_200/0/1647508980964/the_galion_project_logo?e=1791417600&v=beta&t=dSI_jffD2pV6YITcQFHgpHjhd_Ou625vEpRHMYWAWfQ",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGvMz9Dx_sacg/company-logo_100_100/company-logo_100_100/0/1647508980964/the_galion_project_logo?e=1791417600&v=beta&t=lOkszyOZ-4WvkHcRfM2yC4Ct5yrUMjJ6XDqqBCmyBOs",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Lecturer",
+          "location": "Ivry-sur-Seine, Île-de-France, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "IPSA, école d'ingénieurs de l'air et de l'espace",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/school/ipsa-ecole/",
+          "companyId": "15143062",
+          "duration": "1 yr 1 mo",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Sep",
+            "year": 2025,
+            "text": "Sep 2025"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQFq7wg7kE54TQ/company-logo_400_400/B56Z38uATNKoAY-/0/1778061412214/ipsa_cole_dingnieurs_de_lair_et_de_lespace_logo?e=1791417600&v=beta&t=Octa1TcduMZG9mSLZor4e_YWevvV-X3qRwD-IAB6Opo",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQFq7wg7kE54TQ/company-logo_400_400/B56Z38uATNKoAY-/0/1778061412214/ipsa_cole_dingnieurs_de_lair_et_de_lespace_logo?e=1791417600&v=beta&t=Octa1TcduMZG9mSLZor4e_YWevvV-X3qRwD-IAB6Opo",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQFq7wg7kE54TQ/company-logo_200_200/B56Z38uATNKoAI-/0/1778061412214/ipsa_cole_dingnieurs_de_lair_et_de_lespace_logo?e=1791417600&v=beta&t=mQQW7LGPJIosuY3_P0slncMkaJhecY5XDU_pAuGXrcU",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQFq7wg7kE54TQ/company-logo_100_100/B56Z38uATNKoAQ-/0/1778061412214/ipsa_cole_dingnieurs_de_lair_et_de_lespace_logo?e=1791417600&v=beta&t=1Lav4m9q6EyVoisdkd7mAhVlukleNIusiCksr07-Gvo",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Board Member",
+          "location": "Paris, Île-de-France, France",
+          "employmentType": null,
+          "workplaceType": "Hybrid",
+          "companyName": "ASTech Paris Region",
+          "companyUniversalName": "astech-paris-region",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/astech-paris-region/",
+          "companyId": "18361791",
+          "duration": "1 yr 9 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Jan",
+            "year": 2025,
+            "text": "Jan 2025"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEnqOSf6jTO4A/company-logo_400_400/company-logo_400_400/0/1711457876256/astech_paris_region_logo?e=1791417600&v=beta&t=K4envvyhl83sDuSWXWxtMFRJ5IBAaNaViaRRZdk5PFQ",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEnqOSf6jTO4A/company-logo_400_400/company-logo_400_400/0/1711457876256/astech_paris_region_logo?e=1791417600&v=beta&t=K4envvyhl83sDuSWXWxtMFRJ5IBAaNaViaRRZdk5PFQ",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEnqOSf6jTO4A/company-logo_200_200/company-logo_200_200/0/1711457876256/astech_paris_region_logo?e=1791417600&v=beta&t=47BPAuFYGZWpt5CcNYCbDQ2TBGXYW9QyAJQeLLR-_Jg",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEnqOSf6jTO4A/company-logo_100_100/company-logo_100_100/0/1711457876256/astech_paris_region_logo?e=1791417600&v=beta&t=v5OiDBXkYXutDy3Sl6whbLoiiipmMDJ008ODVsp_WVg",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Co-founder & Chief Technical Officer",
+          "location": "Paris, Île-de-France, France",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "Strato Space System",
+          "companyUniversalName": "sirius-space-services",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/sirius-space-services/",
+          "companyId": "53426099",
+          "duration": "1 yr 2 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Jul",
+            "year": 2020,
+            "text": "Jul 2020"
+          },
+          "endDate": {
+            "month": "Aug",
+            "year": 2021,
+            "text": "Aug 2021"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEKckSVN1-nxA/company-logo_400_400/B4EaCFrSOqLAAY-/0/1788949111996/sirius_space_services_logo?e=1791417600&v=beta&t=7tG_HHbeKVuUK69WgQzv1dGo0G2wslGWB3t0AqktKQ8",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEKckSVN1-nxA/company-logo_400_400/B4EaCFrSOqLAAY-/0/1788949111996/sirius_space_services_logo?e=1791417600&v=beta&t=7tG_HHbeKVuUK69WgQzv1dGo0G2wslGWB3t0AqktKQ8",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEKckSVN1-nxA/company-logo_200_200/B4EaCFrSOqLAAI-/0/1788949111996/sirius_space_services_logo?e=1791417600&v=beta&t=Wl04PZDkW-9bTjrydcPpeZ5LROGj65cD-BwE63LZyOw",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEKckSVN1-nxA/company-logo_100_100/B4EaCFrSOqLAAM-/0/1788949111996/sirius_space_services_logo?e=1791417600&v=beta&t=IHiWgnbqGTOEPfMq2QU0URKLDGipOXGPjIpkS4QkINU",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Electronics Engineer",
+          "location": "Guyancourt, Île-de-France, France",
+          "employmentType": "Internship",
+          "workplaceType": null,
+          "companyName": "CNRS - Centre national de la recherche scientifique",
+          "companyUniversalName": "cnrs",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/cnrs/",
+          "companyId": "327066",
+          "duration": "7 mos",
+          "description": "Digital model development of the radiofrequency electronics of the WISDOM radar instrument on board the ExoMars 2022 Mission Rover Rosalind Franklin. ",
+          "skills": null,
+          "startDate": {
+            "month": "Aug",
+            "year": 2020,
+            "text": "Aug 2020"
+          },
+          "endDate": {
+            "month": "Feb",
+            "year": 2021,
+            "text": "Feb 2021"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHWVkPoemGy9A/company-logo_400_400/company-logo_400_400/0/1697807244531/cnrs_logo?e=1791417600&v=beta&t=CNNTCQtZKH8L68Dp9dWMY89miwYAFBvfi45tWXC9q5w",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHWVkPoemGy9A/company-logo_400_400/company-logo_400_400/0/1697807244531/cnrs_logo?e=1791417600&v=beta&t=CNNTCQtZKH8L68Dp9dWMY89miwYAFBvfi45tWXC9q5w",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHWVkPoemGy9A/company-logo_200_200/company-logo_200_200/0/1697807244531/cnrs_logo?e=1791417600&v=beta&t=YS1Pw2wHNZ1YnQPE7eY4rxRpjll0fHgsLVn4A3EOlGU",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHWVkPoemGy9A/company-logo_100_100/company-logo_100_100/0/1697807244531/cnrs_logo?e=1791417600&v=beta&t=M_Hzlxyj383sxfuhS3MrAUhAC-Rg_9jMHuYq4-gaDSA",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Software Engineer",
+          "location": "Élancourt, Île-de-France, France",
+          "employmentType": "Internship",
+          "workplaceType": null,
+          "companyName": "Airbus Defence and Space",
+          "companyUniversalName": "airbus-defence-and-space",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/airbus-defence-and-space/",
+          "companyId": "1242225",
+          "duration": "3 mos",
+          "description": "Development of a tool to test the interfaces of software components that allow planning, management and supervision phases of a military satellite communication deployment to be carried out. ",
+          "skills": null,
+          "startDate": {
+            "month": "Jul",
+            "year": 2019,
+            "text": "Jul 2019"
+          },
+          "endDate": {
+            "month": "Sep",
+            "year": 2019,
+            "text": "Sep 2019"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQHiVUv4_8Usqw/company-logo_400_400/company-logo_400_400/0/1631362043684/airbus_defence_and_space_logo?e=1791417600&v=beta&t=6siVTVW_eQXX4prcNTrs4MGTcEOKtDA1j2ELYM7wIvk",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQHiVUv4_8Usqw/company-logo_400_400/company-logo_400_400/0/1631362043684/airbus_defence_and_space_logo?e=1791417600&v=beta&t=6siVTVW_eQXX4prcNTrs4MGTcEOKtDA1j2ELYM7wIvk",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQHiVUv4_8Usqw/company-logo_200_200/company-logo_200_200/0/1631362043684/airbus_defence_and_space_logo?e=1791417600&v=beta&t=WMfKsSYEcmZZMQ8nwDqVXXfvRz_TN8qQd3afp_cPqTM",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQHiVUv4_8Usqw/company-logo_100_100/company-logo_100_100/0/1631362043684/airbus_defence_and_space_logo?e=1791417600&v=beta&t=OhIdUCn7exbC_olp2x4HkWgaIG-C5XZWNsW020NN-NU",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "CAD Designer",
+          "location": "Toulouse, Occitanie, France",
+          "employmentType": "Internship",
+          "workplaceType": null,
+          "companyName": "Airbus",
+          "companyUniversalName": "airbusgroup",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/airbusgroup/",
+          "companyId": "2734",
+          "duration": "1 mo",
+          "description": "Composite design of two innovative fins for the A350-1000.",
+          "skills": null,
+          "startDate": {
+            "month": "Jul",
+            "year": 2017,
+            "text": "Jul 2017"
+          },
+          "endDate": {
+            "month": "Jul",
+            "year": 2017,
+            "text": "Jul 2017"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_400_400/company-logo_400_400/0/1631375371457/airbusgroup_logo?e=1791417600&v=beta&t=dPJDbmKWoHS0IEFSgg8NpJKWp9wK8UwGYEJ8o9X4Epo",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_400_400/company-logo_400_400/0/1631375371457/airbusgroup_logo?e=1791417600&v=beta&t=dPJDbmKWoHS0IEFSgg8NpJKWp9wK8UwGYEJ8o9X4Epo",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_200_200/company-logo_200_200/0/1631375371456/airbusgroup_logo?e=1791417600&v=beta&t=AtWPC54BkCbo0O5U692vTnSTiakrgyYef9vd5DrtmY0",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_100_100/company-logo_100_100/0/1631375371456/airbusgroup_logo?e=1791417600&v=beta&t=ATmGhwl4400jGn2ARrsYeCvgaNBfnXnnwEaABT5Hsjc",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "education": [
+        {
+          "schoolName": "HEC Paris",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/235785/",
+          "schoolId": "235785",
+          "degree": "Challenge +",
+          "fieldOfStudy": null,
+          "period": "2022 - 2023",
+          "startDate": {
+            "year": 2022,
+            "text": "2022"
+          },
+          "endDate": {
+            "year": 2023,
+            "text": "2023"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQEoEkTMvE2haw/company-logo_400_400/company-logo_400_400/0/1631371799137?e=1791417600&v=beta&t=sXU1ZMzFMOn2WPAMvVCLN7pmf3YT_S1KZEDPXMKeYxk",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQEoEkTMvE2haw/company-logo_400_400/company-logo_400_400/0/1631371799137?e=1791417600&v=beta&t=sXU1ZMzFMOn2WPAMvVCLN7pmf3YT_S1KZEDPXMKeYxk",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQEoEkTMvE2haw/company-logo_200_200/company-logo_200_200/0/1631371799137?e=1791417600&v=beta&t=HVf0sRrZrxYIFggDKwO1-CB6eSaJyZxGiRxAD0FnLhs",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQEoEkTMvE2haw/company-logo_100_100/company-logo_100_100/0/1631371799137?e=1791417600&v=beta&t=kFSzN89ZXwGbJ3pa4RVPOnvvbbVqceMxqXP8Vsf3hAA",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "IPSA, école d'ingénieurs de l'air et de l'espace",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/15143062/",
+          "schoolId": "15143062",
+          "degree": "Aerospace Engineering",
+          "fieldOfStudy": null,
+          "period": "2015 - 2020",
+          "startDate": {
+            "year": 2015,
+            "text": "2015"
+          },
+          "endDate": {
+            "year": 2020,
+            "text": "2020"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQFq7wg7kE54TQ/company-logo_400_400/B56Z38uATNKoAY-/0/1778061412214/ipsa_cole_dingnieurs_de_lair_et_de_lespace_logo?e=1791417600&v=beta&t=Octa1TcduMZG9mSLZor4e_YWevvV-X3qRwD-IAB6Opo",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQFq7wg7kE54TQ/company-logo_400_400/B56Z38uATNKoAY-/0/1778061412214/ipsa_cole_dingnieurs_de_lair_et_de_lespace_logo?e=1791417600&v=beta&t=Octa1TcduMZG9mSLZor4e_YWevvV-X3qRwD-IAB6Opo",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQFq7wg7kE54TQ/company-logo_200_200/B56Z38uATNKoAI-/0/1778061412214/ipsa_cole_dingnieurs_de_lair_et_de_lespace_logo?e=1791417600&v=beta&t=mQQW7LGPJIosuY3_P0slncMkaJhecY5XDU_pAuGXrcU",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQFq7wg7kE54TQ/company-logo_100_100/B56Z38uATNKoAQ-/0/1778061412214/ipsa_cole_dingnieurs_de_lair_et_de_lespace_logo?e=1791417600&v=beta&t=1Lav4m9q6EyVoisdkd7mAhVlukleNIusiCksr07-Gvo",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "Kyungsung University",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/14422023/",
+          "schoolId": "14422023",
+          "degree": "Embedded Systems and Telecommunications",
+          "fieldOfStudy": null,
+          "period": "2018 - 2019",
+          "startDate": {
+            "year": 2018,
+            "text": "2018"
+          },
+          "endDate": {
+            "year": 2019,
+            "text": "2019"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQECpdFexae8Cg/company-logo_400_400/company-logo_400_400/0/1631426499366/kyungsunguniv_logo?e=1791417600&v=beta&t=vXL8UUjKDtQMpDFVx5NM96tp-78kwfNY0QXeZiX4FoM",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQECpdFexae8Cg/company-logo_400_400/company-logo_400_400/0/1631426499366/kyungsunguniv_logo?e=1791417600&v=beta&t=vXL8UUjKDtQMpDFVx5NM96tp-78kwfNY0QXeZiX4FoM",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQECpdFexae8Cg/company-logo_200_200/company-logo_200_200/0/1631426499366/kyungsunguniv_logo?e=1791417600&v=beta&t=1NQ163N9ACZURmIkJbwTFnFiBNlLAjFaoEbxaIAg_D0",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQECpdFexae8Cg/company-logo_100_100/company-logo_100_100/0/1631426499366/kyungsunguniv_logo?e=1791417600&v=beta&t=7YTU_MLg_T_m-ELAzyo8yezQbD7Sa1QRR-B_ocjJj68",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "certifications": [],
+      "projects": [
+        {
+          "title": "SERA4 supersonic demonstrator",
+          "duration": "Sep 2017 - Dec 2019",
+          "startDate": {
+            "month": "Sep",
+            "year": 2017,
+            "text": "Sep 2017"
+          },
+          "endDate": {
+            "month": "Dec",
+            "year": 2019,
+            "text": "Dec 2019"
+          },
+          "description": "4th supersonic demonstrator of the PERSEUS project at CNES. Directly derived from SERA3 with many technical improvements, increased measurement plan and confirmation of operational know-how.\n\nUntil December 2019."
+        },
+        {
+          "title": "DIAMANT subsonic demontrator",
+          "duration": "Sep 2017 - Jul 2019",
+          "startDate": {
+            "month": "Sep",
+            "year": 2017,
+            "text": "Sep 2017"
+          },
+          "endDate": {
+            "month": "Jul",
+            "year": 2019,
+            "text": "Jul 2019"
+          },
+          "description": "DIAMANT is a subsonic rocket developped & manufactured by Ipsa Space Systems. This rocket has a role of standardization for the next rockets of the club. Equiped with all the required electronics & sensors to get the flight data, the main experience  was to film the flight at 360 ° with stabilization of the camera in roll relative to the rocket. \n\nSuccessful launch during summer 2019 from Tarbes (C'SPACE)."
+        },
+        {
+          "title": "MINI-APTERROS demonstrator",
+          "duration": "Sep 2017 - Jul 2019",
+          "startDate": {
+            "month": "Sep",
+            "year": 2017,
+            "text": "Sep 2017"
+          },
+          "endDate": {
+            "month": "Jul",
+            "year": 2019,
+            "text": "Jul 2019"
+          },
+          "description": "The Mini-APTERROS Project aims to set up a fundamental technological brick necessary for the realization of a reusable biliquid VTVL first stage demonstrator, which will prefigure the rocket demonstrator of DREAM-ON. The objective is to work on the GNC by making an application on a small-scale demonstrator."
+        },
+        {
+          "title": "SERA3 supersonic demonstrator",
+          "duration": "Sep 2015 - Jul 2017",
+          "startDate": {
+            "month": "Sep",
+            "year": 2015,
+            "text": "Sep 2015"
+          },
+          "endDate": {
+            "month": "Jul",
+            "year": 2017,
+            "text": "Jul 2017"
+          },
+          "description": "3rd supersonic rocket of the PERSEUS project of CNES marking a step in terms of size and performance compared to SERA1 and 2 in particular by the passage to acluster of 3 powder thrusters (against 1 on SERA1 and 2) and a more substantial takeoff weight .\n\nSuccessful launch in spring 2017 from ESRANGE (SSC)."
+        }
+      ],
+      "volunteering": [],
+      "receivedRecommendations": [],
+      "skills": [],
+      "publications": [],
+      "courses": [],
+      "patents": [],
+      "honorsAndAwards": [],
+      "languages": [],
+      "organizations": [],
+      "causes": [],
+      "featured": {
+        "images": [],
+        "link": null,
+        "title": null,
+        "subtitle": null,
+        "slides": [
+          {
+            "title": null,
+            "subtitle": null,
+            "description": null,
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7398692816798822400?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7398692816798822400%29",
+            "image": {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQHwxYV9TlnLUA/feedshare-image-high-res/B4EZq1v6UZKYAw-/0/1763985827856?e=1791417600&v=beta&t=DVYi3nCisz8KhATwuprMSaIpnSGaVpiW58oV2_ccQ2o"
+            }
+          }
+        ]
+      },
+      "composeOptionType": "UPSELL",
+      "moreProfiles": [],
+      "sectionTotals": {
+        "experience": 10,
+        "education": 3,
+        "certifications": 0,
+        "receivedRecommendations": 0,
+        "skills": 0,
+        "courses": 0,
+        "languages": 0,
+        "projects": 4,
+        "volunteering": 0,
+        "publications": 0,
+        "patents": 0,
+        "organizations": 0,
+        "honorsAndAwards": 0,
+        "causes": 0
+      },
+      "interests": [
+        {
+          "interestName": "Top Voices",
+          "elements": [
+            {
+              "title": "Olivier Ginon",
+              "subtitle": "Président chez GL events",
+              "link": "https://www.linkedin.com/in/olivier-ginon-7293b3205",
+              "caption": "35,163 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4D03AQGjSpiJ22Yksw/profile-displayphoto-shrink_800_800/B4DZPe5PaDHcAg-/0/1734611367979?e=1791417600&v=beta&t=SMJG8zN69iniyqDycrLEmfTT5wvyqeAkSP0kDLcqPUk"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Companies",
+          "elements": [
+            {
+              "title": "NASA - National Aeronautics and Space Administration",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/2003/",
+              "caption": "7,114,804 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGRBHWCcaAqGg/company-logo_400_400/company-logo_400_400/0/1630507197379/nasa_logo?e=1791417600&v=beta&t=st5Yhnd7VskSDWRVAwO_pSNta6UuOeCzdkw034PeN3g"
+              }
+            },
+            {
+              "title": "NASA Jet Propulsion Laboratory",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/2004/",
+              "caption": "1,210,940 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQHaiTAasWYneg/company-logo_400_400/B56Z6Uz.bEHUAU-/0/1780613113854/jet_propulsion_laboratory_logo?e=1791417600&v=beta&t=nQtPU3j09CKHxhA_4BYcdrRpO0OCsr0Rk05OwGbw_hk"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Groups",
+          "elements": [
+            {
+              "title": "Programme Défense Systematic",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/17211030",
+              "caption": "68 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E07AQF0pqPUm-AMSQ/group-logo_image-shrink_400x400/B4EZwfMnpLIIAU-/0/1770049928935?e=1790604000&v=beta&t=p-R8CJijjdHNruzaKpNmBAkku52UVzxGCiyl4Bydqw4"
+              }
+            },
+            {
+              "title": "ESA BIC France Alumni et Incubés",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/13093111",
+              "caption": "60 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E07AQG-KnxYy59jwg/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1727257731658?e=1790604000&v=beta&t=sFw46ChkRqaEPVbqWsZ6A7EbMSz33wNP7svzQ34t8ns"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Newsletters",
+          "elements": [
+            {
+              "title": "The Lynx Link",
+              "subtitle": "Smarter learning. Stronger teams.",
+              "link": "https://www.linkedin.com/newsletters/7349024907613114368",
+              "caption": "Published monthly",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E12AQE2v0qrNgdhdA/series-logo_image-shrink_300_300/B4EZfz7K2xHwAc-/0/1752144064673?e=1791417600&v=beta&t=ztyOb_RR8ZYyWgZaH90Ouk7gop_-vzXuARAuugcZO54"
+              }
+            },
+            {
+              "title": "EIC Scaling Club newsletter",
+              "subtitle": "The monthly newsletter for EIC Scaling Club members and interested stakeholders",
+              "link": "https://www.linkedin.com/newsletters/7121037842704646144",
+              "caption": "Published monthly",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E12AQGnAgtJtNZvfg/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1697787721833?e=1791417600&v=beta&t=hiJ3TOR9QX9ldwMw2zYrb42zjkifxP56GkJo21zFY9g"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Schools",
+          "elements": [
+            {
+              "title": "Kyungsung University",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/school/14422023/",
+              "caption": "4,891 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQECpdFexae8Cg/company-logo_400_400/company-logo_400_400/0/1631426499366/kyungsunguniv_logo?e=1791417600&v=beta&t=vXL8UUjKDtQMpDFVx5NM96tp-78kwfNY0QXeZiX4FoM"
+              }
+            }
+          ]
+        }
+      ],
+      "openProfile": false,
+      "_meta": {
+        "pagination": {
+          "totalElements": 7767,
+          "totalPages": 100,
+          "pageNumber": 1,
+          "previousElements": 0,
+          "pageSize": 25
+        },
+        "scrapedAt": "2026-09-21T13:08:26.888Z"
+      },
+      "profileIdInSearch": "ACwAADVC2bQBHD82yC2YaTCoiihlSIhHBPOI7Ms"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "run_token": "76ad72cef995",
+  "actor_name": "y_combinator",
+  "actor_id": "CIHbQb2sgYrumBIIJ",
+  "apify_run_id": "F3hnIWvHQNzoUMekH",
+  "started_at": 994770.703,
+  "finished_at": 994957.89,
+  "item_count": 1,
+  "scoring_version": "1.0.0",
+  "score_summary": {
+    "Hot": 0,
+    "Hot-leaning Warm": 0,
+    "Warm": 0,
+    "Cold": 1
+  },
+  "items": [
+    {
+      "jobId": "93192",
+      "title": "Forward Deployed Consultant",
+      "url": "https://www.workatastartup.com/jobs/93192",
+      "companyName": "Varos",
+      "companySlug": "varos",
+      "companyUrl": "https://www.workatastartup.com/companies/varos",
+      "companyTagline": "AI Business Analysts to gather requirements and optimize processes",
+      "ycBatch": "S21",
+      "jobType": "Full-time",
+      "roleCategory": "Operations",
+      "roleSubcategory": "",
+      "salaryRange": "$60K - $110K",
+      "salaryMin": 60000,
+      "salaryMax": 110000,
+      "salaryCurrency": "USD",
+      "equity": "0.20% - 0.30%",
+      "location": "New York, NY, US / Remote (US)",
+      "postedAgo": "",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fcode%3De399f59e-4cef-474b-b3d8-4a0c74822a0d%26signup_job_id%3D93192&defaults%5Bemail%5D=search-d8014f09dd72f67c%40placeholder.workatastartup.com&defaults%5Bfirst_name%5D&defaults%5Blast_name%5D&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=23967",
+      "experience": "3+ years",
+      "visaSponsorship": "US citizen/visa only",
+      "description": "Varos is a rapidly growing agentic AI startup and we need someone to help support new clients in using the product. We've raised $10m from the best VCs in the world, including YC and Mosaic We’re looking for a hands-on Forward Deployed Consultant with 3–5 years of experience to join Varos as an early member of our FDC team. You’ll own a focused portfolio of enterprise accounts — conducting POCs, guiding onboarding, managing projects, driving deep adoption of our AI Business Analyst platform, and ensuring clients are consistently extracting measurable value from the product. The ideal candidate is naturally curious, very detail oriented, likes to use AI tools and is motivated to work hard. The role also involves a lot of product management related work as product requirements are largely driven by the FDC team and their learning of the customer's needs. This is a roll up your sleeves, get in the weeds and do an amazing job type of role.",
+      "descriptionHtml": "<p>Varos is a rapidly growing agentic AI startup and we need someone to help support new clients in using the product. We've raised $10m from the best VCs in the world, including YC and Mosaic<br>\n<br>\nWe’re looking for a hands-on Forward Deployed Consultant with 3–5 years of experience to join Varos as an early member of our FDC team. You’ll own a focused portfolio of enterprise accounts — conducting POCs, guiding onboarding, managing projects, driving deep adoption of our AI Business Analyst platform, and ensuring clients are consistently extracting measurable value from the product.</p>\n<p>The ideal candidate is naturally curious, very detail oriented, likes to use AI tools and is motivated to work hard.<br>\n<br>\nThe role also involves a lot of product management related work as product requirements are largely driven by the FDC team and their learning of the customer's needs.<br>\n<br>\nThis is a roll up your sleeves, get in the weeds and do an amazing job type of role.</p>\n",
+      "companyDescription": "AI Business Analysts to gather requirements and optimize processes",
+      "companyFounded": 2021,
+      "companyTeamSize": 9,
+      "companyStatus": "Active",
+      "companyLocation": "San Francisco",
+      "companyIndustry": "B2B -> Analytics",
+      "companyLogo": "https://bookface-images.s3.amazonaws.com/small_logos/1d8d1d12eabe00614dddbb8b85a798561bc42d4d.png",
+      "companyWebsite": "http://varos.com",
+      "founders": [
+        {
+          "name": "Lior Chen",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/392585a06e044db5db20a4badb72b5232910b5e0.jpg"
+        },
+        {
+          "name": "Yarden Shaked",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/5b1d17cfc99669b0d566f6b79bd445abbb615293.jpg"
+        },
+        {
+          "name": "Gil Shaked",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/09c9e87abe2ebd00011d2dea50deb1a76a761ab2.jpg"
+        }
+      ],
+      "scrapedAt": "2026-09-20T18:45:38.529247+00:00",
+      "skills": []
+    }
+  ]
+}

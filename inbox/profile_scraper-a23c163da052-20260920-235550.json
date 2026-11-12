@@ -1,0 +1,2873 @@
+{
+  "run_token": "a23c163da052",
+  "actor_name": "profile_scraper",
+  "actor_id": "M2FMdjRVeF1HPGFcc",
+  "apify_run_id": "0Qy7ImZMOlHd6812N",
+  "started_at": 993649.0,
+  "finished_at": 993660.906,
+  "item_count": 3,
+  "scoring_version": "1.0.0",
+  "score_summary": {
+    "Hot": 0,
+    "Hot-leaning Warm": 0,
+    "Warm": 1,
+    "Cold": 2
+  },
+  "items": [
+    {
+      "id": "ACoAACDPenMBgqLWGMAcF7SE1ih31z5i3rfghZw",
+      "publicIdentifier": "annahledikova",
+      "linkedinUrl": "https://www.linkedin.com/in/annahledikova",
+      "firstName": "Anna",
+      "lastName": "Hlédiková",
+      "emails": [],
+      "headline": "Co-founder @ SurgeryAI | MSc AI @ Imperial | KCL",
+      "websites": [
+        "https://www.surgeryai.com/"
+      ],
+      "openToWork": false,
+      "hiring": false,
+      "premium": false,
+      "influencer": false,
+      "memorialized": false,
+      "creator": false,
+      "location": {
+        "linkedinText": "London, England, United Kingdom",
+        "countryCode": "GB",
+        "parsed": {
+          "text": "London, United Kingdom",
+          "countryCode": "GB",
+          "regionCode": null,
+          "country": "UK",
+          "countryFull": "United Kingdom",
+          "state": "England",
+          "city": "London"
+        }
+      },
+      "objectUrn": "550468211",
+      "registeredAt": "2016-12-06T14:43:14.738Z",
+      "topSkills": [
+        "Machine Learning",
+        "Natural Language Processing (NLP)",
+        "AI in Healthcare",
+        "Research"
+      ],
+      "connectionsCount": 1678,
+      "followerCount": 1662,
+      "verified": true,
+      "about": "ML Engineer turned founder in the healthcare space.\n\nAt SurgeryAI, we’re boosting hospital and clinic efficiency by helping them better plan procedures and achieve more with their existing resources through tailored ML systems and automation.\n\nI'm passionate about tackling complex challenges in the AI space and beyond, and always eager to connect with fellow ML enthusiasts and professionals working on innovative projects in AI and healthcare.\n\nMore about what we do at https://surgeryai.com",
+      "currentPosition": [
+        {
+          "position": "Co-founder & CTO",
+          "location": "London Area, United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "SurgeryAI",
+          "companyUniversalName": "surgeryai",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/surgeryai/",
+          "companyId": "97869791",
+          "duration": "2 yrs 6 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Apr",
+            "year": 2024,
+            "text": "Apr 2024"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGrR7BmNAS4fQ/company-logo_400_400/B4EZxMPOVvGwAY-/0/1770805585833/surgeryai_logo?e=1791417600&v=beta&t=WBywzU2ogfZ01qYnMAq2Yym39PFwiQ7Y1JkCuMLwK2g",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGrR7BmNAS4fQ/company-logo_400_400/B4EZxMPOVvGwAY-/0/1770805585833/surgeryai_logo?e=1791417600&v=beta&t=WBywzU2ogfZ01qYnMAq2Yym39PFwiQ7Y1JkCuMLwK2g",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGrR7BmNAS4fQ/company-logo_200_200/B4EZxMPOVvGwAI-/0/1770805585833/surgeryai_logo?e=1791417600&v=beta&t=SaAirc1sHdTU86m6IBLsyEvhtg1oYdtNckreKTmLn5w",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGrR7BmNAS4fQ/company-logo_100_100/B4EZxMPOVvGwAQ-/0/1770805585833/surgeryai_logo?e=1791417600&v=beta&t=ToORIdUB2mRLUxiJIcRgpPKdqo7pgxIiRcH9lDmqGnw",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "profileTopEducation": [
+        {
+          "schoolName": "Imperial College London",
+          "description": "DeepMind Scholarship\n\nResearch project: Detecting Dementia from Speech (using the DementiaBank data set, applying deep neural networks, speech processing and natural language processing techniques)\n\nNotable modules: NLP; Reinforcement learning;  Computer Vision;  Symbolic AI;  Deep Learning;\nExtra module: Privacy Engineering (non-examined)",
+          "insights": "Activities and societies: Student Representative; Attended the 35th AAAI Conference; Member of Data Science Society",
+          "skills": [
+            "Machine Learning",
+            "AI in Healthcare",
+            "Python (Programming Language)",
+            "Research",
+            "Statistics"
+          ],
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/5106/",
+          "schoolId": "5106",
+          "degree": "MSc",
+          "fieldOfStudy": "Artificial Intelligence (Distinction)",
+          "period": "2020 - 2021",
+          "startDate": {
+            "year": 2020,
+            "text": "2020"
+          },
+          "endDate": {
+            "year": 2021,
+            "text": "2021"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=YdLwnLCb-dPK2mEnZQ2igCiPozEj6so1-wlyMlukFcA",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=YdLwnLCb-dPK2mEnZQ2igCiPozEj6so1-wlyMlukFcA",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_200_200/company-logo_200_200/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=u_E-8-LDpqd7U8UatrPibBZ5MpnOf3FcAr9Synsb4ho",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_100_100/company-logo_100_100/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=zcb8a5gI9zQ-6-ZcgAjIGJNdzRPGv9_Ld6uJjzCaXoA",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "profileActions": [],
+      "profilePicture": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E03AQELMtbYuiawDA/profile-displayphoto-crop_800_800/B4EaCglA1wK0AI-/0/1789400455305?e=1791417600&v=beta&t=yNUTihceW6NHI8yDG-ieHIQ-l2BGpAGTSSuiOdFj-rY",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQELMtbYuiawDA/profile-displayphoto-crop_800_800/B4EaCglA1wK0AI-/0/1789400455305?e=1791417600&v=beta&t=yNUTihceW6NHI8yDG-ieHIQ-l2BGpAGTSSuiOdFj-rY",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQELMtbYuiawDA/profile-displayphoto-scale_400_400/B4EaCglA1wK0Ag-/0/1789400455305?e=1791417600&v=beta&t=x8XMcmSXydZeH_k8YN2hNek_3h3FKJN_-Ri4BUjuCVM",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQELMtbYuiawDA/profile-displayphoto-scale_200_200/B4EaCglA1wK0Ac-/0/1789400455305?e=1791417600&v=beta&t=8zMuTRBsv_aLsxNxlW2Cx6LeqzffsVJtb0wNAfAHFUc",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E03AQELMtbYuiawDA/profile-displayphoto-scale_100_100/B4EaCglA1wK0AY-/0/1789400455305?e=1791417600&v=beta&t=HpmRf-4_-MXMvlptoOqDwpSU-ovEhfJEQ62kQXubM3M",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "coverPicture": {
+        "url": "https://media.licdn.com/dms/image/v2/D4E16AQGMXhu70f865w/profile-displaybackgroundimage-shrink_350_1400/B4EZxJJrbZGkAY-/0/1770753800493?e=1791417600&v=beta&t=xA3oeudzTZxJsRDduMJu6NOUbCQrxIbC_Jfp0LaunJU",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E16AQGMXhu70f865w/profile-displaybackgroundimage-shrink_350_1400/B4EZxJJrbZGkAY-/0/1770753800493?e=1791417600&v=beta&t=xA3oeudzTZxJsRDduMJu6NOUbCQrxIbC_Jfp0LaunJU",
+            "width": 1395,
+            "height": 348
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4E16AQGMXhu70f865w/profile-displaybackgroundimage-shrink_200_800/B4EZxJJrbZGkAU-/0/1770753800493?e=1791417600&v=beta&t=f1x8X2n6wpCh6VmJ9ujCmUnnmzyLGEVuTZ3MQpXqmCE",
+            "width": 800,
+            "height": 199
+          }
+        ]
+      },
+      "photo": "https://media.licdn.com/dms/image/v2/D4E03AQELMtbYuiawDA/profile-displayphoto-crop_800_800/B4EaCglA1wK0AI-/0/1789400455305?e=1791417600&v=beta&t=yNUTihceW6NHI8yDG-ieHIQ-l2BGpAGTSSuiOdFj-rY",
+      "profileLocales": [
+        {
+          "country": "US",
+          "language": "en"
+        },
+        {
+          "country": "CZ",
+          "language": "cs"
+        }
+      ],
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "multiLocaleHeadline": [
+        {
+          "headline": "Co-founder @ SurgeryAI | MSc AI @ Imperial | KCL",
+          "locale": "en_US"
+        },
+        {
+          "headline": "Data Science @ Echobox",
+          "locale": "cs_CZ"
+        }
+      ],
+      "services": null,
+      "experience": [
+        {
+          "position": "Co-founder & CTO",
+          "location": "London Area, United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "SurgeryAI",
+          "companyUniversalName": "surgeryai",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/surgeryai/",
+          "companyId": "97869791",
+          "duration": "2 yrs 6 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Apr",
+            "year": 2024,
+            "text": "Apr 2024"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGrR7BmNAS4fQ/company-logo_400_400/B4EZxMPOVvGwAY-/0/1770805585833/surgeryai_logo?e=1791417600&v=beta&t=WBywzU2ogfZ01qYnMAq2Yym39PFwiQ7Y1JkCuMLwK2g",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGrR7BmNAS4fQ/company-logo_400_400/B4EZxMPOVvGwAY-/0/1770805585833/surgeryai_logo?e=1791417600&v=beta&t=WBywzU2ogfZ01qYnMAq2Yym39PFwiQ7Y1JkCuMLwK2g",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGrR7BmNAS4fQ/company-logo_200_200/B4EZxMPOVvGwAI-/0/1770805585833/surgeryai_logo?e=1791417600&v=beta&t=SaAirc1sHdTU86m6IBLsyEvhtg1oYdtNckreKTmLn5w",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGrR7BmNAS4fQ/company-logo_100_100/B4EZxMPOVvGwAQ-/0/1770805585833/surgeryai_logo?e=1791417600&v=beta&t=ToORIdUB2mRLUxiJIcRgpPKdqo7pgxIiRcH9lDmqGnw",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Machine Learning Engineer",
+          "location": "Greater London, England, United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Echobox",
+          "companyUniversalName": "echobox",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/echobox/",
+          "companyId": "5268030",
+          "duration": "2 yrs 5 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Nov",
+            "year": 2021,
+            "text": "Nov 2021"
+          },
+          "endDate": {
+            "month": "Mar",
+            "year": 2024,
+            "text": "Mar 2024"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHnR2nHc9KFqg/company-logo_400_400/B4DZb5aMjdG0Ac-/0/1747941116761/echobox_logo?e=1791417600&v=beta&t=jTiCPCQWl43y44y1Cz6qkUuzJLMt2JfKzh5qqtTEjPI",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHnR2nHc9KFqg/company-logo_400_400/B4DZb5aMjdG0Ac-/0/1747941116761/echobox_logo?e=1791417600&v=beta&t=jTiCPCQWl43y44y1Cz6qkUuzJLMt2JfKzh5qqtTEjPI",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHnR2nHc9KFqg/company-logo_200_200/B4DZb5aMjdG0AM-/0/1747941116761/echobox_logo?e=1791417600&v=beta&t=9-sYhouu_Mqst_2ZvNEgfe8Rs5_iHinz5YHRH-ifNnU",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHnR2nHc9KFqg/company-logo_100_100/B4DZb5aMjdG0AU-/0/1747941116761/echobox_logo?e=1791417600&v=beta&t=HuVG1QF0UlfRHaMq8LHh7VRpzq0xTdoM-3eedCfk6cs",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Data Analyst",
+          "location": "Greater London, England, United Kingdom",
+          "employmentType": "Internship",
+          "workplaceType": null,
+          "companyName": "MAMA.codes Ltd",
+          "companyUniversalName": "mamacodes",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/mamacodes/",
+          "companyId": "18255486",
+          "duration": "6 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Sep",
+            "year": 2020,
+            "text": "Sep 2020"
+          },
+          "endDate": {
+            "month": "Feb",
+            "year": 2021,
+            "text": "Feb 2021"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEZUr-_L2jD_g/company-logo_400_400/company-logo_400_400/0/1630458184735?e=1791417600&v=beta&t=nm9tZ50kmpgocJssOhZGl96Q7tBMl9zIFJ9SkyZnaVU",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEZUr-_L2jD_g/company-logo_400_400/company-logo_400_400/0/1630458184735?e=1791417600&v=beta&t=nm9tZ50kmpgocJssOhZGl96Q7tBMl9zIFJ9SkyZnaVU",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEZUr-_L2jD_g/company-logo_200_200/company-logo_200_200/0/1630458184735?e=1791417600&v=beta&t=vUQNOe-UXnr5u-7_lw5NDvJpxgUH12E4uWbZ2LrpZNE",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEZUr-_L2jD_g/company-logo_100_100/company-logo_100_100/0/1630458184735?e=1791417600&v=beta&t=yjezV7k9C66e2yXdFmTomKbkpQp8vARElsEgVY7Kvds",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Visiting Associate",
+          "location": "Prague, Czechia",
+          "employmentType": "Internship",
+          "workplaceType": null,
+          "companyName": "Boston Consulting Group (BCG)",
+          "companyUniversalName": "boston-consulting-group",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/boston-consulting-group/",
+          "companyId": "1784",
+          "duration": "3 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Jun",
+            "year": 2019,
+            "text": "Jun 2019"
+          },
+          "endDate": {
+            "month": "Aug",
+            "year": 2019,
+            "text": "Aug 2019"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFRjmUd2-ll4A/company-logo_400_400/B4EZ50Ww6wG0AY-/0/1780068585403/boston_consulting_group_logo?e=1791417600&v=beta&t=nALJwH2_PCDVcvVFDNBymZ4Bzi_fAdHj45QKm1GzC6s",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFRjmUd2-ll4A/company-logo_400_400/B4EZ50Ww6wG0AY-/0/1780068585403/boston_consulting_group_logo?e=1791417600&v=beta&t=nALJwH2_PCDVcvVFDNBymZ4Bzi_fAdHj45QKm1GzC6s",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFRjmUd2-ll4A/company-logo_200_200/B4EZ50Ww6wG0AI-/0/1780068585403/boston_consulting_group_logo?e=1791417600&v=beta&t=wztT1xGv7ouq1GIjzXsuVKJOXwzW8Hxucyg1nnsQotg",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFRjmUd2-ll4A/company-logo_100_100/B4EZ50Ww6wG0AM-/0/1780068585403/boston_consulting_group_logo?e=1791417600&v=beta&t=VRzou1oZKMq3LRXoOM4LG3lf3NWKi3MLguZ7qLHN0I8",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "education": [
+        {
+          "schoolName": "Imperial College London",
+          "description": "DeepMind Scholarship\n\nResearch project: Detecting Dementia from Speech (using the DementiaBank data set, applying deep neural networks, speech processing and natural language processing techniques)\n\nNotable modules: NLP; Reinforcement learning;  Computer Vision;  Symbolic AI;  Deep Learning;\nExtra module: Privacy Engineering (non-examined)",
+          "insights": "Activities and societies: Student Representative; Attended the 35th AAAI Conference; Member of Data Science Society",
+          "skills": [
+            "Machine Learning",
+            "AI in Healthcare",
+            "Python (Programming Language)",
+            "Research",
+            "Statistics"
+          ],
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/5106/",
+          "schoolId": "5106",
+          "degree": "MSc",
+          "fieldOfStudy": "Artificial Intelligence (Distinction)",
+          "period": "2020 - 2021",
+          "startDate": {
+            "year": 2020,
+            "text": "2020"
+          },
+          "endDate": {
+            "year": 2021,
+            "text": "2021"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=YdLwnLCb-dPK2mEnZQ2igCiPozEj6so1-wlyMlukFcA",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=YdLwnLCb-dPK2mEnZQ2igCiPozEj6so1-wlyMlukFcA",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_200_200/company-logo_200_200/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=u_E-8-LDpqd7U8UatrPibBZ5MpnOf3FcAr9Synsb4ho",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_100_100/company-logo_100_100/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=zcb8a5gI9zQ-6-ZcgAjIGJNdzRPGv9_Ld6uJjzCaXoA",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "King's College London",
+          "description": "Notable modules: Complex Networks; Statistical Modelling; Cryptography; Time Series Analysis\n\nExtra modules: Python programming; Machine Learning (non-examined)\n\nFinal year research project: Linear mixed models in quantitative genetics (focus on lme4 R package)\n",
+          "insights": "Activities and societies: Art Society (Treasurer 19/20), Czech & Slovak Society (Treasurer 18/19),  \nMember of AI Society, MathSoc, Tech Society",
+          "skills": [
+            "R",
+            "Python (Programming Language)",
+            "Research",
+            "Statistics"
+          ],
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/7198/",
+          "schoolId": "7198",
+          "degree": "BSc (Hons)",
+          "fieldOfStudy": "Mathematics and Statistics (First Class)",
+          "period": "2017 - 2020",
+          "startDate": {
+            "year": 2017,
+            "text": "2017"
+          },
+          "endDate": {
+            "year": 2020,
+            "text": "2020"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_400_400/company-logo_400_400/0/1630592448557/kings_college_london_logo?e=1791417600&v=beta&t=krswwP9MPBC_LkGGxpcwTfTAeW7W4Jo9zVUA6aN5MeA",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_400_400/company-logo_400_400/0/1630592448557/kings_college_london_logo?e=1791417600&v=beta&t=krswwP9MPBC_LkGGxpcwTfTAeW7W4Jo9zVUA6aN5MeA",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1791417600&v=beta&t=DFlxQJ4qRc0X62dMJuTlWI3xbLSFhO1jU0eSeu5_MHE",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_100_100/company-logo_100_100/0/1630592448557/kings_college_london_logo?e=1791417600&v=beta&t=NHs00YgXYRfHW4E0Xp98ZtP_LGco9ebtZWlTua6Nxvc",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "Charles University",
+          "description": "Notable modules: Advanced Data Analysis in MS Excel; Behavioural Economics\n",
+          "insights": "Activities and societies: Committee member of E-club",
+          "skills": [
+            "Microsoft Excel"
+          ],
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/3496049/",
+          "schoolId": "3496049",
+          "degree": "Economics and finance",
+          "fieldOfStudy": null,
+          "period": "2016 - 2017",
+          "startDate": {
+            "year": 2016,
+            "text": "2016"
+          },
+          "endDate": {
+            "year": 2017,
+            "text": "2017"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEkJ7rr_sk_ng/company-logo_400_400/B4DZ19F3usJgAY-/0/1775920185799?e=1791417600&v=beta&t=mrXebGJgCEte_f-RgMJJlQHOfDcmCKoc_I7TPWG2_ec",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEkJ7rr_sk_ng/company-logo_400_400/B4DZ19F3usJgAY-/0/1775920185799?e=1791417600&v=beta&t=mrXebGJgCEte_f-RgMJJlQHOfDcmCKoc_I7TPWG2_ec",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEkJ7rr_sk_ng/company-logo_200_200/B4DZ19F3usJgAI-/0/1775920185799?e=1791417600&v=beta&t=caKeBgVlAE_aRX9gt2mdQUXLcifM4UNdOGuWKakMPLk",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQEkJ7rr_sk_ng/company-logo_100_100/B4DZ19F3usJgAQ-/0/1775920185799?e=1791417600&v=beta&t=phLw1CQQNGUmnpYEy38C2XmzlL03RWD6awjwYyxlKoQ",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "Gymnázium Jana Keplera",
+          "description": "Received a three-month scholarship at one of the best international schools in Malaysia",
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/15096693/",
+          "schoolId": "15096693",
+          "degree": "Czech Maturita (Mathematics",
+          "fieldOfStudy": "Czech, English, French, Art), Average 1.0 (eq. to A*)",
+          "period": "2012 - 2016",
+          "startDate": {
+            "year": 2012,
+            "text": "2012"
+          },
+          "endDate": {
+            "year": 2016,
+            "text": "2016"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C510BAQFzWSSaCpE5Hw/company-logo_400_400/company-logo_400_400/0/1631313208485?e=1791417600&v=beta&t=64nncEd26_QoF1QOXbVq3FTP7SsDYfHiEUp34SAHIWQ",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQFzWSSaCpE5Hw/company-logo_400_400/company-logo_400_400/0/1631313208485?e=1791417600&v=beta&t=64nncEd26_QoF1QOXbVq3FTP7SsDYfHiEUp34SAHIWQ",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQFzWSSaCpE5Hw/company-logo_200_200/company-logo_200_200/0/1631313208484?e=1791417600&v=beta&t=lvAXyTFUEYdUqGUmhp1j37RSv40tNxuiz9d_mC3CdB0",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C510BAQFzWSSaCpE5Hw/company-logo_100_100/company-logo_100_100/0/1631313208485?e=1791417600&v=beta&t=TRTbrXPUmTTdDzj5I1bDMASiQ5wk4c86k2InzQifEYw",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Writing production-ready ETL pipelines in Python / Pandas",
+          "issuedBy": "Udemy",
+          "issuedAt": "Issued Mar 2023",
+          "link": null,
+          "issuedByLink": "https://www.linkedin.com/company/822535/",
+          "issuedByLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1791417600&v=beta&t=fnoWWczRAQouCMK5POqcD9ICCLa4uyNvuTjyN2CGPKo",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_400_400/company-logo_400_400/0/1723593046388/udemy_logo?e=1791417600&v=beta&t=fnoWWczRAQouCMK5POqcD9ICCLa4uyNvuTjyN2CGPKo",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1791417600&v=beta&t=JfL1dDPP5t7QRcoVkaDcu0KstOry2P9EHdWBaJ5KP2M",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_100_100/company-logo_100_100/0/1723593046388/udemy_logo?e=1791417600&v=beta&t=tIFP0nb18dane3O83O2ewCd4a7EEW_Uu_KxfghMi7N8",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "title": "Advanced SQL for Data Scientists",
+          "issuedBy": "LinkedIn",
+          "issuedAt": "Issued Sep 2020",
+          "link": "https://www.linkedin.com/learning/certificates/1b39a34aa3529cadb4696580537782bc9d52c4fd2edcc937182ab71b87b4bece?trk=backfilled_certificate",
+          "issuedByLink": "https://www.linkedin.com/company/1337/",
+          "issuedByLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1791417600&v=beta&t=DlpMwWZTL7CGt_HZizhDM1pXyV3z8yJZiauRcCsTwQQ",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1791417600&v=beta&t=DlpMwWZTL7CGt_HZizhDM1pXyV3z8yJZiauRcCsTwQQ",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1791417600&v=beta&t=vlbyzva5JlwThZXGrMwAOScmPCqDFVkSSMv31l9IqwE",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1791417600&v=beta&t=T7y1oag9bM2Jv-PJz4wjx9MtApLLu95dscvq5ddjkbU",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "title": "IELTS 8.5 (C2)",
+          "issuedBy": "British Council",
+          "issuedAt": "Issued May 2016 · Expired May 2018",
+          "link": null,
+          "issuedByLink": "https://www.linkedin.com/company/162797/",
+          "issuedByLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/company-logo_400_400/0/1630560502099/british_council_logo?e=1791417600&v=beta&t=lA1nQL-35ejfzoA1Z-OTXBGYhgZJwo29NDRTOZaRBQI",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/company-logo_400_400/0/1630560502099/british_council_logo?e=1791417600&v=beta&t=lA1nQL-35ejfzoA1Z-OTXBGYhgZJwo29NDRTOZaRBQI",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_200_200/company-logo_200_200/0/1630560502098/british_council_logo?e=1791417600&v=beta&t=krjkLid3km8nhz1ERu9h_P7l3zUEGv8AgO_OwBQCrp8",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_100_100/company-logo_100_100/0/1630560502099/british_council_logo?e=1791417600&v=beta&t=uZKMVaANEv7UBpg6LF8i51eUmOyE_1YO8qx2VXVW5XY",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "title": "DELF B2",
+          "issuedBy": "Institut français",
+          "issuedAt": "Issued Dec 2015",
+          "link": null,
+          "issuedByLink": "https://www.linkedin.com/company/2032305/",
+          "issuedByLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGWP-gyDybHgg/company-logo_400_400/company-logo_400_400/0/1663926420065/ifparis_logo?e=1791417600&v=beta&t=yIgYFzhOkqwnWyMkQbfFcsUX5JRmM128R1deRiyUzpo",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGWP-gyDybHgg/company-logo_400_400/company-logo_400_400/0/1663926420065/ifparis_logo?e=1791417600&v=beta&t=yIgYFzhOkqwnWyMkQbfFcsUX5JRmM128R1deRiyUzpo",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGWP-gyDybHgg/company-logo_200_200/company-logo_200_200/0/1663926420065/ifparis_logo?e=1791417600&v=beta&t=3TaWu6QrI4D0-GEp6GPJVyz2dqQn54ag4TrK-dwXbMg",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C4E0BAQGWP-gyDybHgg/company-logo_100_100/company-logo_100_100/0/1663926420065/ifparis_logo?e=1791417600&v=beta&t=jhsTJvPjLxixlN2hntdbxUVSfAwyKtnouyst86YmudU",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "projects": [
+        {
+          "title": "Extending the KeOps Python Library with fast approximation methods for geometric learning",
+          "duration": "Jan 2021 - Jun 2021",
+          "startDate": {
+            "month": "Jan",
+            "year": 2021,
+            "text": "Jan 2021"
+          },
+          "endDate": {
+            "month": "Jun",
+            "year": 2021,
+            "text": "Jun 2021"
+          },
+          "description": "Working in a team of 6 under the supervision of Dr Jean Feydy (one of the authors of KeOps) to implement additional methods for the PyKeOps library."
+        }
+      ],
+      "volunteering": [
+        {
+          "role": "Teacher (Machine Learning)",
+          "organizationName": "Discover Summer Academy",
+          "duration": "Jul 2021 - Present · 5 yrs 3 mos",
+          "startDate": {
+            "month": "Jul",
+            "year": 2021,
+            "text": "Jul 2021"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "description": null,
+          "cause": "Education"
+        },
+        {
+          "role": "University Application Mentor",
+          "organizationName": "Unimak",
+          "duration": "Aug 2018 - Jul 2021 · 3 yrs",
+          "startDate": {
+            "month": "Aug",
+            "year": 2018,
+            "text": "Aug 2018"
+          },
+          "endDate": {
+            "month": "Jul",
+            "year": 2021,
+            "text": "Jul 2021"
+          },
+          "description": null,
+          "cause": "Education"
+        }
+      ],
+      "receivedRecommendations": [],
+      "skills": [
+        {
+          "name": "Natural Language Processing (NLP)",
+          "positions": [
+            "Co-founder & CTO at SurgeryAI",
+            "Endorsed by 1 person in the last 6 months"
+          ],
+          "endorsements": "3 endorsements"
+        },
+        {
+          "name": "Machine Learning",
+          "positions": [
+            "Machine Learning Engineer at Echobox",
+            "Imperial College London",
+            "Teacher (Machine Learning)"
+          ]
+        },
+        {
+          "name": "Python (Programming Language)",
+          "positions": [
+            "2 experiences across SurgeryAI and 1 other company",
+            "2 educational experiences at Imperial College London and 1 other school",
+            "Writing production-ready ETL pipelines in Python / Pandas"
+          ]
+        },
+        {
+          "name": "AI in Healthcare",
+          "positions": [
+            "Co-founder & CTO at SurgeryAI",
+            "Imperial College London",
+            "Data Augmentation for Dementia Detection in Spoken Language"
+          ]
+        },
+        {
+          "name": "Research",
+          "positions": [
+            "Machine Learning Engineer at Echobox",
+            "2 educational experiences at Imperial College London and 1 other school"
+          ],
+          "endorsements": "3 endorsements"
+        },
+        {
+          "name": "Data Engineering",
+          "positions": [
+            "Writing production-ready ETL pipelines in Python / Pandas"
+          ],
+          "endorsements": "2 endorsements"
+        },
+        {
+          "name": "Extract, Transform, Load (ETL)",
+          "positions": [
+            "2 experiences across SurgeryAI and 1 other company",
+            "Writing production-ready ETL pipelines in Python / Pandas"
+          ]
+        },
+        {
+          "name": "Statistics",
+          "positions": [
+            "Machine Learning Engineer at Echobox",
+            "2 educational experiences at Imperial College London and 1 other school"
+          ],
+          "endorsements": "1 endorsement"
+        },
+        {
+          "name": "Large Language Models (LLM)",
+          "positions": [
+            "2 experiences across SurgeryAI and 1 other company"
+          ],
+          "endorsements": "1 endorsement"
+        },
+        {
+          "name": "Microsoft Excel",
+          "positions": [
+            "2 experiences across MAMA.codes Ltd and 1 other company",
+            "Charles University in Prague",
+            "Passed LinkedIn Skill Assessment"
+          ]
+        },
+        {
+          "name": "Recommender Systems",
+          "positions": [
+            "Machine Learning Engineer at Echobox"
+          ]
+        },
+        {
+          "name": "SQL",
+          "positions": [
+            "Machine Learning Engineer at Echobox",
+            "Advanced SQL for Data Scientists"
+          ],
+          "endorsements": "1 endorsement"
+        },
+        {
+          "name": "Data Analysis",
+          "positions": [
+            "2 experiences across MAMA.codes Ltd and 1 other company"
+          ],
+          "endorsements": "1 endorsement"
+        },
+        {
+          "name": "Data Visualization",
+          "positions": [
+            "Visiting Associate at Boston Consulting Group (BCG)"
+          ],
+          "endorsements": "1 endorsement"
+        },
+        {
+          "name": "Data Quality Assurance",
+          "positions": [
+            "Data Analyst at MAMA.codes Ltd"
+          ]
+        },
+        {
+          "name": "Survey Design",
+          "positions": [
+            "Visiting Associate at Boston Consulting Group (BCG)"
+          ]
+        },
+        {
+          "name": "Statistical Modeling"
+        },
+        {
+          "name": "Data Modeling",
+          "positions": [
+            "Data Analyst at MAMA.codes Ltd"
+          ]
+        },
+        {
+          "name": "R",
+          "positions": [
+            "King's College London",
+            "Hierarchical and Mixed Effect Models in R",
+            "Time Series Analysis in R"
+          ]
+        },
+        {
+          "name": "Microsoft Office"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Data Augmentation for Dementia Detection in Spoken Language",
+          "publishedAt": "Interspeech 2022 · Sep 18, 2022",
+          "description": "Dementia is a growing problem as our society ages, and detection methods are often invasive and expensive. Recent deep-learning techniques can offer a faster diagnosis and have shown promising results. However, they require large amounts of labelled data which is not easily available for the task of dementia detection. One effective solution to sparse data problems is data augmentation, though the exact methods need to be selected carefully. To date, there has been no empirical study of data augmentation on Alzheimer's disease (AD) datasets for NLP and speech processing. In this work, we investigate data augmentation techniques for the task of AD detection and perform an empirical evaluation of the different approaches on two kinds of models for both the text and audio domains. We use a transformer-based model for both domains, and SVM and Random Forest models for the text and audio domains, respectively. We generate additional samples using traditional as well as deep learning based methods and show that data augmentation improves performance for both the text- and audio-based models and that such results are comparable to state-of-the-art results on the popular ADReSS set, with carefully crafted architectures and features.",
+          "link": "https://arxiv.org/abs/2206.12879"
+        }
+      ],
+      "courses": [
+        {
+          "title": "Hierarchical and Mixed Effect Models in R",
+          "number": "Data Camp #12906654",
+          "associatedWith": null,
+          "associatedWithLink": null
+        },
+        {
+          "title": "MS Excel: Advanced data analysis",
+          "number": null,
+          "associatedWith": "Associated with Charles University in Prague",
+          "associatedWithLink": "https://www.linkedin.com/company/3496049/"
+        },
+        {
+          "title": "Time Series Analysis in R",
+          "number": "Data Camp #12700069",
+          "associatedWith": null,
+          "associatedWithLink": null
+        }
+      ],
+      "patents": [],
+      "honorsAndAwards": [
+        {
+          "title": "ICL AI Group Project CCP Prize",
+          "issuedBy": "Issued by Imperial College London",
+          "issuedAt": "Sep 2021",
+          "description": null,
+          "associatedWith": "Imperial College London",
+          "associatedWithLink": "https://www.linkedin.com/company/5106/"
+        },
+        {
+          "title": "KCLSU Volunteering Gold Award",
+          "issuedBy": "Issued by King's College London",
+          "issuedAt": "Jul 2020",
+          "description": null,
+          "associatedWith": "King's College London",
+          "associatedWithLink": "https://www.linkedin.com/company/7198/"
+        }
+      ],
+      "languages": [
+        {
+          "name": "Czech",
+          "proficiency": "Native or bilingual proficiency"
+        },
+        {
+          "name": "English",
+          "proficiency": "Full professional proficiency"
+        },
+        {
+          "name": "French",
+          "proficiency": "Elementary proficiency"
+        },
+        {
+          "name": "Hungarian",
+          "proficiency": "Native or bilingual proficiency"
+        }
+      ],
+      "organizations": [],
+      "causes": [],
+      "featured": {
+        "images": [],
+        "link": null,
+        "title": null,
+        "subtitle": null,
+        "slides": [
+          {
+            "title": null,
+            "subtitle": null,
+            "description": null,
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7269317274971299841?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7269317274971299841%29",
+            "image": {
+              "url": "https://media.licdn.com/dms/image/v2/D4E22AQG15xmgYsEakQ/feedshare-image-high-res/feedshare-image-high-res/0/1733140294475?e=1791417600&v=beta&t=86x_n_nzALw6QWlTSGfTtBQLN_ZA2-RahUst3IKQ9g4"
+            }
+          },
+          {
+            "title": null,
+            "subtitle": null,
+            "description": null,
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7245445375451402241?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7245445375451402241%29",
+            "image": {
+              "url": "https://media.licdn.com/dms/image/v2/D4D22AQEAewP14Ak1XQ/feedshare-image-high-res/feedshare-image-high-res/0/1727448790476?e=1791417600&v=beta&t=ujVW6ESvgWyG2XCyATl2dy3j78du9-rE34JkbCpzcog"
+            }
+          }
+        ]
+      },
+      "composeOptionType": "UPSELL",
+      "moreProfiles": [],
+      "sectionTotals": {
+        "experience": 4,
+        "education": 4,
+        "certifications": 4,
+        "receivedRecommendations": 0,
+        "skills": 24,
+        "courses": 3,
+        "languages": 4,
+        "projects": 1,
+        "volunteering": 5,
+        "publications": 1,
+        "patents": 0,
+        "organizations": 0,
+        "honorsAndAwards": 2,
+        "causes": 0
+      },
+      "interests": [
+        {
+          "interestName": "Top Voices",
+          "elements": [
+            {
+              "title": "Francesca (Check) Warner",
+              "subtitle": "Co-founding Partner at Ada Ventures | Pre-seed inclusive VC investing in the best, not just the best-connected",
+              "link": "https://www.linkedin.com/in/francescawarner",
+              "caption": "24,916 followers",
+              "image": {
+                "url": null
+              }
+            },
+            {
+              "title": "Daliana Liu",
+              "subtitle": "I coach high achievers who outgrew the ladder",
+              "link": "https://www.linkedin.com/in/dalianaliu",
+              "caption": "311,581 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E03AQEG51Hdq3M0yA/profile-displayphoto-crop_800_800/B4EZ8cDP0RJUAI-/0/1782882041948?e=1791417600&v=beta&t=tua7bsIiuI4HwYAqNmRRZC2Y5s5NOmV6wcojgxHyBZY"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Companies",
+          "elements": [
+            {
+              "title": "McKinsey & Company",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/1371/",
+              "caption": "7,388,261 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHUYDHTOOXs9w/company-logo_400_400/B4EZ8eP9xVIkAU-/0/1782918929734/mckinsey_logo?e=1791417600&v=beta&t=OA5OMpbBvlw9Jh3-n848qbfs7wInsNaCl3icaFz8VE4"
+              }
+            },
+            {
+              "title": "Google",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/1441/",
+              "caption": "42,378,917 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1791417600&v=beta&t=GTDF9ditvQyD6OKKw71ld2OnNPkdUhh2BBpAenYJ6o4"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Groups",
+          "elements": [
+            {
+              "title": "Innovate UK Women in Innovation",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/8551905",
+              "caption": "2,923 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E07AQHLMtg2AOXEKg/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1664369460988?e=1790535600&v=beta&t=S_TGl7fsuO8zUmiV91SZXzFA6UHZiIhvq5MUrW0lEh8"
+              }
+            },
+            {
+              "title": "Imperial Computing Alumni",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/12939467",
+              "caption": "844 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E07AQEMBYWmvII5iw/group-logo_image-shrink_400x400/B4EZwta03wIIAY-/0/1770288533516?e=1790535600&v=beta&t=G9TK6e9zbGtVywKM1enV6z7MMPjlYW1ongz1KU1OsVg"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Newsletters",
+          "elements": [
+            {
+              "title": "The Disruptive Realm ",
+              "subtitle": "What it really takes to build sustainable, inclusive, and human-first entrepreneurship ecosystems",
+              "link": "https://www.linkedin.com/newsletters/7329194726677450752",
+              "caption": "Published weekly",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E12AQFEvTS9ieDgDg/series-logo_image-shrink_300_300/B4EZbaHuv_GQAQ-/0/1747416183044?e=1791417600&v=beta&t=ZoxTagT-cla8-xEFwl-l-8qKQQeW6eSIn-SqR2QxMcQ"
+              }
+            },
+            {
+              "title": "Create Possibilities",
+              "subtitle": "Tips, tricks, and resources for members who want to grow their community, increase engagement, and create great content.",
+              "link": "https://www.linkedin.com/newsletters/7026669590701035521",
+              "caption": "Published monthly",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E12AQH7I--OnPIryg/series-logo_image-shrink_300_300/series-logo_image-shrink_300_300/0/1704731644888?e=1791417600&v=beta&t=ozmMu6LaUv-gH48TyQjoynrakA17B6lrrBJuHcJ-ASs"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Schools",
+          "elements": [
+            {
+              "title": "Y Combinator",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/school/167872/",
+              "caption": "1,821,095 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1791417600&v=beta&t=pOn-jCxLXA73pRRDQ4qJxVnsn1PHoNuqahekEpOQRdk"
+              }
+            },
+            {
+              "title": "Imperial College London",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/school/5106/",
+              "caption": "566,276 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGOM2ioD3Ym6w/company-logo_400_400/company-logo_400_400/0/1719955498213/imperial_college_london_logo?e=1791417600&v=beta&t=YdLwnLCb-dPK2mEnZQ2igCiPozEj6so1-wlyMlukFcA"
+              }
+            }
+          ]
+        }
+      ],
+      "openProfile": false,
+      "_meta": {
+        "pagination": {
+          "totalElements": 800556,
+          "totalPages": 100,
+          "pageNumber": 1,
+          "previousElements": 0,
+          "pageSize": 25
+        },
+        "scrapedAt": "2026-09-20T18:25:41.440Z"
+      },
+      "profileIdInSearch": "ACwAACDPenMBjXD-Nwjy__BeoPRewq0sQlO78UM"
+    },
+    {
+      "id": "ACoAAA4hhBYBU-hmzgh6oBGDJ_C0g9vlxj3icck",
+      "publicIdentifier": "dhiraj-chatpar",
+      "linkedinUrl": "https://www.linkedin.com/in/dhiraj-chatpar",
+      "firstName": "Dhiraj",
+      "lastName": "Chatpar",
+      "emails": [],
+      "headline": "Founder & CTO @ NetWit | Enterprise Agentic AI Architect (10M+ Daily Actions) | CISSP • Certified AI Professional (CAIP) • AWS AI | SOC 2/HIPAA Compliant AI | Serial Founder (15yrs) • Angel • Board Director",
+      "openToWork": false,
+      "hiring": false,
+      "premium": true,
+      "influencer": false,
+      "memorialized": false,
+      "creator": false,
+      "location": {
+        "linkedinText": "Greater Vancouver Metropolitan Area",
+        "countryCode": "CA",
+        "parsed": {
+          "text": "Vancouver, Canada",
+          "countryCode": "CA",
+          "regionCode": null,
+          "country": "Canada",
+          "countryFull": "Canada",
+          "state": "British Columbia",
+          "city": "Vancouver"
+        }
+      },
+      "objectUrn": "237077526",
+      "registeredAt": "2013-03-07T16:45:18.000Z",
+      "topSkills": [
+        "Software Project Management",
+        "Growth Hacking",
+        "Digital Transformation",
+        "Information Technology",
+        "Board Governance"
+      ],
+      "connectionsCount": 7347,
+      "followerCount": 10122,
+      "verified": true,
+      "about": "Most companies don't have an AI problem. They have an architecture problem. Demos work. Production fails. The gap between \"looks ready\" and \"survives at scale\" is where enterprise AI initiatives go to die.\n\n\n\nI built the cure.\n\n\n\nAs Founder & Senior AI Architect at NetWit, I architected the Enterprise Agentic AI OS — a production-grade multi-agent platform orchestrating 10M+ autonomous actions daily across healthcare, real estate, legal, logistics, and eCommerce. SOC 2 Type II/HIPAA/GDPR compliant. Not demos. Production.\n\n\n\nTHE PROOF:\n\n• 10M+ agent actions/day and compounding\n\n• 95% client retention (industry avg: 72%)\n\n• Zero production incidents in 24 months\n\n• 1,000+ automations deployed across 4 continents\n\n• 30-person global team (Vancouver, Dubai, Bangalore, London)\n\n• 13-year proprietary CPaaS — 99.9% uptime\n\n\n\nCLIENT TRANSFORMATIONS:\n\n→ Logistics unicorn: 40% faster lead response via AI WhatsApp/SMS — 200K+ leads\n\n→ Healthcare: 60% less clinical documentation via multi-agent RAG — passed HIPAA first try\n\n→ Real estate: 200%+ ROI on agentic campaigns — 65+ active clients\n\n→ Legal: 80% contract review automation — $2M+ annual savings\n\n\n\nI've built this over 15 years as a serial founder (3 ventures, bootstrapped from day one). The tech stack evolved from early marketing automation into what is now a proprietary Agentic AI OS with 8 specialized agents (Prospector, Qualifier, Outreach, Scheduler, Nurturer, Reporter, Support, Integrator) working in orchestrated multi-agent workflows.\n\n\n\nBeyond NetWit: Board Director at The Skills Centre (Finance Committee Chair, 15% budget optimization, cybersecurity governance). ISC² CISSP. Angel investor backing pre-seed Agentic AI founders.\n\n\n\nWHAT I DO NOW (High-Leverage):\n\n→ FRACTIONAL AI ARCHITECTURE — Production agentic systems for $10M-$1B+ enterprises\n\n→ AI STRATEGY & GOVERNANCE — Board advisory on AI risk, compliance, SOC 2/HIPAA readiness\n\n→ ANGEL INVESTING — $25-100K checks into pre-seed Agentic AI / Vertical AI founders\n\n\n\nLet's build something that survives production.\n\nBook a strategy call → cal.com/dhiraj-netwit | dhiraj@netwit.ai | netwit.ai",
+      "currentPosition": [
+        {
+          "position": "Founder",
+          "location": "Vancouver, British Columbia, Canada",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "Voice Agently",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Voice+Agently",
+          "companyId": null,
+          "duration": "1 yr 2 mos",
+          "description": "Enterprise AI Voice Agent platform delivering intelligent voice automation for business communications.",
+          "skills": null,
+          "startDate": {
+            "month": "Aug",
+            "year": 2025,
+            "text": "Aug 2025"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        }
+      ],
+      "profileTopEducation": [
+        {
+          "schoolName": "The Indian High School Dubai",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=The+Indian+High+School+Dubai",
+          "schoolId": null,
+          "degree": "CBSE Board",
+          "fieldOfStudy": "Computer Science",
+          "period": "1987 - 2001",
+          "startDate": {
+            "year": 1987,
+            "text": "1987"
+          },
+          "endDate": {
+            "year": 2001,
+            "text": "2001"
+          },
+          "schoolLogo": null
+        }
+      ],
+      "profileActions": [
+        {
+          "label": "Book an appointment",
+          "url": "https://outlook.office.com/bookwithme/user/5a4960c5fa6b4a88b3ba892a19c3fb33@netwit.ca/meetingtype/Okl1udhkGUmVWwMSaSy1sA2?anonymous&ep=mlink"
+        }
+      ],
+      "profilePicture": {
+        "url": "https://media.licdn.com/dms/image/v2/D5603AQHBJ85cQmcM-A/profile-displayphoto-crop_800_800/B56ZoedaicHQAI-/0/1761447631761?e=1791417600&v=beta&t=qS97pIQdr13Y72kYnqav1qVCStkGg9JBf0u8RTPptFg",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQHBJ85cQmcM-A/profile-displayphoto-crop_800_800/B56ZoedaicHQAI-/0/1761447631761?e=1791417600&v=beta&t=qS97pIQdr13Y72kYnqav1qVCStkGg9JBf0u8RTPptFg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQHBJ85cQmcM-A/profile-displayphoto-scale_400_400/B56ZoedaicHQAg-/0/1761447631844?e=1791417600&v=beta&t=OMm8JMnYCrGXSYQte-2R8Ak_vcWe_fSqYa8thx1bVJM",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQHBJ85cQmcM-A/profile-displayphoto-scale_200_200/B56ZoedaicHQAY-/0/1761447631844?e=1791417600&v=beta&t=wWS4HA-4wVXWqJMu79r1wyGqH9g75ru1hwYCEr8QGD8",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5603AQHBJ85cQmcM-A/profile-displayphoto-scale_100_100/B56ZoedaicHQAc-/0/1761447631844?e=1791417600&v=beta&t=IbtIQV8gjZ1CqVRRbcCI2U9cEHDrBq7w_nRuLmkOKR4",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "coverPicture": {
+        "url": "https://media.licdn.com/dms/image/v2/D5616AQFvd2cJJpJ0FQ/profile-displaybackgroundimage-shrink_350_1400/B56ZrNaCFXJkAY-/0/1764382745396?e=1791417600&v=beta&t=Mgm2QimlosnKrj0ubuRDKN2S0Jrdpya-Mp13gZCcrPw",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5616AQFvd2cJJpJ0FQ/profile-displaybackgroundimage-shrink_350_1400/B56ZrNaCFXJkAY-/0/1764382745396?e=1791417600&v=beta&t=Mgm2QimlosnKrj0ubuRDKN2S0Jrdpya-Mp13gZCcrPw",
+            "width": 1024,
+            "height": 256
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D5616AQFvd2cJJpJ0FQ/profile-displaybackgroundimage-shrink_200_800/B56ZrNaCFXJkAU-/0/1764382745396?e=1791417600&v=beta&t=UZANQ5WNE_o2TNUPvR3q4SznH4rC_-F9ilZizkgnuJI",
+            "width": 800,
+            "height": 200
+          }
+        ]
+      },
+      "photo": "https://media.licdn.com/dms/image/v2/D5603AQHBJ85cQmcM-A/profile-displayphoto-crop_800_800/B56ZoedaicHQAI-/0/1761447631761?e=1791417600&v=beta&t=qS97pIQdr13Y72kYnqav1qVCStkGg9JBf0u8RTPptFg",
+      "profileLocales": [
+        {
+          "country": "US",
+          "language": "en"
+        }
+      ],
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "multiLocaleHeadline": [
+        {
+          "headline": "Founder & CTO @ NetWit | Enterprise Agentic AI Architect (10M+ Daily Actions) | CISSP • Certified AI Professional (CAIP) • AWS AI | SOC 2/HIPAA Compliant AI | Serial Founder (15yrs) • Angel • Board Director",
+          "locale": "en_US"
+        }
+      ],
+      "services": null,
+      "experience": [
+        {
+          "position": "Founder",
+          "location": "Vancouver, British Columbia, Canada",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "Voice Agently",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Voice+Agently",
+          "companyId": null,
+          "duration": "1 yr 2 mos",
+          "description": "Enterprise AI Voice Agent platform delivering intelligent voice automation for business communications.",
+          "skills": null,
+          "startDate": {
+            "month": "Aug",
+            "year": 2025,
+            "text": "Aug 2025"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Founder",
+          "location": "Vancouver, British Columbia, Canada",
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "TrackSphere",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=TrackSphere",
+          "companyId": null,
+          "duration": "1 yr 5 mos",
+          "description": "Real-time delivery tracking & proof-of-delivery intelligence platform. 500K+ deliveries. 99.9% uptime.",
+          "skills": null,
+          "startDate": {
+            "month": "May",
+            "year": 2025,
+            "text": "May 2025"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Member Board of Directors",
+          "location": "Trail, British Columbia, Canada",
+          "employmentType": "Permanent Part-time",
+          "workplaceType": "On-site",
+          "companyName": "The Skills Centre",
+          "companyUniversalName": "theskillscentre",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/theskillscentre/",
+          "companyId": "18031912",
+          "duration": "4 yrs 5 mos",
+          "description": "🎯 SITUATION: Non-profit skills training organization needed financial discipline, strategic clarity, and technology governance to scale sustainably. Board lacked tech/AI expertise for modern governance.\n\n\n\n🎯 TASK: Provide board-level governance across finance, strategy, and technology risk — ensuring compliance, cybersecurity readiness, and long-term viability.\n\n\n\n🎯 ACTION: Led Finance Committee — implemented risk-based budgeting delivering 15% operational budget optimization. Championed data-driven decision-making — facilitated adoption of 3-year strategic pillars. Advised on cybersecurity & technology governance frameworks (SOC 2, ISO 27001 alignment) — improved compliance scores across audit domains. Brought AI/automation lens to non-profit governance — rare at board level.\n\n\n\n🎯 RESULT: 15% budget optimization • 3-year strategic plan adopted unanimously • Cybersecurity governance framework implemented • Organization positioned for sustainable growth & funding diversification • Technology risk formally integrated into board charter",
+          "skills": [
+            "Board Level",
+            "Board Administration",
+            "Business Intelligence (BI)",
+            "Board Search",
+            "Social Media",
+            "Board Operation",
+            "Digital Marketing"
+          ],
+          "startDate": {
+            "month": "May",
+            "year": 2022,
+            "text": "May 2022"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQGUdQAfLPhRQw/company-logo_400_400/company-logo_400_400/0/1631315073536?e=1791417600&v=beta&t=ZwGyUyHnfUkqRKx7pwaJXIhKTKBdrHg6OZ_sM0resBA",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQGUdQAfLPhRQw/company-logo_400_400/company-logo_400_400/0/1631315073536?e=1791417600&v=beta&t=ZwGyUyHnfUkqRKx7pwaJXIhKTKBdrHg6OZ_sM0resBA",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQGUdQAfLPhRQw/company-logo_200_200/company-logo_200_200/0/1631315073536?e=1791417600&v=beta&t=V9Cmjzf6xs1-yAki940vGgu7b5bexqQgbblYWLNnHtc",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQGUdQAfLPhRQw/company-logo_100_100/company-logo_100_100/0/1631315073536?e=1791417600&v=beta&t=UhLXYQkYm2jOq8U-5PtGpNNia2rcztOx94iIoxXy2Qg",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Founder",
+          "location": "Vancouver, British Columbia, Canada",
+          "employmentType": null,
+          "workplaceType": "Hybrid",
+          "companyName": "InboxGrove / IGMTA",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=InboxGrove+%2F+IGMTA",
+          "companyId": null,
+          "duration": "4 yrs 2 mos",
+          "description": "White-label enterprise email infrastructure built on KumoMTA — SendGrid/Mailgun-parity features for resellers.",
+          "skills": null,
+          "startDate": {
+            "month": "Aug",
+            "year": 2022,
+            "text": "Aug 2022"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Founder & Senior AI Architect",
+          "location": "Vancouver, British Columbia, Canada",
+          "employmentType": "Permanent Full-time",
+          "workplaceType": "On-site",
+          "companyName": "NetWit Technologies Inc.",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=NetWit+Technologies+Inc%2E",
+          "companyId": null,
+          "duration": "7 yrs 1 mo",
+          "description": "🎯 SITUATION: Enterprises stuck in \"AI pilot purgatory\" — demos work, production fails. No architecture for autonomous agents at scale.\n\n\n\n🎯 TASK: Build a production-grade Agentic AI OS that operates reliably across sales, marketing, operations for regulated industries (healthcare, legal, finance).\n\n\n\n🎯 ACTION: Architected NetWit's Agentic AI OS (LangGraph + custom orchestration) — 7 specialized brands, 8 specialized agents (Prospector, Qualifier, Outreach, Scheduler, Nurturer, Reporter, Support, Integrator), multi-agent workflows, SOC 2/HIPAA/GDPR compliance baked in. Built proprietary CPaaS infrastructure (SMTP cluster, IP warmup automation, AI-powered WhatsApp/SMS/Voice). Lead 30-person global team (Vancouver, Dubai, Bangalore, London). Deploy on-prem, private cloud, or multi-cloud — zero lock-in.\n\n\n\n🎯 RESULT: 10M+ autonomous agent actions/day • 95% client retention (vs. 72% industry) • 4 continents • 1,000+ automations deployed • Healthcare, real estate, legal, logistics, eCommerce clients • Zero production incidents in 24 months • Compounding ROI: 1st use case 2x → 5th use case 10x+",
+          "skills": [
+            "Agentic AI Architecture",
+            "CPaaS",
+            "Machine Learning",
+            "Project Management",
+            "Social Media Marketing",
+            "Multi-agent Systems",
+            "LinkedIn Marketing",
+            "Artificial Intelligence (AI)",
+            "Growth Strategies",
+            "Information Technology",
+            "Social Media",
+            "Cloud Computing",
+            "CRM",
+            "Software Project Management",
+            "Growth Hacking",
+            "Learning Management Systems",
+            "Digital Marketing",
+            "Digital Transformation"
+          ],
+          "startDate": {
+            "month": "Sep",
+            "year": 2019,
+            "text": "Sep 2019"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Founder",
+          "location": null,
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "NetWit Innovations Hub",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=NetWit+Innovations+Hub",
+          "companyId": null,
+          "duration": "7 yrs 1 mo",
+          "description": "B2B agentic AI automation firm building autonomous multi-agent systems for enterprise sales, marketing, and operations.",
+          "skills": null,
+          "startDate": {
+            "month": "Sep",
+            "year": 2019,
+            "text": "Sep 2019"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Founder",
+          "location": null,
+          "employmentType": null,
+          "workplaceType": null,
+          "companyName": "AdaptUs Group Inc.",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=AdaptUs+Group+Inc%2E",
+          "companyId": null,
+          "duration": "7 yrs 9 mos",
+          "description": "Enterprise AI & technology holding company. Brands: NetWit, InboxGrove/IGMTA, Voice Agently, TrackSphere, Pointly, Ansatel Communications.",
+          "skills": null,
+          "startDate": {
+            "year": 2019,
+            "text": "2019"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Founder & Fractional CTO/CMO",
+          "location": "Dubai, United Arab Emirates",
+          "employmentType": "Self-employed",
+          "workplaceType": "On-site",
+          "companyName": "Plex Digital Marketing",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Plex+Digital+Marketing",
+          "companyId": null,
+          "duration": "13 yrs 5 mos",
+          "description": "🎯 SITUATION: UAE enterprises needed AI-driven marketing but lacked technical infrastructure for multi-channel orchestration at scale. Canadian best practices unmet in GCC markets.\n\n\n\n🎯 TASK: Build Dubai's first AI-native digital marketing agency with proprietary CPaaS infrastructure delivering measurable ROI at enterprise scale.\n\n\n\n🎯 ACTION: Founded Plex Dubai — architected proprietary CPaaS (SMTP cluster, IP warmup automation, AI-powered WhatsApp/SMS/Voice workflows). Deployed agentic AI campaigns across email, WhatsApp, SMS, paid ads, outdoor. Built 3 specialized divisions: 360° Marketing Hub, Email Marketing Arabia, Eventek. Managed AED 50M+ annual ad spend. 15-yr track record, 20+ countries served.\n\n\n\n🎯 RESULT: 200%+ average client ROI • 200K+ leads generated • 40% faster lead response • 99.9% uptime for 12+ years • Named Dubai's #1 AI Digital Marketing Agency • 65+ active clients • 98% client retention • Zero major outages in 13 years • Canadian excellence, Middle Eastern results",
+          "skills": [
+            "Business Development",
+            "Agentic AI Architecture",
+            "CPaaS",
+            "Project Management",
+            "Multi-agent Systems",
+            "Growth Strategies",
+            "Information Technology",
+            "Cloud Computing",
+            "Software Project Management",
+            "Growth Hacking",
+            "Digital Transformation"
+          ],
+          "startDate": {
+            "month": "May",
+            "year": 2013,
+            "text": "May 2013"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Founder & Technology Director - Marketing Automation & Data Solutions",
+          "location": "Mumbai, Maharashtra, India",
+          "employmentType": "Permanent Full-time",
+          "workplaceType": "Hybrid",
+          "companyName": "Wahix India",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Wahix+India",
+          "companyId": null,
+          "duration": "16 yrs",
+          "description": "🎯 SITUATION: Indian enterprises needed end-to-end digital transformation but lacked integrated martech stacks combining strategy, automation, and custom development. Market gap for full-stack marketing technology.\n\n\n\n🎯 TASK: Build a full-service digital marketing & technology company delivering measurable growth across India, UAE, North America — pioneering marketing automation in India.\n\n\n\n🎯 ACTION: Founded Wahix India — architected 3-pillar delivery model: (1) Digital Marketing & Growth: SEO/SEM/PPC, email automation with segmentation/A/B testing, social programs, CRO. (2) Marketing Automation & CRM: Lead nurturing/scoring, sales handoff workflows, multi-touch attribution, automated KPI dashboards. (3) Technology & Development: Custom web apps (PHP/MySQL/JS), e-commerce platforms, CMS, data integration pipelines. Managed offshore dev teams for international clients. Built the technical foundation that evolved into Plex Dubai & NetWit AI OS.\n\n\n\n🎯 RESULT: 15+ year track record • Enterprises across 3 continents • Pioneered marketing automation in India (2010) • Zero client data breaches • Profitable from Year 1 • Self-funded → scaled to 3 ventures • Laid infrastructure for $100M+ addressable pipeline across NetWit portfolio",
+          "skills": [
+            "Agentic AI Architecture",
+            "Project Management",
+            "Multi-agent Systems",
+            "Growth Strategies",
+            "Information Technology",
+            "Social Media",
+            "Cloud Computing",
+            "Software Project Management",
+            "Growth Hacking",
+            "Digital Transformation",
+            "Digital Strategy"
+          ],
+          "startDate": {
+            "month": "Oct",
+            "year": 2010,
+            "text": "Oct 2010"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Digital Marketing Manager - SEO, Social Media & Campaign Strategy",
+          "location": "Mumbai Metropolitan Region",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Zeiling Logistics",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Zeiling+Logistics",
+          "companyId": null,
+          "duration": "1 yr 11 mos",
+          "description": "Led digital marketing strategy and execution for a leading logistics company in Mumbai, driving brand awareness, lead generation, and customer engagement across emerging digital channels.\n\nDigital Marketing & Brand Development:\n• Developed and executed comprehensive digital marketing strategies across search, social media, and email marketing\n• Created and managed corporate website content, SEO optimization, and analytics tracking\n• Designed marketing collateral, presentations, and promotional materials for B2B sales teams\n• Built brand presence on emerging social platforms including LinkedIn and Facebook\n\nCampaign Management & Lead Generation:\n• Planned and executed integrated marketing campaigns for freight and logistics services\n• Managed Google AdWords and display advertising campaigns with measurable ROI tracking\n• Implemented email marketing automation for customer nurturing and retention programs\n• Generated qualified leads through content marketing and landing page optimization\n\nTechnology & Analytics:\n• Introduced web analytics and conversion tracking to measure marketing effectiveness\n• Managed CRM database and customer segmentation for targeted communications\n• Coordinated with IT teams on website development and marketing technology integration\n• Produced regular marketing performance reports for senior management",
+          "skills": [
+            "Social Media",
+            "Digital Marketing"
+          ],
+          "startDate": {
+            "month": "Dec",
+            "year": 2008,
+            "text": "Dec 2008"
+          },
+          "endDate": {
+            "month": "Oct",
+            "year": 2010,
+            "text": "Oct 2010"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Computer Operator",
+          "location": "Mumbai, Maharashtra, India",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Spanco Golden Key Solutions",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Spanco+Golden+Key+Solutions",
+          "companyId": null,
+          "duration": "1 yr 6 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Sep",
+            "year": 2006,
+            "text": "Sep 2006"
+          },
+          "endDate": {
+            "month": "Feb",
+            "year": 2008,
+            "text": "Feb 2008"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Customer Service Representative",
+          "location": "Mumbai, Maharashtra, India",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "eFunds International India Private Limited",
+          "companyUniversalName": "efunds-international-india-private-limited",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/efunds-international-india-private-limited/",
+          "companyId": "8886839",
+          "duration": "1 yr",
+          "description": null,
+          "skills": [
+            "Business Intelligence (BI)"
+          ],
+          "startDate": {
+            "month": "Jul",
+            "year": 2006,
+            "text": "Jul 2006"
+          },
+          "endDate": {
+            "month": "Jun",
+            "year": 2007,
+            "text": "Jun 2007"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Computer Hardware Engineer",
+          "location": "Mumbai",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Gray Technologies",
+          "companyUniversalName": null,
+          "companyLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Gray+Technologies",
+          "companyId": null,
+          "duration": "2 yrs 6 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Jan",
+            "year": 2004,
+            "text": "Jan 2004"
+          },
+          "endDate": {
+            "month": "Jun",
+            "year": 2006,
+            "text": "Jun 2006"
+          },
+          "companyLogo": null
+        }
+      ],
+      "education": [
+        {
+          "schoolName": "The Indian High School Dubai",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=The+Indian+High+School+Dubai",
+          "schoolId": null,
+          "degree": "CBSE Board",
+          "fieldOfStudy": "Computer Science",
+          "period": "1987 - 2001",
+          "startDate": {
+            "year": 1987,
+            "text": "1987"
+          },
+          "endDate": {
+            "year": 2001,
+            "text": "2001"
+          },
+          "schoolLogo": null
+        },
+        {
+          "schoolName": "ISC2",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/26753/",
+          "schoolId": "26753",
+          "degree": "CISSP",
+          "fieldOfStudy": "Information Security & Cybersecurity",
+          "period": "2020 - 2021",
+          "startDate": {
+            "year": 2020,
+            "text": "2020"
+          },
+          "endDate": {
+            "year": 2021,
+            "text": "2021"
+          },
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEANDNp1O78-g/company-logo_400_400/company-logo_400_400/0/1692269546870?e=1791417600&v=beta&t=YeyZ_46RmEOreUt_L6Ob2onU7qGrc8pxLl8Misw9TR0",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEANDNp1O78-g/company-logo_400_400/company-logo_400_400/0/1692269546870?e=1791417600&v=beta&t=YeyZ_46RmEOreUt_L6Ob2onU7qGrc8pxLl8Misw9TR0",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEANDNp1O78-g/company-logo_200_200/company-logo_200_200/0/1692269546870?e=1791417600&v=beta&t=iPf4_sy3oGNcc1Xk9dkIbrIpT75WM5HwfBedDjeNl6A",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEANDNp1O78-g/company-logo_100_100/company-logo_100_100/0/1692269546870?e=1791417600&v=beta&t=9FModWQTB-A-80aFUa0pgnttopyRW5jCg8q26CyBAFc",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "Coursera - Google Cloud",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=Coursera+-+Google+Cloud",
+          "schoolId": null,
+          "degree": "Professional Certificate - Machine Learning Engineering",
+          "fieldOfStudy": "Artificial Intelligence & Machine Learning",
+          "period": "2022 - 2023",
+          "startDate": {
+            "year": 2022,
+            "text": "2022"
+          },
+          "endDate": {
+            "year": 2023,
+            "text": "2023"
+          },
+          "schoolLogo": null
+        },
+        {
+          "schoolName": "LinkedIn Learning",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/search/results/all/?keywords=LinkedIn+Learning",
+          "schoolId": null,
+          "degree": "Professional Certificate - Business Development & Sales",
+          "fieldOfStudy": "Business Development, Sales Strategy & Lead Generation",
+          "period": "2024 - 2024",
+          "startDate": {
+            "year": 2024,
+            "text": "2024"
+          },
+          "endDate": {
+            "year": 2024,
+            "text": "2024"
+          },
+          "schoolLogo": null
+        },
+        {
+          "schoolName": "Google",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/1441/",
+          "schoolId": "1441",
+          "degree": "Master of Business Administration",
+          "fieldOfStudy": null,
+          "period": null,
+          "startDate": null,
+          "endDate": null,
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1791417600&v=beta&t=GTDF9ditvQyD6OKKw71ld2OnNPkdUhh2BBpAenYJ6o4",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_400_400/B4EZmhegXHGcAc-/0/1759350753990/google_logo?e=1791417600&v=beta&t=GTDF9ditvQyD6OKKw71ld2OnNPkdUhh2BBpAenYJ6o4",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_200_200/B4EZmhegXHGcAM-/0/1759350753990/google_logo?e=1791417600&v=beta&t=LZEa8hjzjNCLJf_AjSqHFQDZd20WzH_qfjWs0fAVsx8",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1791417600&v=beta&t=-LguFOLQxUntTZvVxWnavmynht43H2k2MUQTz6P0N50",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "LinkedIn",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/1337/",
+          "schoolId": "1337",
+          "degree": "Business Dev & Sales",
+          "fieldOfStudy": null,
+          "period": null,
+          "startDate": null,
+          "endDate": null,
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1791417600&v=beta&t=DlpMwWZTL7CGt_HZizhDM1pXyV3z8yJZiauRcCsTwQQ",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1791417600&v=beta&t=DlpMwWZTL7CGt_HZizhDM1pXyV3z8yJZiauRcCsTwQQ",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1791417600&v=beta&t=vlbyzva5JlwThZXGrMwAOScmPCqDFVkSSMv31l9IqwE",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1791417600&v=beta&t=T7y1oag9bM2Jv-PJz4wjx9MtApLLu95dscvq5ddjkbU",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "schoolName": "univ andalas",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/7318693/",
+          "schoolId": "7318693",
+          "degree": "Bachelor of Business Administration",
+          "fieldOfStudy": "Business Administration and Management, General",
+          "period": null,
+          "startDate": null,
+          "endDate": null,
+          "schoolLogo": null
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Twilio Developer Certification",
+          "issuedBy": "Twilio",
+          "issuedAt": "Issued Apr 2020",
+          "link": null,
+          "issuedByLink": "https://www.linkedin.com/company/400528/",
+          "issuedByLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQEmISp-ciExQw/company-logo_400_400/B56ZYyhH7TGoAc-/0/1744604267044/twilio_inc__logo?e=1791417600&v=beta&t=hytF9-1qzEfsLnZuw6H2fSnozZbkzpuAqLGD2gGClps",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQEmISp-ciExQw/company-logo_400_400/B56ZYyhH7TGoAc-/0/1744604267044/twilio_inc__logo?e=1791417600&v=beta&t=hytF9-1qzEfsLnZuw6H2fSnozZbkzpuAqLGD2gGClps",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQEmISp-ciExQw/company-logo_200_200/B56ZYyhH7TGoAM-/0/1744604267044/twilio_inc__logo?e=1791417600&v=beta&t=SLdO31JJYpTkTY8DUZB9zwJPlthZCa3QMuVPwsKi6NY",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQEmISp-ciExQw/company-logo_100_100/B56ZYyhH7TGoAU-/0/1744604267044/twilio_inc__logo?e=1791417600&v=beta&t=ZZnQSYNrRXZ5NsJNQdN4vactu5_ON7gasRnxJ7YiLug",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "title": "Meta Certified Digital Marketing Associate",
+          "issuedBy": "Meta",
+          "issuedAt": "Issued Oct 2021",
+          "link": null,
+          "issuedByLink": "https://www.linkedin.com/company/10667/",
+          "issuedByLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_400_400/B56ZlkdQSaI8AY-/0/1758327015620/meta_logo?e=1791417600&v=beta&t=6FzjruiRyK4SZo8tkKgKx44ZdeKtxGfvVkYznTS-sjM",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_400_400/B56ZlkdQSaI8AY-/0/1758327015620/meta_logo?e=1791417600&v=beta&t=6FzjruiRyK4SZo8tkKgKx44ZdeKtxGfvVkYznTS-sjM",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_200_200/B56ZlkdQSaI8AI-/0/1758327015620/meta_logo?e=1791417600&v=beta&t=gb5S4IEniO3zdR3U8yPCmf2gfMrd2CnNnG208k8R9qA",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQHBmbxCDP0JQQ/company-logo_100_100/B56ZlkdQSaI8AQ-/0/1758327015620/meta_logo?e=1791417600&v=beta&t=UHw8g6No9ioCE0_0aRyjjHunW_ai4Q0CLGs4VTevQM8",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "projects": [
+        {
+          "title": "Enterprise CPaaS Platform for UAE Real Estate & Freight Industry",
+          "duration": "Jan 2020 - Present",
+          "startDate": {
+            "month": "Jan",
+            "year": 2020,
+            "text": "Jan 2020"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "description": "Built comprehensive communication platform powering high-volume SMS, Email & WhatsApp messaging for real estate brokers and freight logistics companies across UAE/GCC. Platform processes millions of transactional messages monthly with AI-driven lead scoring, automated follow-ups, and multi-channel campaign orchestration. Integrated SMPP gateways with local telecom carriers for optimal deliverability and cost efficiency."
+        },
+        {
+          "title": "ITeS Contact Centre",
+          "duration": "Oct 2009 - Present",
+          "startDate": {
+            "month": "Oct",
+            "year": 2009,
+            "text": "Oct 2009"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "description": "Setup a blended inbound/outbound contact center using TDMoIP architecture using an Asterisk-based CTI server to manage calls. Integrated an in-house developed CRM system with the CTI server to pass information & parameters directly between both applications"
+        }
+      ],
+      "volunteering": [],
+      "receivedRecommendations": [],
+      "skills": [
+        {
+          "name": "Salesforce.com"
+        },
+        {
+          "name": "Amazon Web Services (AWS)"
+        },
+        {
+          "name": "OpenAI Products"
+        },
+        {
+          "name": "Information Security"
+        },
+        {
+          "name": "LangChain"
+        },
+        {
+          "name": "LangGraph"
+        },
+        {
+          "name": "Multi-agent Systems",
+          "positions": [
+            "3 experiences across NetWit Technologies Inc. and 2 other companies"
+          ]
+        },
+        {
+          "name": "Agentic AI Architecture",
+          "positions": [
+            "3 experiences across NetWit Technologies Inc. and 2 other companies"
+          ]
+        },
+        {
+          "name": "BrowserOS"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Python (Programming Language)"
+        },
+        {
+          "name": "Email Deliverability"
+        },
+        {
+          "name": "CPaaS",
+          "positions": [
+            "2 experiences across NetWit Technologies Inc. and 1 other company"
+          ]
+        },
+        {
+          "name": "Agentic AI"
+        },
+        {
+          "name": "Machine Learning",
+          "positions": [
+            "Founder & Senior AI Architect at NetWit Technologies Inc."
+          ]
+        },
+        {
+          "name": "Artificial Intelligence (AI)",
+          "positions": [
+            "Founder & Senior AI Architect at NetWit Technologies Inc."
+          ]
+        },
+        {
+          "name": "Web Analytics",
+          "positions": [
+            "Google Analytics Individual Qualification"
+          ]
+        },
+        {
+          "name": "Business Intelligence (BI)",
+          "positions": [
+            "2 experiences across The Skills Centre and 1 other company"
+          ]
+        },
+        {
+          "name": "Digital Marketing",
+          "positions": [
+            "3 experiences across The Skills Centre and 2 other companies"
+          ]
+        },
+        {
+          "name": "Social Media",
+          "positions": [
+            "4 experiences across The Skills Centre and 3 other companies"
+          ]
+        }
+      ],
+      "publications": [],
+      "courses": [],
+      "patents": [],
+      "honorsAndAwards": [],
+      "languages": [
+        {
+          "name": "Arabic"
+        },
+        {
+          "name": "English"
+        }
+      ],
+      "organizations": [],
+      "causes": [],
+      "featured": {
+        "images": [],
+        "link": null,
+        "title": null,
+        "subtitle": null,
+        "slides": [
+          {
+            "title": null,
+            "subtitle": null,
+            "description": null,
+            "url": "https://www.linkedin.com/in/dhiraj-chatpar/details/experience?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAA4hhBYBU-hmzgh6oBGDJ_C0g9vlxj3icck",
+            "image": {
+              "url": null
+            }
+          },
+          {
+            "title": null,
+            "subtitle": null,
+            "description": null,
+            "url": "https://www.linkedin.com/in/dhiraj-chatpar/details/experience?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAA4hhBYBU-hmzgh6oBGDJ_C0g9vlxj3icck",
+            "image": {
+              "url": null
+            }
+          },
+          {
+            "title": null,
+            "subtitle": null,
+            "description": null,
+            "url": "https://www.linkedin.com/in/dhiraj-chatpar/details/experience?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAA4hhBYBU-hmzgh6oBGDJ_C0g9vlxj3icck",
+            "image": {
+              "url": null
+            }
+          },
+          {
+            "title": null,
+            "subtitle": null,
+            "description": null,
+            "url": "https://www.linkedin.com/in/dhiraj-chatpar/details/experience?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAA4hhBYBU-hmzgh6oBGDJ_C0g9vlxj3icck",
+            "image": {
+              "url": null
+            }
+          }
+        ]
+      },
+      "composeOptionType": "PREMIUM_INMAIL",
+      "moreProfiles": [],
+      "sectionTotals": {
+        "experience": 13,
+        "education": 7,
+        "certifications": 12,
+        "receivedRecommendations": 0,
+        "skills": 56,
+        "courses": 0,
+        "languages": 9,
+        "projects": 4,
+        "volunteering": 0,
+        "publications": 0,
+        "patents": 0,
+        "organizations": 0,
+        "honorsAndAwards": 0,
+        "causes": 0
+      },
+      "interests": [
+        {
+          "interestName": "Top Voices",
+          "elements": [
+            {
+              "title": "Todd Kaplan",
+              "subtitle": "Chief Marketing Officer, North America at The Kraft Heinz Company",
+              "link": "https://www.linkedin.com/in/toddkaplan",
+              "caption": "116,921 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C5603AQGez2s2aaOqTg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1635997041734?e=1791417600&v=beta&t=MWVi7xaJ3PvnaWCUR_IFH_oD9qi9WyM8u4uQNkM9EhU"
+              }
+            },
+            {
+              "title": "Brent Dykes",
+              "subtitle": "Author of Effective Data Storytelling | Founder + Chief Data Storyteller at AnalyticsHero, LLC | Forbes Contributor",
+              "link": "https://www.linkedin.com/in/brentdykes",
+              "caption": "79,617 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C5603AQFKNpN-aVvRBQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1578005856754?e=1791417600&v=beta&t=ZmAsFY90NQt_K9DVsj9HebHIJegPSvKlbtKs270KePw"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Companies",
+          "elements": [
+            {
+              "title": "IBM",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/1009/",
+              "caption": "19,999,899 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_400_400/company-logo_400_400/0/1688684715866/ibm_logo?e=1791417600&v=beta&t=KiO2DYfiWGNoWyij07mBq0ptfdt9cHObq-tdAemBh9E"
+              }
+            },
+            {
+              "title": "Oracle",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/1028/",
+              "caption": "11,553,152 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1791417600&v=beta&t=v2LEpSEFSaxbpx3llx4JONEeoGbUbd-OqbKFkqrhnvY"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Groups",
+          "elements": [
+            {
+              "title": "Network with Marc Lijour",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/30050004",
+              "caption": "94 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D5607AQEWI8dBODoK8Q/group-logo_image-shrink_400x400/B56Z6soE_IKAAQ-/0/1781012648368?e=1790535600&v=beta&t=V8P98Kvaop55YTDbjNUt2ZKGKsc75qLezofxkAb9fqI"
+              }
+            },
+            {
+              "title": "staaake Reverse Network - Connect First, Meet Later",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/13300281",
+              "caption": "7,049 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E07AQEBOLsj6DDlIg/group-logo_image-shrink_400x400/B4EZ74FoL_JIAQ-/0/1782278685742?e=1790535600&v=beta&t=Zv05oWqr-WzUmpj0EgJmV7ZiBuKGwe_ZXiObqUWzOUc"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Newsletters",
+          "elements": [
+            {
+              "title": "Appinventiv Weekly",
+              "subtitle": "In each edition, we'll be sharing our updates on vacancies, life at Appinventiv, amazing work-culture, technology etc",
+              "link": "https://www.linkedin.com/newsletters/6922144045876031489",
+              "caption": "Published weekly",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D5612AQEVpba-KRhPYA/series-logo_image-shrink_300_300/B56ZeG.CKkHQAQ-/0/1750316098736?e=1791417600&v=beta&t=Ob4YYj2PyVz8M0F_cfbK8K0Gwj1wTJWcszIHkt4jIzg"
+              }
+            },
+            {
+              "title": "The SEM Dispatch",
+              "subtitle": "The weekly search marketing briefing from The SEM Dispatch. Practitioner takes on paid search, SEO, automation & more",
+              "link": "https://www.linkedin.com/newsletters/7482474035658960896",
+              "caption": "Published weekly",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E12AQFQ282iIVn9jw/series-logo_image-shrink_300_300/B4EZ.4X05OIQAM-/0/1785504681802?e=1791417600&v=beta&t=zzyeXX5BvMSlOpp7UAVYlYro87WHHkzX4JEyX4P_kbI"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Schools",
+          "elements": [
+            {
+              "title": "Y Combinator",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/school/167872/",
+              "caption": "1,821,095 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1791417600&v=beta&t=pOn-jCxLXA73pRRDQ4qJxVnsn1PHoNuqahekEpOQRdk"
+              }
+            },
+            {
+              "title": "Discovery Community College",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/school/1960441/",
+              "caption": "5,770 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C4D0BAQFH4qxvc64xHQ/company-logo_400_400/company-logo_400_400/0/1631319307994?e=1791417600&v=beta&t=PtKsPia_qWAsAglT0PPOa7pqKbp3AZMnItsxhJUF5CU"
+              }
+            }
+          ]
+        }
+      ],
+      "openProfile": false,
+      "_meta": {
+        "pagination": {
+          "totalElements": 800556,
+          "totalPages": 100,
+          "pageNumber": 1,
+          "previousElements": 0,
+          "pageSize": 25
+        },
+        "scrapedAt": "2026-09-20T18:25:41.570Z"
+      },
+      "profileIdInSearch": "ACwAAA4hhBYBsw5BS_bpv78aZOu69zdvnkzvg2w"
+    },
+    {
+      "id": "ACoAAD2_OgMBjEguEvlVY32j7Ny8GGRAfMmckyc",
+      "publicIdentifier": "tara-shepard-857b2724a",
+      "linkedinUrl": "https://www.linkedin.com/in/tara-shepard-857b2724a",
+      "firstName": "Tara",
+      "lastName": "Shepard",
+      "emails": [],
+      "headline": "Global CTO & Co-Founder | Smart Working",
+      "openToWork": false,
+      "hiring": false,
+      "premium": false,
+      "influencer": false,
+      "memorialized": false,
+      "creator": false,
+      "location": {
+        "linkedinText": "United Kingdom",
+        "countryCode": "GB",
+        "parsed": {
+          "text": "United Kingdom, United Kingdom",
+          "countryCode": "GB",
+          "regionCode": null,
+          "country": "UK",
+          "countryFull": "United Kingdom",
+          "state": "United Kingdom"
+        }
+      },
+      "objectUrn": "1035942403",
+      "registeredAt": "2022-09-01T16:50:20.308Z",
+      "topSkills": [],
+      "connectionsCount": 1141,
+      "followerCount": 1211,
+      "verified": true,
+      "about": null,
+      "currentPosition": [
+        {
+          "position": "Global CTO/Co-Founder",
+          "location": null,
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Smart Working",
+          "companyUniversalName": "smartworkingsolutions",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/smartworkingsolutions/",
+          "companyId": "70469563",
+          "duration": "6 yrs 2 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Aug",
+            "year": 2020,
+            "text": "Aug 2020"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_400_400/company-logo_400_400/0/1725018611800/smartworkingsolutions_logo?e=1791417600&v=beta&t=vzPk9Bj1pHmi2wNYCDGInyjxuga_wfSaOHYxr6ooLSY",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_400_400/company-logo_400_400/0/1725018611800/smartworkingsolutions_logo?e=1791417600&v=beta&t=vzPk9Bj1pHmi2wNYCDGInyjxuga_wfSaOHYxr6ooLSY",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_200_200/company-logo_200_200/0/1725018611800/smartworkingsolutions_logo?e=1791417600&v=beta&t=XKjDjRnoNcHQZoz5_NHwkOs7MpmZW99DD3DlIMtw-T8",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_100_100/company-logo_100_100/0/1725018611800/smartworkingsolutions_logo?e=1791417600&v=beta&t=ZZYU_yitXZ65dSZaDTZPzI-lOS2OBuifGKxgdOwdYEc",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "profileTopEducation": [
+        {
+          "schoolName": "University of Oxford",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/4477/",
+          "schoolId": "4477",
+          "degree": "BA/MEng Computer Science",
+          "fieldOfStudy": null,
+          "period": null,
+          "startDate": null,
+          "endDate": null,
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=n87sFr_N4aj5EWKEm6X4aKYvZXHmOgknUqcfnapXKm0",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=n87sFr_N4aj5EWKEm6X4aKYvZXHmOgknUqcfnapXKm0",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_200_200/company-logo_200_200/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=LnqBGybVBWNfVaSX7TdJ50jeebgUpFRD1yjKpi2URro",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_100_100/company-logo_100_100/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=jp9mAmBS7_4srigi8VZZ-08EPrYSI4RJM18544COlBg",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "profileActions": [],
+      "profilePicture": {
+        "url": "https://media.licdn.com/dms/image/v2/C4E03AQGao2nantlhxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1662118519046?e=1791417600&v=beta&t=wfMiQa1OBB56ImDx5iwiIrVvyf9SL0DzmJviRllykLc",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGao2nantlhxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1662118519046?e=1791417600&v=beta&t=wfMiQa1OBB56ImDx5iwiIrVvyf9SL0DzmJviRllykLc",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGao2nantlhxQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1662118519046?e=1791417600&v=beta&t=p1XjUm9ogY7ICaUeh3chsRP_WZ4H-yzXy2xZ7_BMPfo",
+            "width": 400,
+            "height": 400
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGao2nantlhxQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1662118519046?e=1791417600&v=beta&t=5SWGW69a5HHc5LSHn7o61f6niFxrV1cmp0d-f-dHqvw",
+            "width": 200,
+            "height": 200
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/C4E03AQGao2nantlhxQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1662118519046?e=1791417600&v=beta&t=pMhi5Od7ZYnsrV3ldkcrIpd5nPnURz85BcSbMstjDLM",
+            "width": 100,
+            "height": 100
+          }
+        ]
+      },
+      "coverPicture": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D16AQHAGNtZHp4vYQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ9HrInsHQAY-/0/1783613917924?e=1791417600&v=beta&t=w3P56FycA-zgRpCMG7m_HMg7fkywNFZoL2nxJn2VCAk",
+        "sizes": [
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D16AQHAGNtZHp4vYQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ9HrInsHQAY-/0/1783613917924?e=1791417600&v=beta&t=w3P56FycA-zgRpCMG7m_HMg7fkywNFZoL2nxJn2VCAk",
+            "width": 1400,
+            "height": 350
+          },
+          {
+            "url": "https://media.licdn.com/dms/image/v2/D4D16AQHAGNtZHp4vYQ/profile-displaybackgroundimage-shrink_200_800/B4DZ9HrInsHQAU-/0/1783613917925?e=1791417600&v=beta&t=n-vc-vv8EPNo1waqjjqQWL0EO8VuGWziLumlnuDfvnk",
+            "width": 800,
+            "height": 200
+          }
+        ]
+      },
+      "photo": "https://media.licdn.com/dms/image/v2/C4E03AQGao2nantlhxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1662118519046?e=1791417600&v=beta&t=wfMiQa1OBB56ImDx5iwiIrVvyf9SL0DzmJviRllykLc",
+      "profileLocales": [
+        {
+          "country": "US",
+          "language": "en"
+        }
+      ],
+      "primaryLocale": {
+        "country": "US",
+        "language": "en"
+      },
+      "multiLocaleHeadline": [
+        {
+          "headline": "Global CTO & Co-Founder | Smart Working",
+          "locale": "en_US"
+        }
+      ],
+      "services": null,
+      "experience": [
+        {
+          "position": "Global CTO/Co-Founder",
+          "location": null,
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Smart Working",
+          "companyUniversalName": "smartworkingsolutions",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/smartworkingsolutions/",
+          "companyId": "70469563",
+          "duration": "6 yrs 2 mos",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Aug",
+            "year": 2020,
+            "text": "Aug 2020"
+          },
+          "endDate": {
+            "text": "Present"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_400_400/company-logo_400_400/0/1725018611800/smartworkingsolutions_logo?e=1791417600&v=beta&t=vzPk9Bj1pHmi2wNYCDGInyjxuga_wfSaOHYxr6ooLSY",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_400_400/company-logo_400_400/0/1725018611800/smartworkingsolutions_logo?e=1791417600&v=beta&t=vzPk9Bj1pHmi2wNYCDGInyjxuga_wfSaOHYxr6ooLSY",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_200_200/company-logo_200_200/0/1725018611800/smartworkingsolutions_logo?e=1791417600&v=beta&t=XKjDjRnoNcHQZoz5_NHwkOs7MpmZW99DD3DlIMtw-T8",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQHUxd8kYUsTaQ/company-logo_100_100/company-logo_100_100/0/1725018611800/smartworkingsolutions_logo?e=1791417600&v=beta&t=ZZYU_yitXZ65dSZaDTZPzI-lOS2OBuifGKxgdOwdYEc",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Director of Engineering",
+          "location": "United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Arm",
+          "companyUniversalName": "arm",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/arm/",
+          "companyId": "4472",
+          "duration": "3 yrs 9 mos",
+          "description": null,
+          "skills": null,
+          "experienceGroupId": "e7f98f3d4a56f0a1cb5a5cd2ec9935c85de86347",
+          "startDate": {
+            "month": "Nov",
+            "year": 2016,
+            "text": "Nov 2016"
+          },
+          "endDate": {
+            "month": "Jul",
+            "year": 2020,
+            "text": "Jul 2020"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_400_400/B4EZXss3rjGgAc-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=raGp45yadciNGtx3qDtXaFjUj4-ACPRzaCmZLfjYZxs",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_400_400/B4EZXss3rjGgAc-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=raGp45yadciNGtx3qDtXaFjUj4-ACPRzaCmZLfjYZxs",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_200_200/B4EZXss3rjGgAM-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=9dp26l_AVMSreYi_OouUQ0OjZkwQoi2HkQZD5WL_eWE",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_100_100/B4EZXss3rjGgAU-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=lT--9X7ICi6qANOoWTo7vxnlyEyBVtirA2yYOPz56So",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Engineering Manager",
+          "location": "United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Arm",
+          "companyUniversalName": "arm",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/arm/",
+          "companyId": "4472",
+          "duration": "3 yrs 4 mos",
+          "description": null,
+          "skills": null,
+          "experienceGroupId": "e7f98f3d4a56f0a1cb5a5cd2ec9935c85de86347",
+          "startDate": {
+            "month": "Aug",
+            "year": 2013,
+            "text": "Aug 2013"
+          },
+          "endDate": {
+            "month": "Nov",
+            "year": 2016,
+            "text": "Nov 2016"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_400_400/B4EZXss3rjGgAc-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=raGp45yadciNGtx3qDtXaFjUj4-ACPRzaCmZLfjYZxs",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_400_400/B4EZXss3rjGgAc-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=raGp45yadciNGtx3qDtXaFjUj4-ACPRzaCmZLfjYZxs",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_200_200/B4EZXss3rjGgAM-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=9dp26l_AVMSreYi_OouUQ0OjZkwQoi2HkQZD5WL_eWE",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_100_100/B4EZXss3rjGgAU-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=lT--9X7ICi6qANOoWTo7vxnlyEyBVtirA2yYOPz56So",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Senior Software Engineer",
+          "location": "United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Arm",
+          "companyUniversalName": "arm",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/arm/",
+          "companyId": "4472",
+          "duration": "1 yr 4 mos",
+          "description": null,
+          "skills": null,
+          "experienceGroupId": "e7f98f3d4a56f0a1cb5a5cd2ec9935c85de86347",
+          "startDate": {
+            "month": "May",
+            "year": 2012,
+            "text": "May 2012"
+          },
+          "endDate": {
+            "month": "Aug",
+            "year": 2013,
+            "text": "Aug 2013"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_400_400/B4EZXss3rjGgAc-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=raGp45yadciNGtx3qDtXaFjUj4-ACPRzaCmZLfjYZxs",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_400_400/B4EZXss3rjGgAc-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=raGp45yadciNGtx3qDtXaFjUj4-ACPRzaCmZLfjYZxs",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_200_200/B4EZXss3rjGgAM-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=9dp26l_AVMSreYi_OouUQ0OjZkwQoi2HkQZD5WL_eWE",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_100_100/B4EZXss3rjGgAU-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=lT--9X7ICi6qANOoWTo7vxnlyEyBVtirA2yYOPz56So",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Software Engineer",
+          "location": "United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Arm",
+          "companyUniversalName": "arm",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/arm/",
+          "companyId": "4472",
+          "duration": "3 mos",
+          "description": null,
+          "skills": null,
+          "experienceGroupId": "e7f98f3d4a56f0a1cb5a5cd2ec9935c85de86347",
+          "startDate": {
+            "month": "Feb",
+            "year": 2012,
+            "text": "Feb 2012"
+          },
+          "endDate": {
+            "month": "Apr",
+            "year": 2012,
+            "text": "Apr 2012"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_400_400/B4EZXss3rjGgAc-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=raGp45yadciNGtx3qDtXaFjUj4-ACPRzaCmZLfjYZxs",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_400_400/B4EZXss3rjGgAc-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=raGp45yadciNGtx3qDtXaFjUj4-ACPRzaCmZLfjYZxs",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_200_200/B4EZXss3rjGgAM-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=9dp26l_AVMSreYi_OouUQ0OjZkwQoi2HkQZD5WL_eWE",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQEeZEj_YnYWeg/company-logo_100_100/B4EZXss3rjGgAU-/0/1743432940736/arm_logo?e=1791417600&v=beta&t=lT--9X7ICi6qANOoWTo7vxnlyEyBVtirA2yYOPz56So",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Software Engineer",
+          "location": null,
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Reuters",
+          "companyUniversalName": "reuters",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/reuters/",
+          "companyId": "10256858",
+          "duration": "2 yrs",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Feb",
+            "year": 2010,
+            "text": "Feb 2010"
+          },
+          "endDate": {
+            "month": "Jan",
+            "year": 2012,
+            "text": "Jan 2012"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHFdGrYJBQ58g/company-logo_400_400/company-logo_400_400/0/1736454276245/reuters2_logo?e=1791417600&v=beta&t=XbWUESE7aWiUBOneumDqgxi_PV4MCcqzjuZoimcm0H8",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHFdGrYJBQ58g/company-logo_400_400/company-logo_400_400/0/1736454276245/reuters2_logo?e=1791417600&v=beta&t=XbWUESE7aWiUBOneumDqgxi_PV4MCcqzjuZoimcm0H8",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHFdGrYJBQ58g/company-logo_200_200/company-logo_200_200/0/1736454276245/reuters2_logo?e=1791417600&v=beta&t=nF4heETiolgw_-UW-q5788QRTtpetO5aFA_MS0VSLS8",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQHFdGrYJBQ58g/company-logo_100_100/company-logo_100_100/0/1736454276245/reuters2_logo?e=1791417600&v=beta&t=wp0WydJi3zPFkHFHrPjK6nBT3pf_obf1ldHyZQKNPGw",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Career Break",
+          "location": null,
+          "employmentType": null,
+          "workplaceType": null,
+          "companyUniversalName": null,
+          "companyLinkedinUrl": null,
+          "companyId": null,
+          "duration": "1 yr 1 mo",
+          "description": null,
+          "skills": null,
+          "startDate": {
+            "month": "Feb",
+            "year": 2009,
+            "text": "Feb 2009"
+          },
+          "endDate": {
+            "month": "Feb",
+            "year": 2010,
+            "text": "Feb 2010"
+          },
+          "companyLogo": null
+        },
+        {
+          "position": "Software Engineer",
+          "location": "United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Morgan Stanley",
+          "companyUniversalName": "morgan-stanley",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/morgan-stanley/",
+          "companyId": "497017",
+          "duration": "2 yrs 11 mos",
+          "description": null,
+          "skills": null,
+          "experienceGroupId": "b9e048d251ccf18cd911ccac386351b4b3f0cbf0",
+          "startDate": {
+            "month": "Apr",
+            "year": 2006,
+            "text": "Apr 2006"
+          },
+          "endDate": {
+            "month": "Feb",
+            "year": 2009,
+            "text": "Feb 2009"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1791417600&v=beta&t=5fRn_1AMhxbTZMbTHp7lMSdTS21Cqb6csBA9nZlm6Gs",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1791417600&v=beta&t=5fRn_1AMhxbTZMbTHp7lMSdTS21Cqb6csBA9nZlm6Gs",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_200_200/company-logo_200_200/0/1677778128461/morgan_stanley_logo?e=1791417600&v=beta&t=68zhqqvfGcdgagk9iAb5vC_upSNOdyM9gY3iSCFuQzM",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=1791417600&v=beta&t=dGk_3VVBdNVqjj2f5jUrMsknbQOgwnXzKjsmLbsb57k",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        },
+        {
+          "position": "Junior Software Engineer",
+          "location": "United Kingdom",
+          "employmentType": "Full-time",
+          "workplaceType": null,
+          "companyName": "Morgan Stanley",
+          "companyUniversalName": "morgan-stanley",
+          "companyLinkedinUrl": "https://www.linkedin.com/company/morgan-stanley/",
+          "companyId": "497017",
+          "duration": "2 yrs 9 mos",
+          "description": null,
+          "skills": null,
+          "experienceGroupId": "b9e048d251ccf18cd911ccac386351b4b3f0cbf0",
+          "startDate": {
+            "month": "Aug",
+            "year": 2003,
+            "text": "Aug 2003"
+          },
+          "endDate": {
+            "month": "Apr",
+            "year": 2006,
+            "text": "Apr 2006"
+          },
+          "companyLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1791417600&v=beta&t=5fRn_1AMhxbTZMbTHp7lMSdTS21Cqb6csBA9nZlm6Gs",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1791417600&v=beta&t=5fRn_1AMhxbTZMbTHp7lMSdTS21Cqb6csBA9nZlm6Gs",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_200_200/company-logo_200_200/0/1677778128461/morgan_stanley_logo?e=1791417600&v=beta&t=68zhqqvfGcdgagk9iAb5vC_upSNOdyM9gY3iSCFuQzM",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=1791417600&v=beta&t=dGk_3VVBdNVqjj2f5jUrMsknbQOgwnXzKjsmLbsb57k",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "education": [
+        {
+          "schoolName": "University of Oxford",
+          "description": null,
+          "insights": null,
+          "skills": null,
+          "schoolLinkedinUrl": "https://www.linkedin.com/company/4477/",
+          "schoolId": "4477",
+          "degree": "BA/MEng Computer Science",
+          "fieldOfStudy": null,
+          "period": null,
+          "startDate": null,
+          "endDate": null,
+          "schoolLogo": {
+            "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=n87sFr_N4aj5EWKEm6X4aKYvZXHmOgknUqcfnapXKm0",
+            "sizes": [
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=n87sFr_N4aj5EWKEm6X4aKYvZXHmOgknUqcfnapXKm0",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_200_200/company-logo_200_200/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=LnqBGybVBWNfVaSX7TdJ50jeebgUpFRD1yjKpi2URro",
+                "width": 200,
+                "height": 200
+              },
+              {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_100_100/company-logo_100_100/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=jp9mAmBS7_4srigi8VZZ-08EPrYSI4RJM18544COlBg",
+                "width": 100,
+                "height": 100
+              }
+            ]
+          }
+        }
+      ],
+      "certifications": [],
+      "projects": [],
+      "volunteering": [],
+      "receivedRecommendations": [],
+      "skills": [],
+      "publications": [],
+      "courses": [],
+      "patents": [],
+      "honorsAndAwards": [],
+      "languages": [],
+      "organizations": [],
+      "causes": [],
+      "featured": null,
+      "composeOptionType": "UPSELL",
+      "moreProfiles": [],
+      "sectionTotals": {
+        "experience": 9,
+        "education": 1,
+        "certifications": 0,
+        "receivedRecommendations": 0,
+        "skills": 0,
+        "courses": 0,
+        "languages": 0,
+        "projects": 0,
+        "volunteering": 0,
+        "publications": 0,
+        "patents": 0,
+        "organizations": 0,
+        "honorsAndAwards": 0,
+        "causes": 0
+      },
+      "interests": [
+        {
+          "interestName": "Top Voices",
+          "elements": [
+            {
+              "title": "Anton Osika",
+              "subtitle": "building the last piece of software",
+              "link": "https://www.linkedin.com/in/antonosika",
+              "caption": "198,333 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFnZsk4NC1UAA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704969625787?e=1791417600&v=beta&t=p3Uitv7BqLxmRxnqzmCB28j7EBdwgXDyKbTV_iXS4DQ"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Companies",
+          "elements": [
+            {
+              "title": "University of Oxford",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/4477/",
+              "caption": "1,608,601 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=n87sFr_N4aj5EWKEm6X4aKYvZXHmOgknUqcfnapXKm0"
+              }
+            },
+            {
+              "title": "LinkedIn News",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/company/11280505/",
+              "caption": "19,478,193 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4D0BAQFrZUpHW0-kqg/company-logo_400_400/B4DZhch1nFGgAk-/0/1753899031312/linkedin_news_logo?e=1791417600&v=beta&t=FEKmWLg5Er5pOOra8mZuM2O73QvEFGtp3a0hrFZ8fGw"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Groups",
+          "elements": [
+            {
+              "title": "International Women in Tech ",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/groups/13789428",
+              "caption": "8,510 members",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/C4E07AQGPCP27fk8ScQ/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1631001311539?e=1790535600&v=beta&t=fWyQym9A3Q047rRbH2kAJtHiT5XStSm1djWSxaUK28E"
+              }
+            }
+          ]
+        },
+        {
+          "interestName": "Schools",
+          "elements": [
+            {
+              "title": "University of Oxford",
+              "subtitle": null,
+              "link": "https://www.linkedin.com/school/4477/",
+              "caption": "1,608,601 followers",
+              "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1791417600&v=beta&t=n87sFr_N4aj5EWKEm6X4aKYvZXHmOgknUqcfnapXKm0"
+              }
+            }
+          ]
+        }
+      ],
+      "openProfile": false,
+      "_meta": {
+        "pagination": {
+          "totalElements": 800556,
+          "totalPages": 100,
+          "pageNumber": 1,
+          "previousElements": 0,
+          "pageSize": 25
+        },
+        "scrapedAt": "2026-09-20T18:25:41.680Z"
+      },
+      "profileIdInSearch": "ACwAAD2_OgMB0ebbWB4GzVgpiiRS7syulhbojDs"
+    }
+  ]
+}

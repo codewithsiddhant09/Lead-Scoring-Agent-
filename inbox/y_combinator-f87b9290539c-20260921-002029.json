@@ -1,0 +1,66 @@
+{
+  "run_token": "f87b9290539c",
+  "actor_name": "y_combinator",
+  "actor_id": "CIHbQb2sgYrumBIIJ",
+  "apify_run_id": "f4YsKwY9Yi4NfpZ0A",
+  "started_at": 994963.968,
+  "finished_at": 995143.015,
+  "item_count": 1,
+  "scoring_version": "1.0.0",
+  "score_summary": {
+    "Hot": 0,
+    "Hot-leaning Warm": 0,
+    "Warm": 0,
+    "Cold": 1
+  },
+  "items": [
+    {
+      "jobId": "100634",
+      "title": "Applications Engineer - San Francisco",
+      "url": "https://www.workatastartup.com/jobs/100634",
+      "companyName": "Polymath Robotics",
+      "companySlug": "polymath-robotics",
+      "companyUrl": "https://www.workatastartup.com/companies/polymath-robotics",
+      "companyTagline": "General Autonomy for Industrial Vehicles",
+      "ycBatch": "S22",
+      "jobType": "Full-time",
+      "roleCategory": "Engineering",
+      "roleSubcategory": "Robotics",
+      "salaryRange": "$113K - $150K",
+      "salaryMin": 113000,
+      "salaryMax": 150000,
+      "salaryCurrency": "USD",
+      "equity": "0.03% - 0.06%",
+      "location": "San Francisco, CA, US",
+      "postedAgo": "",
+      "applyUrl": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fcode%3D228d3665-7990-4a9c-8a9b-a1ee814d0406%26signup_job_id%3D100634&defaults%5Bemail%5D=search-093fa36708161c72%40placeholder.workatastartup.com&defaults%5Bfirst_name%5D&defaults%5Blast_name%5D&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=27361",
+      "experience": "1+ years",
+      "visaSponsorship": "Will sponsor",
+      "description": "Overview Polymath builds autonomy software for industrial off-road vehicles — wheel loaders, haul trucks, excavators — deployed at steel mills, mines, and farm. These are different vehicles, in different operational design domains, and different customer environments. That diversity is the challenge: the only way to make bringing up autonomy on vehicle #40 faster than vehicle #4 is to treat autonomy bringup as a system you're continuously improving instead of a checklist re-run by hand every time. We're looking for someone who is passionate about automation, treats every manual step as an opportunity to improve the process, and can move fluidly between robotics fundamentals (perception, controls, navigation) and the systems-design thinking that makes those fundamentals scale across vehicle types and environments. Every week, everyone on this team answers — what did you find that was slow, unclear, or manual, and what did you fix or automate. Individually small. Compounded across a team working on many programs, it's the difference between bringup staying a bottleneck or becoming a solved problem. Responsibilities Own vehicle bringup end-to-end across all three phases — simulation (vehicle model, HAL config, sensor coverage), bench (networking, connectivity, load testing), and on-vehicle (teleop through waypoint autonomy with a safety driver). Build and extend automated test suites — navigation tests, sensor coverage tests, integrator tests — that auto-generate issues on failure instead of requiring manual triage. Find the reusable pattern in every one-off. When a client or integrator asks for something specific, the role requires solving it once and making it available to the next 10 vehicles. Support integrators and customers on-site and remotely during bench and vehicle-testing phases — validate sensor placement against physical reality, debug on the spot or remotely via logs/ROS bags, and document what's on the on-site coverage map. Communicate directly with clients and integrators — Learn about, engage with, and educate customers on various areas of robotics including perception, controls, behavior, path planning, obstacle detection, tracking, and avoidance. Align expectations on what features cover their use case, prepare technical proposals, and explain what we can and can't do today. Contribute to our ROS2 architecture where there is a gap, especially where fixing it once removes a recurring manual step across programs. Travel — is a part of the job, both for sales meetings and onsite technical support, though we try to minimize it as an organization. Qualifications Strong in one or more of: C++, Python, ROS/ROS2, systems architecture, or test automation frameworks. Prior hands-on experience with robots or autonomous systems — not simulation-only. Evidence you've automated or systematized a manual process before, on any team, in any language. Comfortable being the person who flags a fragile pattern before it becomes a recurring failure. Strong remote debugging skills — able to diagnose issues on a vehicle or integrator setup you can't physically touch, working from logs, ROS bags, and remote sessions, and knowing when an issue genuinely requires being on-site vs. when it doesn't. Comfortable communicating directly with clients and integrators — aligning on requirements, explaining what the system can and can't do today, and translating customer intent into engineering criteria. Excellent written communication — you'll be documenting test coverage, handoff criteria, technical proposals, and integration improvements. Why Join Polymath Robotics? Collaborative Environment: Work alongside fantastic team members on collaborative projects Hybrid Workplace: Enjoy the flexibility of a hybrid work model, with engineering based in our SF Mission office three days a week, giving a good balance of maker time and synchronization time. Open Source Advocacy: We strongly support open-source robotics efforts, allowing your work to be shareable and publishable whenever possible. Humor &amp; Passion: We might occasionally be a bunch of rosbags, but our passion and humor drive us to accelerate the realization of autonomous vehicles in the industry. Application Process: Interested candidates are invited to submit their resume, and optionally a cover letter detailing their experience and interest in the role, and any relevant portfolio or project links. As part of your application, answer this: Describe a manual or repetitive process you automated or systematized — at any job, on any scale. What was the process before, what did you build, and how did you get the rest of your team to actually adopt it? Polymath Robotics is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We don’t look for a “cultural fit”, we look for people who add to the culture.",
+      "descriptionHtml": "<h3>Overview</h3>\n<p>Polymath builds autonomy software for industrial off-road vehicles — wheel loaders, haul trucks, excavators — deployed at steel mills, mines, and farm. These are different vehicles, in different operational design domains, and different customer environments. That diversity is the challenge: the only way to make bringing up autonomy on vehicle #40 faster than vehicle #4 is to treat autonomy bringup as a system you're continuously improving instead of a checklist re-run by hand every time.</p>\n<p>We're looking for someone who is passionate about automation, treats every manual step as an opportunity to improve the process, and can move fluidly between robotics fundamentals (perception, controls, navigation) and the systems-design thinking that makes those fundamentals scale across vehicle types and environments. Every week, everyone on this team answers — what did you find that was slow, unclear, or manual, and what did you fix or automate. Individually small. Compounded across a team working on many programs, it's the difference between bringup staying a bottleneck or becoming a solved problem.</p>\n<h3>Responsibilities</h3>\n<ol>\n<li>\n<strong>Own vehicle bringup end-to-end</strong> across all three phases — simulation (vehicle model, HAL config, sensor coverage), bench (networking, connectivity, load testing), and on-vehicle (teleop through waypoint autonomy with a safety driver).</li>\n<li>\n<strong>Build and extend automated test suites</strong> — navigation tests, sensor coverage tests, integrator tests — that auto-generate issues on failure instead of requiring manual triage.</li>\n<li>\n<strong>Find the reusable pattern in every one-off.</strong> When a client or integrator asks for something specific, the role requires solving it once and making it available to the next 10 vehicles.</li>\n<li>\n<strong>Support integrators and customers on-site and remotely</strong> during bench and vehicle-testing phases — validate sensor placement against physical reality, debug on the spot or remotely via logs/ROS bags, and document what's on the on-site coverage map.</li>\n<li>\n<strong>Communicate directly with clients and integrators</strong> — Learn about, engage with, and educate customers on various areas of robotics including perception, controls, behavior, path planning, obstacle detection, tracking, and avoidance. Align expectations on what features cover their use case, prepare technical proposals, and explain what we can and can't do today.</li>\n<li>\n<strong>Contribute to our ROS2 architecture</strong> where there is a gap, especially where fixing it once removes a recurring manual step across programs.</li>\n<li>\n<strong>Travel</strong> — is a part of the job, both for sales meetings and onsite technical support, though we try to minimize it as an organization.</li>\n</ol>\n<h3>Qualifications</h3>\n<ul>\n<li>Strong in one or more of: C++, Python, ROS/ROS2, systems architecture, or test automation frameworks.</li>\n<li>Prior hands-on experience with robots or autonomous systems — not simulation-only.</li>\n<li>Evidence you've automated or systematized a manual process before, on any team, in any language.</li>\n<li>Comfortable being the person who flags a fragile pattern before it becomes a recurring failure.</li>\n<li>Strong remote debugging skills — able to diagnose issues on a vehicle or integrator setup you can't physically touch, working from logs, ROS bags, and remote sessions, and knowing when an issue genuinely requires being on-site vs. when it doesn't.</li>\n<li>Comfortable communicating directly with clients and integrators — aligning on requirements, explaining what the system can and can't do today, and translating customer intent into engineering criteria.</li>\n<li>Excellent written communication — you'll be documenting test coverage, handoff criteria, technical proposals, and integration improvements.</li>\n</ul>\n<h3>Why Join Polymath Robotics?</h3>\n<ul>\n<li>Collaborative Environment: Work alongside fantastic team members on collaborative projects</li>\n<li>Hybrid Workplace: Enjoy the flexibility of a hybrid work model, with engineering based in our SF Mission office three days a week, giving a good balance of maker time and synchronization time.</li>\n<li>Open Source Advocacy: We strongly support open-source robotics efforts, allowing your work to be shareable and publishable whenever possible.</li>\n<li>Humor &amp; Passion: We might occasionally be a bunch of rosbags, but our passion and humor drive us to accelerate the realization of autonomous vehicles in the industry.</li>\n</ul>\n<h3>Application Process:</h3>\n<p>Interested candidates are invited to submit their resume, and optionally a cover letter detailing their experience and interest in the role, and any relevant portfolio or project links. As part of your application, answer this:</p>\n<blockquote>\n<p><strong>Describe a manual or repetitive process you automated or systematized — at any job, on any scale. What was the process before, what did you build, and how did you get the rest of your team to actually adopt it?</strong></p>\n</blockquote>\n<p>Polymath Robotics is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We don’t look for a “cultural fit”, we look for people who add to the culture.</p>\n",
+      "companyDescription": "General Autonomy for Industrial Vehicles",
+      "companyFounded": 2021,
+      "companyTeamSize": 25,
+      "companyStatus": "Active",
+      "companyLocation": "San Francisco",
+      "companyIndustry": "Industrials -> Manufacturing and Robotics",
+      "companyLogo": "https://bookface-images.s3.amazonaws.com/small_logos/0d6f5a2035d19900b2a4411b03d2c1998b0aaa5e.png",
+      "companyWebsite": "http://www.polymathrobotics.com",
+      "founders": [
+        {
+          "name": "Ilia Baranov",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/c64fc8a7f715908988488379782f0e67bf6d8b88.jpg"
+        },
+        {
+          "name": "Stefan Seltz-Axmacher",
+          "role": "Founder",
+          "avatarUrl": "https://bookface-images.s3.amazonaws.com/avatars/3a976b8c7814c0a2985a3b21bdfae3f0e1cf5fd0.jpg"
+        }
+      ],
+      "scrapedAt": "2026-09-20T18:48:46.609989+00:00",
+      "interviewProcess": "Ideally we want to get through this process in 1 week, 2 worst case : Intro call - 30 mins on Zoom Technical Interview - 1 hr on Zoom or in person Team Meet &amp; Great - 1 hr in person, usually around lunch Can be combined with Technical Interview Founders Call - 30 mins on Zoom or in person",
+      "skills": []
+    }
+  ]
+}

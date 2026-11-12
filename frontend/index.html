@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en" data-theme="system">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TechGropse Lead Scoring</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js" defer></script>
+  <script src="/static/app.js?v=excel-preview-4" type="module" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">TG</span>
+      <div class="brand-text">
+        <h1>Lead Scoring</h1>
+        <p class="subtitle">Multi-axis AI scoring &amp; outreach queue</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <div class="search">
+        <input id="search" type="search" placeholder="Search name, company, headline…" aria-label="Search leads" />
+      </div>
+      <input id="upload-file" type="file" accept=".xlsx,.xls,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.ms-excel" hidden />
+      <label id="upload-btn" class="btn btn-secondary upload-button" for="upload-file" tabindex="0" role="button" aria-label="Choose an Excel workbook">
+        <span class="icon">↑</span><span>Choose Excel</span>
+      </label>
+      <span id="upload-status" class="upload-status" role="status" aria-live="polite">No file selected</span>
+      <button id="refresh" class="btn btn-ghost" aria-label="Refresh data">
+        <span class="icon">⟳</span><span>Refresh</span>
+      </button>
+      <button id="export" class="btn btn-ghost" aria-label="Export to Excel">
+        <span class="icon">↓</span><span>Export .xlsx</span>
+      </button>
+      <div class="theme-toggle" role="group" aria-label="Theme">
+        <button data-theme="light" class="theme-btn" aria-pressed="false" title="Light">☀</button>
+        <button data-theme="dark" class="theme-btn" aria-pressed="false" title="Dark">☾</button>
+        <button data-theme="system" class="theme-btn active" aria-pressed="true" title="System">◐</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- KPI strip -->
+    <section class="kpi-row" aria-label="Key metrics">
+      <article class="kpi" data-tier="all">
+        <span class="kpi-label">Total leads</span>
+        <span class="kpi-value" id="kpi-total">—</span>
+        <span class="kpi-foot" id="kpi-total-foot">latest run</span>
+      </article>
+      <article class="kpi" data-tier="Hot">
+        <span class="kpi-label"><span class="dot dot-hot"></span>Hot</span>
+        <span class="kpi-value" id="kpi-hot">—</span>
+        <span class="kpi-foot" id="kpi-hot-foot">ready for outreach</span>
+      </article>
+      <article class="kpi" data-tier="Hot-leaning Warm">
+        <span class="kpi-label"><span class="dot dot-hlw"></span>Hot-leaning Warm</span>
+        <span class="kpi-value" id="kpi-hlw">—</span>
+        <span class="kpi-foot" id="kpi-hlw-foot">priority queue</span>
+      </article>
+      <article class="kpi" data-tier="Warm">
+        <span class="kpi-label"><span class="dot dot-warm"></span>Warm</span>
+        <span class="kpi-value" id="kpi-warm">—</span>
+        <span class="kpi-foot" id="kpi-warm-foot">manual review</span>
+      </article>
+      <article class="kpi" data-tier="Cold">
+        <span class="kpi-label"><span class="dot dot-cold"></span>Cold</span>
+        <span class="kpi-value" id="kpi-cold">—</span>
+        <span class="kpi-foot" id="kpi-cold-foot">excluded</span>
+      </article>
+    </section>
+
+    <!-- Filter bar -->
+    <section class="filter-bar" aria-label="Filters">
+      <div class="filter-group" role="group" aria-label="Tier filter">
+        <button class="chip chip-active" data-filter-tier="all">All</button>
+        <button class="chip" data-filter-tier="Hot">Hot</button>
+        <button class="chip" data-filter-tier="Hot-leaning Warm">Hot-leaning Warm</button>
+        <button class="chip" data-filter-tier="Warm">Warm</button>
+        <button class="chip" data-filter-tier="Cold">Cold</button>
+      </div>
+      <div class="filter-group" role="group" aria-label="Competitor filter">
+        <label class="switch">
+          <input type="checkbox" id="hide-competitors" />
+          <span class="switch-track"><span class="switch-thumb"></span></span>
+          <span class="switch-label">Hide competitors</span>
+        </label>
+      </div>
+      <div class="filter-group" role="group" aria-label="Sort">
+        <label class="select">
+          <span class="select-label">Sort by</span>
+          <select id="sort">
+            <option value="blended_desc">Blended ↓</option>
+            <option value="blended_asc">Blended ↑</option>
+            <option value="scored_desc">Recently scored</option>
+            <option value="name_asc">Name A→Z</option>
+          </select>
+        </label>
+      </div>
+      <div class="filter-spacer"></div>
+      <div class="filter-group meta" id="last-updated">Loading…</div>
+    </section>
+
+    <!-- Upload preview -->
+    <section id="upload-preview-card" class="card table-card upload-preview-card" hidden>
+      <header class="card-head row">
+        <div>
+          <h2>Selected Excel data</h2>
+          <p class="card-sub" id="upload-preview-count">Preview</p>
+        </div>
+        <span class="upload-status" id="upload-preview-file"></span>
+      </header>
+      <div class="table-scroll">
+        <table id="upload-preview-table">
+          <thead id="upload-preview-head"></thead>
+          <tbody id="upload-preview-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Charts -->
+    <section class="charts">
+      <article class="card chart-card">
+        <header class="card-head">
+          <h2>Leads by tier</h2>
+          <p class="card-sub">Latest score per lead</p>
+        </header>
+        <div class="chart-wrap">
+          <canvas id="chart-tiers" aria-label="Leads by tier bar chart"></canvas>
+        </div>
+      </article>
+
+      <article class="card chart-card">
+        <header class="card-head">
+          <h2>Reply &amp; conversion by tier</h2>
+          <p class="card-sub">From <code>/api/analytics/by-tier</code></p>
+        </header>
+        <div class="chart-wrap">
+          <canvas id="chart-rates" aria-label="Reply and conversion rates by tier"></canvas>
+        </div>
+      </article>
+
+      <article class="card chart-card span-2">
+        <header class="card-head">
+          <h2>Blended score distribution</h2>
+          <p class="card-sub">Each lead's latest blended score, bucketed in 10s</p>
+        </header>
+        <div class="chart-wrap chart-wrap-tall">
+          <canvas id="chart-hist" aria-label="Blended score histogram"></canvas>
+        </div>
+      </article>
+    </section>
+
+    <!-- Lead table -->
+    <section class="card table-card">
+      <header class="card-head row">
+        <div>
+          <h2>Leads</h2>
+          <p class="card-sub" id="table-count">0 leads</p>
+        </div>
+        <div class="table-actions">
+          <button class="btn btn-secondary" id="outreach-btn">
+            <span class="icon">→</span><span>View outreach queue</span>
+          </button>
+        </div>
+      </header>
+
+      <div class="table-scroll">
+        <table id="lead-table">
+          <thead>
+            <tr>
+              <th>Lead</th>
+              <th>Company</th>
+              <th>Industry</th>
+              <th class="num">Auth</th>
+              <th class="num">Fit</th>
+              <th class="num">Intent</th>
+              <th class="num">Reach</th>
+              <th class="num">Blended</th>
+              <th>Tier</th>
+              <th>Scored</th>
+            </tr>
+          </thead>
+          <tbody id="lead-tbody">
+            <tr><td colspan="10" class="empty">Loading…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Review queue -->
+    <section class="card table-card">
+      <header class="card-head">
+        <h2>Needs review <span class="pill" id="review-count">0</span></h2>
+        <p class="card-sub">Re-scores that flipped tier — surface to a human before changing outreach</p>
+      </header>
+      <div class="table-scroll">
+        <table id="review-table">
+          <thead>
+            <tr><th>Lead</th><th>Previous</th><th>New</th><th>Reason</th><th>Created</th></tr>
+          </thead>
+          <tbody id="review-tbody">
+            <tr><td colspan="5" class="empty">Loading…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <!-- Lead detail drawer -->
+  <aside id="drawer" class="drawer" aria-hidden="true">
+    <div class="drawer-panel" role="dialog" aria-label="Lead detail">
+      <button class="drawer-close" aria-label="Close detail">×</button>
+      <div id="drawer-content">Loading…</div>
+    </div>
+    <div class="drawer-scrim" data-drawer-close></div>
+  </aside>
+
+  <!-- Toast -->
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
